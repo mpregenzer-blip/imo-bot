@@ -1,0 +1,32 @@
+{
+  "_hinweis": "Erwartete Kaltmiete zur automatischen Schaetzung. Halbjaehrlich pruefen, pro Objekt ueberschreibbar.",
+  "stand": "2026-07",
+  "vorsorge_eur_pro_qm": {
+    "_quelle": "Marktberichte 2025/26 (ohne-makler.at, ImmoScout24)",
+    "Hall in Tirol": 13.0, "Rum": 13.0, "Voels": 13.0, "Wattens": 12.0, "Zirl": 12.0,
+    "Kematen": 12.0, "Axams": 11.0, "Telfs": 11.0, "Schwaz": 11.0, "Absam": 12.5,
+    "Mils": 12.5, "Aldrans": 12.0, "Natters": 12.0, "Mutters": 12.0, "Goetzens": 11.5,
+    "Zams": 11.5, "Landeck": 11.5, "Fliess": 10.5, "Pfunds": 10.0, "Kappl": 10.0,
+    "_standard": 11.0
+  },
+  "studenten_eur_pro_qm": {
+    "_quelle": "ohne-makler.at Mietspiegel Innsbruck 2026: <40 m2 ~23,5 EUR/m2, 40-90 m2 ~21,8 EUR/m2. Konservativ (erzielbare Kaltmiete moebliert/unmoebliert) angesetzt.",
+    "Innsbruck <40 m2": 20.0,
+    "Innsbruck 40-90 m2": 17.0,
+    "Innsbruck Umland": 14.0,
+    "_standard": 18.0,
+    "_moeblierungs_aufschlag_prozent": 15
+  },
+  "mitarbeiter": {
+    "_hinweis": "SCHAETZUNG - Datenlage duenn. Zwei Betrachtungen: (a) Miete an einen Betrieb fuer die ganze Einheit, (b) EUR pro Bett als Kennzahl. Vor Kaufentscheidung mit realen Angeboten und moeglichen Betriebs-Rahmenvertraegen abgleichen.",
+    "eur_pro_qm": {
+      "Fiss": 13.5, "Serfaus": 13.5, "Ladis": 12.5, "Ried im Oberinntal": 11.0,
+      "Prutz": 10.5, "Pfunds": 10.0, "St. Anton am Arlberg": 15.0, "Pettneu": 12.0,
+      "_standard": 12.0
+    },
+    "eur_pro_bett_richtwert_monat": {
+      "_hinweis": "Nur Orientierung fuer die EUR/Bett-Kennzahl im Dashboard.",
+      "min": 250, "typisch": 350, "max": 500
+    }
+  }
+}
