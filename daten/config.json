@@ -1,0 +1,41 @@
+{
+  "_hinweis": "Zentrale Parameter. Alles hier ist einstellbar. Keine Steuer-/Finanzberatung.",
+  "stand": "2026-07-10",
+  "defaults": {
+    "eigenkapital": 150000,
+    "zinssatz": 3.4,
+    "laufzeit_jahre": 25,
+    "grundanteil_prozent": 40,
+    "mindest_bruttorendite": 4.0,
+    "grenzsteuersatz": 42,
+    "steuer_ansicht": true
+  },
+  "nebenkosten": {
+    "grunderwerbsteuer": 3.5,
+    "grundbuch": 1.1,
+    "notar_ca": 1.5,
+    "maklerprovision": 3.6,
+    "_summe_privat": 6.1,
+    "_summe_mit_makler": 9.7,
+    "_hinweis": "Saetze 2026 mit Notar/Steuerberater gegenpruefen (siehe Struktur-Datei Abschnitt 6)."
+  },
+  "afa": {
+    "regel_prozent": 1.5,
+    "beschleunigt_jahr1": 4.5,
+    "beschleunigt_jahr2": 3.0,
+    "beschleunigt_ab_jahr3": 1.5,
+    "klimaaktiv_bronze_jahr1_3": 4.5,
+    "_rechtsgrundlage": "Par 8 Abs 1a EStG (Betrieb) bzw Par 16 Abs 1 Z 8 lit e EStG (Privat)"
+  },
+  "prognose": {
+    "leerstand_prozent": 8,
+    "mietindexierung_prozent": 2,
+    "instandhaltung_pro_qm_monat": 1.0,
+    "liebhaberei_prognosezeitraum_jahre": 25
+  },
+  "score_gewichte": {
+    "lage": 0.40,
+    "rendite": 0.35,
+    "cashflow": 0.25
+  }
+}
