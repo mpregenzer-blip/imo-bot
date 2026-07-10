@@ -1,0 +1,38 @@
+name: IMO Radar – täglicher Abruf
+
+on:
+  schedule:
+    - cron: "0 4 * * *"    # 04:00 UTC = 06:00 Sommer / 05:00 Winter – Hauptlauf (Dashboard frisch am Morgen)
+    - cron: "0 11 * * *"   # 11:00 UTC = 13:00 Sommer / 12:00 Winter – Mittags-Alarm (nur neue Inserate)
+  workflow_dispatch:        # Knopf für manuellen Start
+
+permissions:
+  contents: write
+
+jobs:
+  abruf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Abhängigkeiten
+        run: pip install -r parser/requirements.txt
+      - name: Parser ausführen
+        env:
+          IMAP_HOST: imap.gmail.com
+          IMAP_USER: ${{ secrets.IMAP_USER }}
+          IMAP_PASS: ${{ secrets.IMAP_PASS }}
+          ALERT_TO:  ${{ secrets.ALERT_TO }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+        run: python parser/parser.py
+      - name: Änderungen committen
+        run: |
+          git config user.name "imo-bot"
+          git config user.email "imo-bot@users.noreply.github.com"
+          git add daten/objekte.json
+          git diff --staged --quiet || git commit -m "Radar-Update $(date -u +%F_%H:%M)"
+          git push
