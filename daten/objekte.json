@@ -1,0 +1,272 @@
+[
+ {
+  "id": "v1",
+  "kat": "vorsorge",
+  "titel": "2-Zi ETW Schönegg",
+  "ort": "Hall in Tirol",
+  "plz": "6060",
+  "kaufpreis": 285000,
+  "qm": 52,
+  "zimmer": 2,
+  "baujahr": 1998,
+  "miete": 676,
+  "makler": true,
+  "einheiten": 14,
+  "tage_online": 53,
+  "preissenkung": false,
+  "freizeit": "nein",
+  "hist": [
+   {
+    "d": "2026-05-15",
+    "p": 295000
+   },
+   {
+    "d": "2026-06-20",
+    "p": 285000
+   }
+  ],
+  "lage": {
+   "ruhe": 78,
+   "schule": 82,
+   "nahversorgung": 70,
+   "oeffi": 74,
+   "natur": 80
+  },
+  "link": "https://www.willhaben.at/",
+  "quelle": "Beispiel"
+ },
+ {
+  "id": "v2",
+  "kat": "vorsorge",
+  "titel": "3-Zi Wohnung mit Terrasse",
+  "ort": "Zams",
+  "plz": "6511",
+  "kaufpreis": 339000,
+  "qm": 79,
+  "zimmer": 3,
+  "baujahr": 2016,
+  "miete": 1010,
+  "makler": false,
+  "einheiten": 8,
+  "tage_online": 6,
+  "preissenkung": false,
+  "freizeit": "nein",
+  "hist": [
+   {
+    "d": "2026-07-04",
+    "p": 339000
+   }
+  ],
+  "lage": {
+   "ruhe": 84,
+   "schule": 76,
+   "nahversorgung": 72,
+   "oeffi": 66,
+   "natur": 88
+  },
+  "link": "https://www.willhaben.at/",
+  "quelle": "Beispiel"
+ },
+ {
+  "id": "v3",
+  "kat": "vorsorge",
+  "titel": "2-Zi Gartenwohnung",
+  "ort": "Telfs",
+  "plz": "6410",
+  "kaufpreis": 259000,
+  "qm": 58,
+  "zimmer": 2,
+  "baujahr": 2009,
+  "miete": 715,
+  "makler": false,
+  "einheiten": 6,
+  "tage_online": 97,
+  "preissenkung": true,
+  "freizeit": "offen",
+  "hist": [
+   {
+    "d": "2026-04-02",
+    "p": 279000
+   },
+   {
+    "d": "2026-06-28",
+    "p": 259000
+   }
+  ],
+  "lage": {
+   "ruhe": 80,
+   "schule": 78,
+   "nahversorgung": 80,
+   "oeffi": 82,
+   "natur": 70
+  },
+  "link": "https://www.willhaben.at/",
+  "quelle": "Beispiel"
+ },
+ {
+  "id": "s1",
+  "kat": "studenten",
+  "titel": "1-Zi Mikroapartment",
+  "ort": "Innsbruck · Wilten",
+  "plz": "6020",
+  "kaufpreis": 189000,
+  "qm": 28,
+  "zimmer": 1,
+  "baujahr": 2019,
+  "miete": 640,
+  "makler": true,
+  "einheiten": 22,
+  "tage_online": 12,
+  "preissenkung": false,
+  "freizeit": "nein",
+  "hist": [
+   {
+    "d": "2026-06-28",
+    "p": 189000
+   }
+  ],
+  "lage": {
+   "uni": 94,
+   "oeffi": 90,
+   "ausgehen": 88,
+   "nahversorgung": 82
+  },
+  "link": "https://www.willhaben.at/",
+  "quelle": "Beispiel"
+ },
+ {
+  "id": "s2",
+  "kat": "studenten",
+  "titel": "2-Zi Altbau saniert",
+  "ort": "Innsbruck · Hötting",
+  "plz": "6020",
+  "kaufpreis": 279000,
+  "qm": 44,
+  "zimmer": 2,
+  "baujahr": 1952,
+  "miete": 880,
+  "makler": true,
+  "einheiten": 9,
+  "tage_online": 34,
+  "preissenkung": false,
+  "freizeit": "nein",
+  "hist": [
+   {
+    "d": "2026-06-06",
+    "p": 289000
+   },
+   {
+    "d": "2026-06-30",
+    "p": 279000
+   }
+  ],
+  "lage": {
+   "uni": 80,
+   "oeffi": 84,
+   "ausgehen": 78,
+   "nahversorgung": 76
+  },
+  "link": "https://www.willhaben.at/",
+  "quelle": "Beispiel"
+ },
+ {
+  "id": "m1",
+  "kat": "mitarbeiter",
+  "titel": "4-Zi Wohnung Ortszentrum",
+  "ort": "Fiss",
+  "plz": "6533",
+  "kaufpreis": 445000,
+  "qm": 96,
+  "zimmer": 4,
+  "baujahr": 2012,
+  "miete": 1450,
+  "makler": false,
+  "einheiten": 5,
+  "tage_online": 21,
+  "preissenkung": false,
+  "freizeit": "nein",
+  "betten": 6,
+  "hist": [
+   {
+    "d": "2026-06-19",
+    "p": 445000
+   }
+  ],
+  "lage": {
+   "arbeitsweg": 95,
+   "dorfleben": 88,
+   "oeffi": 80,
+   "nahversorgung": 82
+  },
+  "link": "https://www.willhaben.at/",
+  "quelle": "Beispiel"
+ },
+ {
+  "id": "m2",
+  "kat": "mitarbeiter",
+  "titel": "3-Zi im Dorf, Nähe Lifte",
+  "ort": "Serfaus",
+  "plz": "6534",
+  "kaufpreis": 389000,
+  "qm": 78,
+  "zimmer": 3,
+  "baujahr": 2005,
+  "miete": 1150,
+  "makler": true,
+  "einheiten": 12,
+  "tage_online": 44,
+  "preissenkung": true,
+  "freizeit": "nein",
+  "betten": 4,
+  "hist": [
+   {
+    "d": "2026-05-10",
+    "p": 410000
+   },
+   {
+    "d": "2026-06-25",
+    "p": 389000
+   }
+  ],
+  "lage": {
+   "arbeitsweg": 90,
+   "dorfleben": 84,
+   "oeffi": 78,
+   "nahversorgung": 74
+  },
+  "link": "https://www.willhaben.at/",
+  "quelle": "Beispiel"
+ },
+ {
+  "id": "m3",
+  "kat": "mitarbeiter",
+  "titel": "3-Zi Wohnung am Ortsrand",
+  "ort": "Ried im Oberinntal",
+  "plz": "6531",
+  "kaufpreis": 298000,
+  "qm": 82,
+  "zimmer": 3,
+  "baujahr": 2001,
+  "miete": 900,
+  "makler": false,
+  "einheiten": 4,
+  "tage_online": 70,
+  "preissenkung": false,
+  "freizeit": "nein",
+  "betten": 4,
+  "hist": [
+   {
+    "d": "2026-04-30",
+    "p": 298000
+   }
+  ],
+  "lage": {
+   "arbeitsweg": 48,
+   "dorfleben": 40,
+   "oeffi": 52,
+   "nahversorgung": 55
+  },
+  "link": "https://www.willhaben.at/",
+  "quelle": "Beispiel"
+ }
+]
