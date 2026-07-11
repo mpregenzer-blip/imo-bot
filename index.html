@@ -240,6 +240,9 @@ input[type=range]::-moz-range-thumb{width:16px;height:16px;border-radius:50%;bac
       <input type="range" id="r_rend" min="2" max="8" step="0.1" value="4"></div>
     <div class="ctl"><div class="ctl-top"><label>Grenzsteuersatz</label><span class="val" id="v_steuer">42 %</span></div>
       <input type="range" id="r_steuer" min="20" max="55" step="1" value="42"></div>
+    <div class="ctl"><div class="ctl-top"><label>Aussicht &amp; Charme</label><span class="val" id="v_qual">25 %</span></div>
+      <input type="range" id="r_qual" min="0" max="50" step="5" value="25">
+      <p style="font-size:11px;color:var(--muted);margin:5px 0 0;line-height:1.35">Wie stark schöne Wohnungen mit guter Aussicht im Gesamt-Score zählen. Höher = ein Traumblick sticht auch bei etwas weniger Rendite.</p></div>
     <div class="toggle-row"><span>Steuer-Ansicht</span>
       <label class="switch"><input type="checkbox" id="t_tax" checked><span class="slider-sw"></span></label></div>
     <button class="reset" id="resetBtn">Auf Standard zurücksetzen</button>
@@ -272,21 +275,21 @@ const CATS={
 };
 
 const SAMPLE_DATA=[
- {id:"v1",kat:"vorsorge",titel:"2-Zi ETW Schönegg",ort:"Hall in Tirol",plz:"6060",kaufpreis:285000,qm:52,zimmer:2,baujahr:1998,miete:676,makler:true,einheiten:14,tage_online:53,preissenkung:false,freizeit:"nein",
+ {id:"v1",kat:"vorsorge",titel:"2-Zi ETW Schönegg",ort:"Hall in Tirol",plz:"6060",kaufpreis:285000,qm:52,zimmer:2,baujahr:1998,miete:676,makler:true,einheiten:14,tage_online:53,preissenkung:false,freizeit:"nein",aussicht:62,charme:55,
    hist:[{d:"2026-05-15",p:295000},{d:"2026-06-20",p:285000}],lage:{ruhe:78,schule:82,nahversorgung:70,oeffi:74,natur:80}},
- {id:"v2",kat:"vorsorge",titel:"3-Zi Wohnung mit Terrasse",ort:"Zams",plz:"6511",kaufpreis:339000,qm:79,zimmer:3,baujahr:2016,miete:1010,makler:false,einheiten:8,tage_online:6,preissenkung:false,freizeit:"nein",
+ {id:"v2",kat:"vorsorge",titel:"3-Zi Wohnung mit Terrasse",ort:"Zams",plz:"6511",kaufpreis:339000,qm:79,zimmer:3,baujahr:2016,miete:1010,makler:false,einheiten:8,tage_online:6,preissenkung:false,freizeit:"nein",aussicht:80,charme:78,
    hist:[{d:"2026-07-04",p:339000}],lage:{ruhe:84,schule:76,nahversorgung:72,oeffi:66,natur:88}},
- {id:"v3",kat:"vorsorge",titel:"2-Zi Gartenwohnung",ort:"Telfs",plz:"6410",kaufpreis:259000,qm:58,zimmer:2,baujahr:2009,miete:715,makler:false,einheiten:6,tage_online:97,preissenkung:true,freizeit:"offen",
+ {id:"v3",kat:"vorsorge",titel:"2-Zi Gartenwohnung",ort:"Telfs",plz:"6410",kaufpreis:259000,qm:58,zimmer:2,baujahr:2009,miete:715,makler:false,einheiten:6,tage_online:97,preissenkung:true,freizeit:"offen",aussicht:58,charme:66,
    hist:[{d:"2026-04-02",p:279000},{d:"2026-06-28",p:259000}],lage:{ruhe:80,schule:78,nahversorgung:80,oeffi:82,natur:70}},
- {id:"s1",kat:"studenten",titel:"1-Zi Mikroapartment",ort:"Innsbruck · Wilten",plz:"6020",kaufpreis:189000,qm:28,zimmer:1,baujahr:2019,miete:640,makler:true,einheiten:22,tage_online:12,preissenkung:false,freizeit:"nein",
+ {id:"s1",kat:"studenten",titel:"1-Zi Mikroapartment",ort:"Innsbruck · Wilten",plz:"6020",kaufpreis:189000,qm:28,zimmer:1,baujahr:2019,miete:640,makler:true,einheiten:22,tage_online:12,preissenkung:false,freizeit:"nein",aussicht:55,charme:72,
    hist:[{d:"2026-06-28",p:189000}],lage:{uni:94,oeffi:90,ausgehen:88,nahversorgung:82}},
- {id:"s2",kat:"studenten",titel:"2-Zi Altbau saniert",ort:"Innsbruck · Hötting",plz:"6020",kaufpreis:279000,qm:44,zimmer:2,baujahr:1952,miete:880,makler:true,einheiten:9,tage_online:34,preissenkung:false,freizeit:"nein",
+ {id:"s2",kat:"studenten",titel:"2-Zi Altbau saniert",ort:"Innsbruck · Hötting",plz:"6020",kaufpreis:279000,qm:44,zimmer:2,baujahr:1952,miete:880,makler:true,einheiten:9,tage_online:34,preissenkung:false,freizeit:"nein",aussicht:74,charme:82,
    hist:[{d:"2026-06-06",p:289000},{d:"2026-06-30",p:279000}],lage:{uni:80,oeffi:84,ausgehen:78,nahversorgung:76}},
- {id:"m1",kat:"mitarbeiter",titel:"4-Zi Wohnung Ortszentrum",ort:"Fiss",plz:"6533",kaufpreis:445000,qm:96,zimmer:4,baujahr:2012,miete:1450,makler:false,einheiten:5,tage_online:21,preissenkung:false,freizeit:"nein",betten:6,
+ {id:"m1",kat:"mitarbeiter",titel:"4-Zi Wohnung Ortszentrum",ort:"Fiss",plz:"6533",kaufpreis:445000,qm:96,zimmer:4,baujahr:2012,miete:1450,makler:false,einheiten:5,tage_online:21,preissenkung:false,freizeit:"nein",aussicht:88,charme:80,betten:6,
    hist:[{d:"2026-06-19",p:445000}],lage:{arbeitsweg:95,dorfleben:88,oeffi:80,nahversorgung:82}},
- {id:"m2",kat:"mitarbeiter",titel:"3-Zi im Dorf, Nähe Lifte",ort:"Serfaus",plz:"6534",kaufpreis:389000,qm:78,zimmer:3,baujahr:2005,miete:1150,makler:true,einheiten:12,tage_online:44,preissenkung:true,freizeit:"nein",betten:4,
+ {id:"m2",kat:"mitarbeiter",titel:"3-Zi im Dorf, Nähe Lifte",ort:"Serfaus",plz:"6534",kaufpreis:389000,qm:78,zimmer:3,baujahr:2005,miete:1150,makler:true,einheiten:12,tage_online:44,preissenkung:true,freizeit:"nein",aussicht:85,charme:74,betten:4,
    hist:[{d:"2026-05-10",p:410000},{d:"2026-06-25",p:389000}],lage:{arbeitsweg:90,dorfleben:84,oeffi:78,nahversorgung:74}},
- {id:"m3",kat:"mitarbeiter",titel:"3-Zi Wohnung am Ortsrand",ort:"Ried im Oberinntal",plz:"6531",kaufpreis:298000,qm:82,zimmer:3,baujahr:2001,miete:900,makler:false,einheiten:4,tage_online:70,preissenkung:false,freizeit:"nein",betten:4,
+ {id:"m3",kat:"mitarbeiter",titel:"3-Zi Wohnung am Ortsrand",ort:"Ried im Oberinntal",plz:"6531",kaufpreis:298000,qm:82,zimmer:3,baujahr:2001,miete:900,makler:false,einheiten:4,tage_online:70,preissenkung:false,freizeit:"nein",aussicht:60,charme:48,betten:4,
    hist:[{d:"2026-04-30",p:298000}],lage:{arbeitsweg:48,dorfleben:40,oeffi:52,nahversorgung:55}}
 ];
 /* DATA wird beim Laden aus daten/objekte.json geholt; SAMPLE_DATA dient als Fallback,
@@ -300,7 +303,7 @@ const LAGE_DEF={
 };
 
 let P=load(), favs=store.get("imo_favs",[]), activeTab="alle";
-function load(){const d=store.get("imo_params",{});return {ek:d.ek??150000,zins:d.zins??3.4,lauf:d.lauf??25,grund:d.grund??40,rend:d.rend??4,steuer:d.steuer??42,tax:d.tax??true}}
+function load(){const d=store.get("imo_params",{});return {ek:d.ek??150000,zins:d.zins??3.4,lauf:d.lauf??25,grund:d.grund??40,rend:d.rend??4,steuer:d.steuer??42,qual:d.qual??25,tax:d.tax??true}}
 function saveP(){store.set("imo_params",P)}
 
 function calc(o){
@@ -311,14 +314,20 @@ function calc(o){
   return {nkPct,gesamt,kredit,rate,jahresmiete,afa,zinsen1,verlust,steuerJahr,cashflow,netto,brutto,gebaeude};
 }
 function scoreLage(o){let s=0;for(const [k,,w] of LAGE_DEF[o.kat])s+=(o.lage[k]||0)*w;return Math.round(s)}
+/* Aussicht & Charme – gilt fuer ALLE Kategorien. Fehlende Werte = neutral 60. */
+function quality(o){return Math.round(((o.aussicht??60)+(o.charme??60))/2)}
 function scoreGesamt(o){
-  const c=calc(o), lage=scoreLage(o);
+  const c=calc(o), lage=scoreLage(o), qual=quality(o);
   const rendScore=Math.max(0,Math.min(100,(c.brutto/P.rend)*60));
   const cfScore=Math.max(0,Math.min(100,60+c.netto/6));
-  return Math.round(lage*0.4+rendScore*0.35+cfScore*0.25);
+  const rest=0.45*lage+0.35*rendScore+0.20*cfScore;   // Rendite/Lage/Cashflow
+  const w=P.qual/100;                                   // Gewichtung Aussicht & Charme
+  return Math.round(w*qual+(1-w)*rest);
 }
 function badges(o){
   const c=calc(o), b=[];
+  if((o.aussicht??0)>=85) b.push({t:"Traumblick",cls:"i"});
+  if((o.charme??0)>=85) b.push({t:"Charmant",cls:"i"});
   if(c.brutto<P.rend) b.push({t:"Rendite < Ziel",cls:"c"}); else b.push({t:c.brutto.toFixed(1).replace(".",",")+" % Rendite",cls:"g"});
   if(o.baujahr<1953) b.push({t:"MRG prüfen",cls:"w"});
   if(o.einheiten>10) b.push({t:"Grundanteil 30 %?",cls:"w"});
@@ -464,6 +473,15 @@ function openDrawer(id){
       </div>`:""}
 
       <div class="d-section">
+        <h3>Aussicht &amp; Charme</h3>
+        <div class="lage-bars">
+          <div class="lb"><div class="lb-top"><span>Aussicht / Blick</span><span class="lb-v tabnum">${o.aussicht??60}</span></div><div class="lb-track"><div class="lb-fill" style="width:${o.aussicht??60}%"></div></div></div>
+          <div class="lb"><div class="lb-top"><span>Charme / Wohnqualität</span><span class="lb-v tabnum">${o.charme??60}</span></div><div class="lb-track"><div class="lb-fill" style="width:${o.charme??60}%"></div></div></div>
+        </div>
+        <div class="lage-hint">Schöne Wohnungen mit gutem Blick ziehen gute Mieter an. Zählt aktuell zu ${P.qual} % im Gesamt-Score (per Regler „Aussicht &amp; Charme" einstellbar). ${(o.aussicht??60)<60||(o.charme??60)<60?"Werte noch schätzen/anpassen.":""}</div>
+      </div>
+
+      <div class="d-section">
         <h3>Lage-Bewertung · ${cat.label}</h3>
         <div class="lage-bars">${lageRows}</div>
         <div class="lage-hint">${lageHint}</div>
@@ -498,14 +516,17 @@ bindRange("r_lauf","lauf","v_lauf",v=>v+" Jahre");
 bindRange("r_grund","grund","v_grund",fmtPct0);
 bindRange("r_rend","rend","v_rend",fmtPct);
 bindRange("r_steuer","steuer","v_steuer",fmtPct0);
+bindRange("r_qual","qual","v_qual",fmtPct0);
 const tTax=document.getElementById("t_tax");tTax.checked=P.tax;tTax.onchange=()=>{P.tax=tTax.checked;saveP();renderAll()};
 document.getElementById("resetBtn").onclick=()=>{
-  P={ek:150000,zins:3.4,lauf:25,grund:40,rend:4,steuer:42,tax:true};saveP();
+  P={ek:150000,zins:3.4,lauf:25,grund:40,rend:4,steuer:42,qual:25,tax:true};saveP();
   document.getElementById("r_ek").value=P.ek;document.getElementById("r_zins").value=P.zins;document.getElementById("r_lauf").value=P.lauf;
-  document.getElementById("r_grund").value=P.grund;document.getElementById("r_rend").value=P.rend;document.getElementById("r_steuer").value=P.steuer;tTax.checked=true;
+  document.getElementById("r_grund").value=P.grund;document.getElementById("r_rend").value=P.rend;document.getElementById("r_steuer").value=P.steuer;
+  document.getElementById("r_qual").value=P.qual;tTax.checked=true;
   document.getElementById("v_ek").textContent=eur0(P.ek)+" €";document.getElementById("v_zins").textContent=fmtPct(P.zins);
   document.getElementById("v_lauf").textContent=P.lauf+" Jahre";document.getElementById("v_grund").textContent=fmtPct0(P.grund);
-  document.getElementById("v_rend").textContent=fmtPct(P.rend);document.getElementById("v_steuer").textContent=fmtPct0(P.steuer);renderAll();
+  document.getElementById("v_rend").textContent=fmtPct(P.rend);document.getElementById("v_steuer").textContent=fmtPct0(P.steuer);
+  document.getElementById("v_qual").textContent=fmtPct0(P.qual);renderAll();
 };
 
 const params=document.getElementById("params"),scrim=document.getElementById("scrim");
