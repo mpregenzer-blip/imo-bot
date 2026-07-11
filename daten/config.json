@@ -8,7 +8,8 @@
     "grundanteil_prozent": 40,
     "mindest_bruttorendite": 4.0,
     "grenzsteuersatz": 42,
-    "steuer_ansicht": true
+    "steuer_ansicht": true,
+    "aussicht_charme_gewicht_prozent": 25
   },
   "nebenkosten": {
     "grunderwerbsteuer": 3.5,
@@ -34,8 +35,11 @@
     "liebhaberei_prognosezeitraum_jahre": 25
   },
   "score_gewichte": {
-    "lage": 0.40,
-    "rendite": 0.35,
-    "cashflow": 0.25
-  }
+    "_hinweis": "Gesamt-Score = aussicht_charme_gewicht_prozent% * Qualitaet + Rest. Rest = lage*0.45 + rendite*0.35 + cashflow*0.20.",
+    "aussicht_charme_gewicht_prozent": 25,
+    "rest_lage": 0.45,
+    "rest_rendite": 0.35,
+    "rest_cashflow": 0.2
+  },
+  "objekt_felder_hinweis": "Pro Objekt (in objekte.json) zusaetzlich: 'aussicht' (0-100, Blick/Aussicht) und 'charme' (0-100, Wohnqualitaet/Schoenheit). Fehlt der Wert, rechnet das Dashboard mit neutral 60. Gilt fuer ALLE Kategorien - miese Wohnungen ziehen miese Mieter an."
 }

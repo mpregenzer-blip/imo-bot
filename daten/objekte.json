@@ -33,7 +33,9 @@
    "natur": 80
   },
   "link": "https://www.willhaben.at/",
-  "quelle": "Beispiel"
+  "quelle": "Beispiel",
+  "aussicht": 62,
+  "charme": 55
  },
  {
   "id": "v2",
@@ -65,7 +67,9 @@
    "natur": 88
   },
   "link": "https://www.willhaben.at/",
-  "quelle": "Beispiel"
+  "quelle": "Beispiel",
+  "aussicht": 80,
+  "charme": 78
  },
  {
   "id": "v3",
@@ -101,7 +105,9 @@
    "natur": 70
   },
   "link": "https://www.willhaben.at/",
-  "quelle": "Beispiel"
+  "quelle": "Beispiel",
+  "aussicht": 58,
+  "charme": 66
  },
  {
   "id": "s1",
@@ -132,7 +138,9 @@
    "nahversorgung": 82
   },
   "link": "https://www.willhaben.at/",
-  "quelle": "Beispiel"
+  "quelle": "Beispiel",
+  "aussicht": 55,
+  "charme": 72
  },
  {
   "id": "s2",
@@ -167,7 +175,9 @@
    "nahversorgung": 76
   },
   "link": "https://www.willhaben.at/",
-  "quelle": "Beispiel"
+  "quelle": "Beispiel",
+  "aussicht": 74,
+  "charme": 82
  },
  {
   "id": "m1",
@@ -199,7 +209,9 @@
    "nahversorgung": 82
   },
   "link": "https://www.willhaben.at/",
-  "quelle": "Beispiel"
+  "quelle": "Beispiel",
+  "aussicht": 88,
+  "charme": 80
  },
  {
   "id": "m2",
@@ -235,7 +247,9 @@
    "nahversorgung": 74
   },
   "link": "https://www.willhaben.at/",
-  "quelle": "Beispiel"
+  "quelle": "Beispiel",
+  "aussicht": 85,
+  "charme": 74
  },
  {
   "id": "m3",
@@ -267,6 +281,8 @@
    "nahversorgung": 55
   },
   "link": "https://www.willhaben.at/",
-  "quelle": "Beispiel"
+  "quelle": "Beispiel",
+  "aussicht": 60,
+  "charme": 48
  }
 ]
