@@ -45,6 +45,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATEN = ROOT / "daten"
 OBJEKTE = DATEN / "objekte.json"
 MIETPREISE = DATEN / "mietpreise.json"
+ORTE = DATEN / "orte.json"
 
 HEUTE = dt.date.today()          # Datum wird vom Workflow gestellt (UTC)
 ARCHIV_TAGE = 14
@@ -84,7 +85,42 @@ def kategorie_aus_betreff(subject):
         return "studenten"
     if "imo-c" in s or "mitarbeiter" in s or "personal" in s:
         return "mitarbeiter"
-    return None   # unbekannt -> spaeter ueber Merkmale/Default
+    return None   # unbekannt -> ueber Ort/Groesse erkennen (kategorie_erkennen)
+
+# Ortslisten fuer Ausschluss + automatische Kategorie-Erkennung liegen in
+# daten/orte.json (frei editierbar, kein Code-Aenderung noetig). Fallback-Werte
+# hier nur fuer den Fall, dass die Datei fehlt oder kaputt ist.
+ORTE_DEFAULT = {
+    "ausschluss": ["kappl"],
+    "studenten": ["innsbruck"],
+    "studenten_qm_max": 45,
+    "mitarbeiter": ["serfaus", "fiss", "ladis", "ried im oberinntal", "ried",
+                     "imst", "tarrenz", "roppen", "mieming", "obsteig",
+                     "nassereith", "silz", "haiming"],
+}
+
+def orte_config():
+    cfg = load_json(ORTE, ORTE_DEFAULT)
+    if not isinstance(cfg, dict):
+        cfg = ORTE_DEFAULT
+    return cfg
+
+def kategorie_erkennen(subject, ort, qm):
+    """Betreff hat Vorrang (falls ein Suchagent-Name IMO-A/B/C erkannt wird).
+       Sonst wird ueber Ort/Groesse (aus daten/orte.json) geschaetzt. Default: vorsorge."""
+    kat = kategorie_aus_betreff(subject)
+    if kat:
+        return kat
+    cfg = orte_config()
+    o = (ort or "").lower()
+    studenten_orte = [x.lower() for x in cfg.get("studenten", [])]
+    mitarbeiter_orte = [x.lower() for x in cfg.get("mitarbeiter", [])]
+    qm_max = cfg.get("studenten_qm_max", 45)
+    if any(a in o for a in studenten_orte) and qm and qm < qm_max:
+        return "studenten"
+    if any(a in o for a in mitarbeiter_orte):
+        return "mitarbeiter"
+    return "vorsorge"
 
 DEFAULT_LAGE = {
     "vorsorge":    {"ruhe":60,"schule":60,"nahversorgung":60,"oeffi":60,"natur":60},
@@ -179,7 +215,7 @@ def resolve_url(url):
     except Exception:
         return url
 
-def extrahiere_objekte(html, plain, kat):
+def extrahiere_objekte(html, plain, subject):
     """Bestmoegliche Extraktion. Gibt Liste von Objekt-Dicts zurueck.
        Unsichere Werte -> 'pruefen': True, statt zu raten."""
     objekte = []
@@ -207,10 +243,15 @@ def extrahiere_objekte(html, plain, kat):
     if m:
         plz, ort = m.group(1), m.group(2).strip()
 
+    ausschluss_orte = [x.lower() for x in orte_config().get("ausschluss", [])]
+    if ort and any(a in ort.lower() for a in ausschluss_orte):
+        return objekte  # ausgeschlossene Gegend
+
     link = resolve_url(links[0]) if links else None
     if not (preis or link):
         return objekte  # nichts Brauchbares
 
+    kat = kategorie_erkennen(subject, ort, qm)
     unsicher = not (preis and qm and ort)
     obj = {
         "kat": kat or "vorsorge",
@@ -353,11 +394,11 @@ def main():
     neue_objekte = []
     for msg in hole_mails():
         subject = decode_str(msg.get("Subject"))
-        kat = kategorie_aus_betreff(subject)
         html, plain = mail_text(msg)
-        gefunden = extrahiere_objekte(html, plain, kat)
+        gefunden = extrahiere_objekte(html, plain, subject)
         if gefunden:
-            log(f'  "{subject[:60]}" -> {len(gefunden)} Objekt(e), Kategorie={kat}')
+            kats = ", ".join(sorted({o["kat"] for o in gefunden}))
+            log(f'  "{subject[:60]}" -> {len(gefunden)} Objekt(e), Kategorie={kats}')
             neue_objekte += gefunden
 
     if neue_objekte:
