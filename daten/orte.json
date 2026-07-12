@@ -1,0 +1,6 @@
+{
+ "ausschluss": ["kappl"],
+ "studenten": ["innsbruck"],
+ "studenten_qm_max": 45,
+ "mitarbeiter": ["serfaus", "fiss", "ladis", "ried im oberinntal", "ried", "imst", "tarrenz", "roppen", "mieming", "obsteig", "nassereith", "silz", "haiming"]
+}
