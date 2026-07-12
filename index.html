@@ -174,6 +174,27 @@ input[type=range]::-moz-range-thumb{width:13px;height:13px;border-radius:50%;bac
 .empty{text-align:center;padding:80px 20px;color:var(--muted);font-family:var(--mono)}
 .empty svg{width:44px;height:44px;opacity:.4;margin-bottom:14px}
 
+/* Orte-Einstellungen */
+.orte-wrap{max-width:640px}
+.orte-intro{font-size:13px;color:var(--ink-2);line-height:1.6;margin:0 0 30px}
+.tag-input{display:flex;gap:8px;margin-bottom:10px}
+.tag-input input{flex:1;padding:10px 12px;font-family:var(--mono);font-size:13px;border:1px solid var(--line);border-radius:var(--r);
+  background:var(--surface);color:var(--ink)}
+.tag-input input:focus{outline:none;border-color:var(--ink)}
+.tag-input button{width:40px;border:1px solid var(--ink);background:var(--surface);color:var(--ink);border-radius:var(--r);
+  cursor:pointer;font-size:17px;font-family:var(--mono);line-height:1}
+.tag-input button:hover{background:var(--ink);color:var(--surface)}
+.tag-list{display:flex;flex-wrap:wrap;gap:8px;min-height:8px}
+.tag-chip{display:inline-flex;align-items:center;gap:7px;background:var(--chip);border:1px solid var(--line);border-radius:var(--r);
+  padding:7px 8px 7px 12px;font-family:var(--mono);font-size:12.5px;color:var(--ink-2)}
+.tag-chip button{border:none;background:none;color:var(--muted);cursor:pointer;font-size:16px;line-height:1;padding:0 2px;font-family:var(--mono)}
+.tag-chip button:hover{color:var(--neg)}
+.qm-input{width:120px;padding:9px 11px;font-family:var(--mono);font-size:14px;border:1px solid var(--line);border-radius:var(--r);
+  background:var(--surface);color:var(--ink)}
+.qm-input:focus{outline:none;border-color:var(--ink)}
+#orteStatus{white-space:pre-wrap;word-break:break-word}
+#orteStatus.on{color:var(--ink);border:1px solid var(--ink);border-radius:var(--r);padding:12px 14px;background:var(--panel)}
+
 /* Drawer */
 .drawer-scrim{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:80;opacity:0;pointer-events:none;transition:.2s}
 .drawer-scrim.on{opacity:1;pointer-events:auto}
@@ -228,8 +249,8 @@ input[type=range]::-moz-range-thumb{width:13px;height:13px;border-radius:50%;bac
   </button>
   <div class="wordmark">IMO&nbsp;·&nbsp;RADAR</div>
   <nav class="nav">
-    <a class="active">Übersicht</a>
-    <a>Suche</a>
+    <a class="active" data-view="dashboard">Übersicht</a>
+    <a data-view="orte">Orte</a>
     <a>Markt</a>
     <a>Portfolio</a>
   </nav>
@@ -275,9 +296,42 @@ input[type=range]::-moz-range-thumb{width:13px;height:13px;border-radius:50%;bac
   </aside>
 
   <main>
-    <div class="kpis" id="kpis"></div>
-    <div class="tabs" id="tabs"></div>
-    <div class="grid" id="grid"></div>
+    <div id="dashboardView">
+      <div class="kpis" id="kpis"></div>
+      <div class="tabs" id="tabs"></div>
+      <div class="grid" id="grid"></div>
+    </div>
+
+    <div id="orteView" class="orte-wrap" style="display:none">
+      <div class="grp" style="margin-top:0">Orte-Einstellungen</div>
+      <p class="orte-intro">Hier legst du fest, wo automatisch nach Mitarbeiter- und Studenten-Wohnungen gesucht wird, und welche Orte komplett ausgeschlossen werden. Alles andere gilt automatisch als „Vorsorge". Wirkt sich ab dem nächsten Mail-Abruf aus (2× täglich).</p>
+
+      <div class="ctl">
+        <div class="ctl-top"><label>Mitarbeiter-Orte</label></div>
+        <div class="tag-input"><input type="text" id="in_mitarbeiter" placeholder="Ort hinzufügen…"><button data-add="tags_mitarbeiter:in_mitarbeiter" aria-label="Hinzufügen">+</button></div>
+        <div class="tag-list" id="tags_mitarbeiter"></div>
+      </div>
+
+      <div class="ctl">
+        <div class="ctl-top"><label>Studenten-Orte</label></div>
+        <div class="tag-input"><input type="text" id="in_studenten" placeholder="Ort hinzufügen…"><button data-add="tags_studenten:in_studenten" aria-label="Hinzufügen">+</button></div>
+        <div class="tag-list" id="tags_studenten"></div>
+      </div>
+
+      <div class="ctl">
+        <div class="ctl-top"><label>Max. m² für „Studenten"</label></div>
+        <input type="number" id="in_qm" class="qm-input" min="10" max="150" step="1">
+      </div>
+
+      <div class="ctl">
+        <div class="ctl-top"><label>Komplett ausgeschlossene Orte</label></div>
+        <div class="tag-input"><input type="text" id="in_ausschluss" placeholder="Ort hinzufügen…"><button data-add="tags_ausschluss:in_ausschluss" aria-label="Hinzufügen">+</button></div>
+        <div class="tag-list" id="tags_ausschluss"></div>
+      </div>
+
+      <button class="reset" id="orteSaveBtn" style="margin-top:10px">Änderungen übernehmen</button>
+      <p class="note" id="orteStatus"></p>
+    </div>
   </main>
 </div>
 
@@ -572,6 +626,94 @@ renderAll(); // sofortiges Rendern mit Fallback-Daten
     if(r.ok){ const j=await r.json(); if(Array.isArray(j)&&j.length){ DATA=j; renderAll(); } }
   }catch(e){ /* lokal ohne Server: Fallback-Daten bleiben aktiv */ }
 })();
+
+/* ---------------------------------------------------------------- Orte-Einstellungen */
+const ORTE_DEFAULT={ausschluss:["kappl"],studenten:["innsbruck"],studenten_qm_max:45,
+  mitarbeiter:["serfaus","fiss","ladis","ried im oberinntal","ried","imst","tarrenz","roppen","mieming","obsteig","nassereith","silz","haiming"]};
+let ORTE_CFG=null, orteLoaded=false, orteFileExists=false;
+
+function keyFromContainer(id){return id==="tags_ausschluss"?"ausschluss":id==="tags_studenten"?"studenten":"mitarbeiter"}
+
+function renderOrteView(){
+  const draw=(id,arr)=>{
+    document.getElementById(id).innerHTML=(arr||[]).map((name,i)=>
+      `<span class="tag-chip">${name}<button data-remove="${id}:${i}" aria-label="Entfernen">×</button></span>`).join("");
+  };
+  draw("tags_mitarbeiter",ORTE_CFG.mitarbeiter);
+  draw("tags_studenten",ORTE_CFG.studenten);
+  draw("tags_ausschluss",ORTE_CFG.ausschluss);
+  document.getElementById("in_qm").value=ORTE_CFG.studenten_qm_max??45;
+  document.querySelectorAll("[data-remove]").forEach(b=>b.onclick=()=>{
+    const [cid,idx]=b.dataset.remove.split(":");
+    ORTE_CFG[keyFromContainer(cid)].splice(+idx,1);
+    renderOrteView();
+  });
+}
+
+function addOrt(containerId,inputId){
+  const inp=document.getElementById(inputId), v=inp.value.trim();
+  if(!v) return;
+  const key=keyFromContainer(containerId);
+  ORTE_CFG[key]=[...(ORTE_CFG[key]||[]),v];
+  inp.value="";
+  renderOrteView();
+  inp.focus();
+}
+document.querySelectorAll("[data-add]").forEach(btn=>{
+  const [cid,iid]=btn.dataset.add.split(":");
+  btn.onclick=()=>addOrt(cid,iid);
+  document.getElementById(iid).addEventListener("keydown",e=>{ if(e.key==="Enter"){ e.preventDefault(); addOrt(cid,iid); } });
+});
+
+async function loadOrte(){
+  if(orteLoaded) return;
+  ORTE_CFG=Object.assign({},ORTE_DEFAULT);
+  try{
+    const r=await fetch("daten/orte.json",{cache:"no-store"});
+    if(r.ok){ const j=await r.json(); if(j&&typeof j==="object"){ ORTE_CFG=Object.assign({},ORTE_DEFAULT,j); orteFileExists=true; } }
+  }catch(e){ /* Datei fehlt noch: Default bleibt aktiv */ }
+  orteLoaded=true;
+  renderOrteView();
+}
+
+document.getElementById("orteSaveBtn").onclick=()=>{
+  ORTE_CFG.studenten_qm_max=parseInt(document.getElementById("in_qm").value,10)||45;
+  const json=JSON.stringify(ORTE_CFG,null,1);
+  const statusEl=document.getElementById("orteStatus");
+  const githubUrl=orteFileExists
+    ? "https://github.com/mpregenzer-blip/imo-bot/edit/main/daten/orte.json"
+    : "https://github.com/mpregenzer-blip/imo-bot/new/main?filename=daten/orte.json";
+  const hint=orteFileExists
+    ? "Inhalt kopiert. Im gerade geöffneten GitHub-Fenster: Strg/Cmd+A, dann einfügen (Strg/Cmd+V), dann unten „Commit changes“ klicken."
+    : "Inhalt kopiert. Im gerade geöffneten GitHub-Fenster (neue Datei): einfügen (Strg/Cmd+V) und unten „Commit changes“ klicken. Danach lädt die Seite die Datei automatisch.";
+  const openGithub=()=>{
+    window.open(githubUrl,"_blank");
+    statusEl.classList.add("on");
+    statusEl.textContent=hint;
+  };
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(json).then(openGithub).catch(()=>{
+      statusEl.classList.add("on");
+      statusEl.textContent="Kopieren hat nicht geklappt — bitte diesen Text manuell markieren und kopieren:\n\n"+json;
+    });
+  } else {
+    statusEl.classList.add("on");
+    statusEl.textContent="Bitte diesen Text manuell kopieren:\n\n"+json;
+  }
+};
+
+/* Ansicht umschalten: Übersicht <-> Orte */
+document.querySelectorAll(".nav a[data-view]").forEach(a=>{
+  a.onclick=()=>{
+    document.querySelectorAll(".nav a[data-view]").forEach(x=>x.classList.remove("active"));
+    a.classList.add("active");
+    const v=a.dataset.view;
+    document.getElementById("dashboardView").style.display=v==="dashboard"?"":"none";
+    document.getElementById("orteView").style.display=v==="orte"?"":"none";
+    if(v==="orte") loadOrte();
+    params.classList.remove("open");scrim.classList.remove("on");
+  };
+});
 </script>
 </body>
 </html>
