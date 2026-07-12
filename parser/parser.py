@@ -151,7 +151,7 @@ PLZ_ORT_RE=re.compile(r"\b(\d{4})\s+([A-ZÄÖÜ][a-zäöüß\.\- ]{2,30})")
 # NICHT gegen die komplette URL. Sonst matcht z.B. "immo.preg@gmail.com" in
 # einem Google-Link (?Email=immo.preg%40gmail.com) faelschlich auf "immo".
 PORTAL_DOMAINS = ("willhaben.at", "immobilienscout24.de", "immoscout24.at",
-                   "immometrica", "immmetrica", "derstandard.at")
+                   "immometrica", "immmetrica", "derstandard.at", "immo.tt.com")
 
 def ist_portal_link(href):
     try:
