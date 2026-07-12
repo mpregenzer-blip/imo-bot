@@ -215,12 +215,43 @@ def resolve_url(url):
     except Exception:
         return url
 
+BILD_AUSSCHLUSS = ("logo", "pixel", "tracking", "spacer", "icon", "1x1", "avatar", "banner")
+
+def gueltiges_bild(src):
+    if not src or not src.lower().startswith("http"):
+        return False
+    return not any(x in src.lower() for x in BILD_AUSSCHLUSS)
+
+def extrahiere_bild(soup, html):
+    """Erstes brauchbare Foto aus der Mail (keine Logos/Tracking-Pixel)."""
+    if soup:
+        for img in soup.find_all("img"):
+            src = img.get("src") or ""
+            if not gueltiges_bild(src):
+                continue
+            try:
+                w, h = img.get("width"), img.get("height")
+                if w and int(w) < 80:
+                    continue
+                if h and int(h) < 80:
+                    continue
+            except Exception:
+                pass
+            return src
+        return None
+    if html:
+        for m in re.finditer(r'<img[^>]+src="([^"]+)"', html, re.I):
+            if gueltiges_bild(m.group(1)):
+                return m.group(1)
+    return None
+
 def extrahiere_objekte(html, plain, subject):
     """Bestmoegliche Extraktion. Gibt Liste von Objekt-Dicts zurueck.
        Unsichere Werte -> 'pruefen': True, statt zu raten."""
     objekte = []
     links = []
     text = plain or ""
+    soup = None
     if html and BeautifulSoup:
         soup = BeautifulSoup(html, "html.parser")
         text = soup.get_text("\n")
@@ -253,6 +284,7 @@ def extrahiere_objekte(html, plain, subject):
 
     kat = kategorie_erkennen(subject, ort, qm)
     unsicher = not (preis and qm and ort)
+    bild = extrahiere_bild(soup, html)
     obj = {
         "kat": kat or "vorsorge",
         "titel": (ort and f"{int(zi) if zi else ''}-Zi {ort}".strip("- ")) or "Neues Objekt",
@@ -268,6 +300,7 @@ def extrahiere_objekte(html, plain, subject):
         "preissenkung": False,
         "freizeit": "offen",
         "link": link or "",
+        "bild": bild or "",
         "quelle": "E-Mail",
         "pruefen": unsicher,
         "lage": dict(DEFAULT_LAGE.get(kat or "vorsorge")),
