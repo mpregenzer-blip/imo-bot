@@ -34,5 +34,113 @@
   "miete": 473,
   "id": "e6953368480",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "5-Zi Landeck",
+  "ort": "Landeck",
+  "plz": "6500",
+  "kaufpreis": 265000,
+  "qm": 94,
+  "zimmer": 5,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "https://www.willhaben.at/iad?at_side=demand&at_campaign_group=demandcapture&at_medium=crm&at_campaign=email&at_objective=conversion&at_vertical=c2c_realestate&at_variant=searchagent_alwayson",
+  "bild": "https://cache.willhaben.at/mmo/6/126/583/4376_-1081434463_hoved.jpg",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-13",
+    "p": 265000
+   }
+  ],
+  "erstmals_gesehen": "2026-07-13",
+  "miete": 1081,
+  "id": "e8773478809",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kirchberg in",
+  "ort": "Kirchberg in",
+  "plz": "6365",
+  "kaufpreis": 6365,
+  "qm": 18,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000SQxe2-1783415658-30eaa1a4f46441e99f187f0474b0bd0f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-13",
+    "p": 6365
+   }
+  ],
+  "erstmals_gesehen": "2026-07-13",
+  "miete": 198,
+  "id": "e8902525216",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi St.",
+  "ort": "St.",
+  "plz": "6393",
+  "kaufpreis": 6393,
+  "qm": 75,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000J29Sr-833fb7f0dbbc4d749bc0c87d57158ecc&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-13",
+    "p": 6393
+   }
+  ],
+  "erstmals_gesehen": "2026-07-13",
+  "miete": 825,
+  "id": "e1243079536",
+  "status": "aktiv"
  }
 ]
