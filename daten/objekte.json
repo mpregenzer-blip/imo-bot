@@ -1,1 +1,38 @@
-[]
+[
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Waidring",
+  "ort": "Waidring",
+  "plz": "6384",
+  "kaufpreis": 6384,
+  "qm": 43,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000TZNAn-1762856627-3be182cdfb5a429985493bfef12e02c4&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-13",
+    "p": 6384
+   }
+  ],
+  "erstmals_gesehen": "2026-07-13",
+  "miete": 473,
+  "id": "e6953368480",
+  "status": "aktiv"
+ }
+]
