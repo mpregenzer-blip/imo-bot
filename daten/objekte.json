@@ -47,7 +47,7 @@
   "makler": true,
   "einheiten": 0,
   "tage_online": 0,
-  "preissenkung": false,
+  "preissenkung": true,
   "freizeit": "offen",
   "link": "https://www.willhaben.at/iad?at_side=demand&at_campaign_group=demandcapture&at_medium=crm&at_campaign=email&at_objective=conversion&at_vertical=c2c_realestate&at_variant=searchagent_alwayson",
   "bild": "https://cache.willhaben.at/mmo/6/126/583/4376_-1081434463_hoved.jpg",
@@ -63,6 +63,14 @@
   "hist": [
    {
     "d": "2026-07-13",
+    "p": 265000
+   },
+   {
+    "d": "2026-07-14",
+    "p": 395000
+   },
+   {
+    "d": "2026-07-14",
     "p": 265000
    },
    {
@@ -396,6 +404,78 @@
   "erstmals_gesehen": "2026-07-14",
   "miete": 121,
   "id": "e9555927677",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 298000,
+  "qm": 10,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-14",
+    "p": 298000
+   }
+  ],
+  "erstmals_gesehen": "2026-07-14",
+  "miete": 110,
+  "id": "e2315623502",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6080",
+  "kaufpreis": 6080,
+  "qm": 46,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001nuTVM-54f715b9121d48489d1d7422a4ccf2aa&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-14",
+    "p": 6080
+   }
+  ],
+  "erstmals_gesehen": "2026-07-14",
+  "miete": 506,
+  "id": "e8779812269",
   "status": "aktiv"
  }
 ]
