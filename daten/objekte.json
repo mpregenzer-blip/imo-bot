@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 265000,
+  "kaufpreis": 395000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -64,6 +64,10 @@
    {
     "d": "2026-07-13",
     "p": 265000
+   },
+   {
+    "d": "2026-07-14",
+    "p": 395000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -141,6 +145,257 @@
   "erstmals_gesehen": "2026-07-13",
   "miete": 825,
   "id": "e1243079536",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "3-Zi Imst",
+  "ort": "Imst",
+  "plz": "6460",
+  "kaufpreis": 6460,
+  "qm": 94,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1783955342-3a619cb155644576ac6c2314c8d38027&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-14",
+    "p": 6460
+   }
+  ],
+  "erstmals_gesehen": "2026-07-14",
+  "miete": 1128,
+  "betten": 3,
+  "id": "e795919923",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 97,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000gjTQm-1783939275-8b0ef948806e4380b7ea345d180ed83d&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-14",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-07-14",
+  "miete": 1067,
+  "id": "e2508308093",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Kufstein",
+  "ort": "Kufstein",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 90,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000hvBxg-1783954196-19db8a1f99274c74af6cbb1b0d435b42&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-14",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-07-14",
+  "miete": 990,
+  "id": "e2294171735",
+  "status": "aktiv"
+ },
+ {
+  "kat": "studenten",
+  "titel": "1-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 28,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000LUID8-af9fbc813c9b46bd874cc33bad74f03a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "uni": 60,
+   "oeffi": 60,
+   "ausgehen": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-14",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-07-14",
+  "miete": 560,
+  "id": "e5326194446",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 298000,
+  "qm": 10,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-14",
+    "p": 298000
+   }
+  ],
+  "erstmals_gesehen": "2026-07-14",
+  "miete": 110,
+  "id": "e8774146256",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Lechaschau",
+  "ort": "Lechaschau",
+  "plz": "6600",
+  "kaufpreis": 6600,
+  "qm": 135,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001kSL3p-1767515662-ed96f76de985433996cdf45ddae435bd&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-14",
+    "p": 6600
+   }
+  ],
+  "erstmals_gesehen": "2026-07-14",
+  "miete": 1485,
+  "id": "e5462751098",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Prutz",
+  "ort": "Prutz",
+  "plz": "6522",
+  "kaufpreis": 6522,
+  "qm": 11,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000X5pFE-1784015233-fff8d0c84c424ef1a9ac2bd887debbf8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-14",
+    "p": 6522
+   }
+  ],
+  "erstmals_gesehen": "2026-07-14",
+  "miete": 121,
+  "id": "e9555927677",
   "status": "aktiv"
  }
 ]
