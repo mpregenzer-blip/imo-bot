@@ -80,6 +80,14 @@
    {
     "d": "2026-07-15",
     "p": 350000
+   },
+   {
+    "d": "2026-07-15",
+    "p": 395000
+   },
+   {
+    "d": "2026-07-15",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -588,6 +596,186 @@
   "erstmals_gesehen": "2026-07-15",
   "miete": 539,
   "id": "e8182441174",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 88,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1783329101-1546a2d436cc4930971b9c11b2aac002&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-15",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-07-15",
+  "miete": 968,
+  "id": "e3103794609",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Sölden",
+  "ort": "Sölden",
+  "plz": "6450",
+  "kaufpreis": 6450,
+  "qm": 53,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000hvBxg-1784021271-8fa8b0c720494902be244a8ea1f7d303&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-15",
+    "p": 6450
+   }
+  ],
+  "erstmals_gesehen": "2026-07-15",
+  "miete": 583,
+  "id": "e6399629560",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Breitenbach am",
+  "ort": "Breitenbach am",
+  "plz": "6252",
+  "kaufpreis": 6252,
+  "qm": 109,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000T5gHg-6b082ab9b6ee4f09952c1b6d7b126826&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-15",
+    "p": 6252
+   }
+  ],
+  "erstmals_gesehen": "2026-07-15",
+  "miete": 1199,
+  "id": "e7402254405",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Unterlangkampfen",
+  "ort": "Unterlangkampfen",
+  "plz": "6336",
+  "kaufpreis": 6336,
+  "qm": 44,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3r01-1784112350-88684c2be7fb44ba86653d871273b5d4&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-15",
+    "p": 6336
+   }
+  ],
+  "erstmals_gesehen": "2026-07-15",
+  "miete": 484,
+  "id": "e6320239579",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Gerlos",
+  "ort": "Gerlos",
+  "plz": "6281",
+  "kaufpreis": 6281,
+  "qm": 99,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3rA3-1784111936-81afc702c6534c54b03c63383fc65025&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-15",
+    "p": 6281
+   }
+  ],
+  "erstmals_gesehen": "2026-07-15",
+  "miete": 1089,
+  "id": "e1646127745",
   "status": "aktiv"
  }
 ]
