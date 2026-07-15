@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 395000,
+  "kaufpreis": 350000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -76,6 +76,10 @@
    {
     "d": "2026-07-14",
     "p": 395000
+   },
+   {
+    "d": "2026-07-15",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -476,6 +480,114 @@
   "erstmals_gesehen": "2026-07-14",
   "miete": 506,
   "id": "e8779812269",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Sankt",
+  "ort": "Sankt",
+  "plz": "6380",
+  "kaufpreis": 6380,
+  "qm": 54,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000FqQp2-2b55e5b05b9d453bb7041a920978f5cd&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-15",
+    "p": 6380
+   }
+  ],
+  "erstmals_gesehen": "2026-07-15",
+  "miete": 594,
+  "id": "e4662833279",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Kaltenbach",
+  "ort": "Kaltenbach",
+  "plz": "6272",
+  "kaufpreis": 6272,
+  "qm": 67,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qzO-103b9bf4e4924e419b7e584e3b2a3661&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-15",
+    "p": 6272
+   }
+  ],
+  "erstmals_gesehen": "2026-07-15",
+  "miete": 737,
+  "id": "e384789670",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Fieberbrunn",
+  "ort": "Fieberbrunn",
+  "plz": "6391",
+  "kaufpreis": 6391,
+  "qm": 49,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001snH7F-a657d5c721d643f397f8bc8e1bb6db23&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-15",
+    "p": 6391
+   }
+  ],
+  "erstmals_gesehen": "2026-07-15",
+  "miete": 539,
+  "id": "e8182441174",
   "status": "aktiv"
  }
 ]
