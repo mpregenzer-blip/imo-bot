@@ -92,6 +92,14 @@
    {
     "d": "2026-07-16",
     "p": 395000
+   },
+   {
+    "d": "2026-07-16",
+    "p": 350000
+   },
+   {
+    "d": "2026-07-16",
+    "p": 395000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -959,6 +967,150 @@
   "miete": 648,
   "betten": 2,
   "id": "e3678164113",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Völs",
+  "ort": "Völs",
+  "plz": "6176",
+  "kaufpreis": 6176,
+  "qm": 87,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qxY-ccd2e3c92ffb45a3bd5876d521978074&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-16",
+    "p": 6176
+   }
+  ],
+  "erstmals_gesehen": "2026-07-16",
+  "miete": 957,
+  "id": "e6196444593",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi St.",
+  "ort": "St.",
+  "plz": "6380",
+  "kaufpreis": 6380,
+  "qm": 45,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000J29Sr-38af779d74ee442eb38689b08f187f67&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-16",
+    "p": 6380
+   }
+  ],
+  "erstmals_gesehen": "2026-07-16",
+  "miete": 495,
+  "id": "e829902946",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Volders",
+  "ort": "Volders",
+  "plz": "6111",
+  "kaufpreis": 6111,
+  "qm": 28,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I000004AK9x-1783673481-9b3437f8b68e49178a6debfce5950b51&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-16",
+    "p": 6111
+   }
+  ],
+  "erstmals_gesehen": "2026-07-16",
+  "miete": 308,
+  "id": "e8178132450",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Erpfendorf",
+  "ort": "Erpfendorf",
+  "plz": "6383",
+  "kaufpreis": 6383,
+  "qm": 109,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qwt-8a41d234f6c04a88b007a3e0ed6d0d0a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-16",
+    "p": 6383
+   }
+  ],
+  "erstmals_gesehen": "2026-07-16",
+  "miete": 1199,
+  "id": "e7700796425",
   "status": "aktiv"
  }
 ]
