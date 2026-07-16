@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 350000,
+  "kaufpreis": 395000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -88,6 +88,10 @@
    {
     "d": "2026-07-15",
     "p": 350000
+   },
+   {
+    "d": "2026-07-16",
+    "p": 395000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -776,6 +780,185 @@
   "erstmals_gesehen": "2026-07-15",
   "miete": 1089,
   "id": "e1646127745",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Jenbach",
+  "ort": "Jenbach",
+  "plz": "6200",
+  "kaufpreis": 6200,
+  "qm": 92,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3rCb-1784125960-2d5a679766544518864d14556cc36993&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-16",
+    "p": 6200
+   }
+  ],
+  "erstmals_gesehen": "2026-07-16",
+  "miete": 1012,
+  "id": "e2424697400",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kufstein",
+  "ort": "Kufstein",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 47,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000N9caP-1784034889-dd1d1569ca0b4e37a89f1a317a97f248&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-16",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-07-16",
+  "miete": 517,
+  "id": "e4636773806",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi St.",
+  "ort": "St.",
+  "plz": "6380",
+  "kaufpreis": 6380,
+  "qm": 9,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001miM09-1784135160-1261ecbb1d3743469ccaee408410aea8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-16",
+    "p": 6380
+   }
+  ],
+  "erstmals_gesehen": "2026-07-16",
+  "miete": 99,
+  "id": "e8194432009",
+  "status": "aktiv"
+ },
+ {
+  "kat": "studenten",
+  "titel": "1-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 16,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001sKpZk-4dcf34ccd9704cc6a048791b33a74c1d&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "uni": 60,
+   "oeffi": 60,
+   "ausgehen": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-16",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-07-16",
+  "miete": 320,
+  "id": "e6208495270",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "2-Zi Imst",
+  "ort": "Imst",
+  "plz": "6460",
+  "kaufpreis": 6460,
+  "qm": 54,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000kVaPm-7a032529a2c54e13915e3e3d71e1172f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-16",
+    "p": 6460
+   }
+  ],
+  "erstmals_gesehen": "2026-07-16",
+  "miete": 648,
+  "betten": 2,
+  "id": "e3678164113",
   "status": "aktiv"
  }
 ]
