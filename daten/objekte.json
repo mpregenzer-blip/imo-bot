@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 395000,
+  "kaufpreis": 285660,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -100,6 +100,10 @@
    {
     "d": "2026-07-16",
     "p": 395000
+   },
+   {
+    "d": "2026-07-17",
+    "p": 285660
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -1111,6 +1115,150 @@
   "erstmals_gesehen": "2026-07-16",
   "miete": 1199,
   "id": "e7700796425",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kufstein",
+  "ort": "Kufstein",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 54,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000N9caP-1784194059-5b527158de294f80a2ec0d9e95e3025a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-17",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-07-17",
+  "miete": 594,
+  "id": "e5958848525",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Hall in",
+  "ort": "Hall in",
+  "plz": "6060",
+  "kaufpreis": 6060,
+  "qm": 52,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000j2COu-1774091146-9521285528664fe9bac34fd5be545c04&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-17",
+    "p": 6060
+   }
+  ],
+  "erstmals_gesehen": "2026-07-17",
+  "miete": 572,
+  "id": "e363264823",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 298000,
+  "qm": 59,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-17",
+    "p": 298000
+   }
+  ],
+  "erstmals_gesehen": "2026-07-17",
+  "miete": 649,
+  "id": "e36033156",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Jochberg",
+  "ort": "Jochberg",
+  "plz": "6373",
+  "kaufpreis": 6373,
+  "qm": 30,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E84Dt-e48b4309638343349c3120ef9b9d9c92&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-17",
+    "p": 6373
+   }
+  ],
+  "erstmals_gesehen": "2026-07-17",
+  "miete": 330,
+  "id": "e5161392384",
   "status": "aktiv"
  }
 ]
