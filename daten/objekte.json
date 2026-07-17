@@ -104,6 +104,14 @@
    {
     "d": "2026-07-17",
     "p": 285660
+   },
+   {
+    "d": "2026-07-17",
+    "p": 395000
+   },
+   {
+    "d": "2026-07-17",
+    "p": 285660
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -1259,6 +1267,78 @@
   "erstmals_gesehen": "2026-07-17",
   "miete": 330,
   "id": "e5161392384",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 298000,
+  "qm": 59,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-17",
+    "p": 298000
+   }
+  ],
+  "erstmals_gesehen": "2026-07-17",
+  "miete": 649,
+  "id": "e9621504848",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Walchsee",
+  "ort": "Walchsee",
+  "plz": "6344",
+  "kaufpreis": 6344,
+  "qm": 93,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000T5gHg-ce470f09eb61481581742766ad7ce18b&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-17",
+    "p": 6344
+   }
+  ],
+  "erstmals_gesehen": "2026-07-17",
+  "miete": 1023,
+  "id": "e9378137230",
   "status": "aktiv"
  }
 ]
