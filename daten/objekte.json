@@ -1340,5 +1340,185 @@
   "miete": 1023,
   "id": "e9378137230",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Wien",
+  "ort": "Wien",
+  "plz": "1010",
+  "kaufpreis": 36020,
+  "qm": 52,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qyV-14f907ac7ac54135b3dea33807d71dd1&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-18",
+    "p": 36020
+   }
+  ],
+  "erstmals_gesehen": "2026-07-18",
+  "miete": 572,
+  "id": "e2516669434",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Erpfendorf",
+  "ort": "Erpfendorf",
+  "plz": "6383",
+  "kaufpreis": 6383,
+  "qm": 113,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qwt-b14429602772449dbaf2e7f1350f2b99&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-18",
+    "p": 6383
+   }
+  ],
+  "erstmals_gesehen": "2026-07-18",
+  "miete": 1243,
+  "id": "e3818720056",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Alpbach",
+  "ort": "Alpbach",
+  "plz": "6236",
+  "kaufpreis": 6236,
+  "qm": 7,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1778083908-745503c092a44a98badecd108b572029&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-18",
+    "p": 6236
+   }
+  ],
+  "erstmals_gesehen": "2026-07-18",
+  "miete": 77,
+  "id": "e2502496896",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Fulpmes",
+  "ort": "Fulpmes",
+  "plz": "6166",
+  "kaufpreis": 6166,
+  "qm": 26,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1784303762-b3553820cdcc489c8fe29054fa9ad81f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-18",
+    "p": 6166
+   }
+  ],
+  "erstmals_gesehen": "2026-07-18",
+  "miete": 286,
+  "id": "e7303727925",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Oberau",
+  "ort": "Oberau",
+  "plz": "6311",
+  "kaufpreis": 6311,
+  "qm": 44,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qwt-5ac12aacef254b78966d88826d0a291f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-18",
+    "p": 6311
+   }
+  ],
+  "erstmals_gesehen": "2026-07-18",
+  "miete": 484,
+  "id": "e8273419293",
+  "status": "aktiv"
  }
 ]
