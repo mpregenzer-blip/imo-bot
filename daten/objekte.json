@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 285660,
+  "kaufpreis": 395000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -112,6 +112,10 @@
    {
     "d": "2026-07-17",
     "p": 285660
+   },
+   {
+    "d": "2026-07-18",
+    "p": 395000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -1519,6 +1523,42 @@
   "erstmals_gesehen": "2026-07-18",
   "miete": 484,
   "id": "e8273419293",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Leutasch",
+  "ort": "Leutasch",
+  "plz": "6105",
+  "kaufpreis": 6105,
+  "qm": 72,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83TM-1784202175-34471ce61bc44977b6e91c72906852d8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-18",
+    "p": 6105
+   }
+  ],
+  "erstmals_gesehen": "2026-07-18",
+  "miete": 792,
+  "id": "e8070237942",
   "status": "aktiv"
  }
 ]
