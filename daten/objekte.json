@@ -1816,5 +1816,185 @@
   "miete": 737,
   "id": "e1095452972",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Aschau",
+  "ort": "Aschau",
+  "plz": "6274",
+  "kaufpreis": 6274,
+  "qm": 93,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83f8-1784541809-25e2644905a3447e93a543c7688a3b5c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-20",
+    "p": 6274
+   }
+  ],
+  "erstmals_gesehen": "2026-07-20",
+  "miete": 1023,
+  "id": "e3218901506",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Trins",
+  "ort": "Trins",
+  "plz": "6152",
+  "kaufpreis": 6152,
+  "qm": 64,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001V7Zjx-f20ddfc1daab41f4a6d162cfece5f474&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-20",
+    "p": 6152
+   }
+  ],
+  "erstmals_gesehen": "2026-07-20",
+  "miete": 704,
+  "id": "e9196073002",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Schwaz",
+  "ort": "Schwaz",
+  "plz": "6130",
+  "kaufpreis": 6130,
+  "qm": 45,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001LzF98-1783939520-2b4d7ee8a9954963bd7c4276c8a32814&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-20",
+    "p": 6130
+   }
+  ],
+  "erstmals_gesehen": "2026-07-20",
+  "miete": 495,
+  "id": "e1839958325",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Oetz",
+  "ort": "Oetz",
+  "plz": "6433",
+  "kaufpreis": 6433,
+  "qm": 92,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Qg96P-1784551885-c974d88a051b49d5a8a003b29cb6e1d7&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-20",
+    "p": 6433
+   }
+  ],
+  "erstmals_gesehen": "2026-07-20",
+  "miete": 1012,
+  "id": "e9444466864",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Telfs",
+  "ort": "Telfs",
+  "plz": "6410",
+  "kaufpreis": 6410,
+  "qm": 69,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83i4-1782835233-4b4f88c6df464699bd9d63bfe3b750de&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-20",
+    "p": 6410
+   }
+  ],
+  "erstmals_gesehen": "2026-07-20",
+  "miete": 759,
+  "id": "e4073155597",
+  "status": "aktiv"
  }
 ]
