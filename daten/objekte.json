@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 395000,
+  "kaufpreis": 375000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -116,6 +116,10 @@
    {
     "d": "2026-07-18",
     "p": 395000
+   },
+   {
+    "d": "2026-07-20",
+    "p": 375000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -1703,6 +1707,114 @@
   "erstmals_gesehen": "2026-07-19",
   "miete": 88,
   "id": "e7647879352",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Kufstein",
+  "ort": "Kufstein",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 99,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3ql5-ecc5480e0d154bc484d018684b72faa8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-20",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-07-20",
+  "miete": 1089,
+  "id": "e7342797074",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Wörgl",
+  "ort": "Wörgl",
+  "plz": "6300",
+  "kaufpreis": 6300,
+  "qm": 94,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3r0Z-cc5b077e6a8f4e9c9f870d909bbb9c5b&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-20",
+    "p": 6300
+   }
+  ],
+  "erstmals_gesehen": "2026-07-20",
+  "miete": 1034,
+  "id": "e2249530866",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wörgl",
+  "ort": "Wörgl",
+  "plz": "6300",
+  "kaufpreis": 6300,
+  "qm": 67,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83TD-8545983de2aa4ef5b680b554d8187598&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-20",
+    "p": 6300
+   }
+  ],
+  "erstmals_gesehen": "2026-07-20",
+  "miete": 737,
+  "id": "e1095452972",
   "status": "aktiv"
  }
 ]
