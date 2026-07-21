@@ -124,6 +124,14 @@
    {
     "d": "2026-07-21",
     "p": 350000
+   },
+   {
+    "d": "2026-07-21",
+    "p": 375000
+   },
+   {
+    "d": "2026-07-21",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -2107,6 +2115,78 @@
   "erstmals_gesehen": "2026-07-21",
   "miete": 308,
   "id": "e4750725970",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Ellmau",
+  "ort": "Ellmau",
+  "plz": "6352",
+  "kaufpreis": 6352,
+  "qm": 30,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qwY-efff6b125044423fa22178c167b20f6e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-21",
+    "p": 6352
+   }
+  ],
+  "erstmals_gesehen": "2026-07-21",
+  "miete": 330,
+  "id": "e7544157382",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Tulfes",
+  "ort": "Tulfes",
+  "plz": "6075",
+  "kaufpreis": 6075,
+  "qm": 48,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001ShQ2P-dc1016fdf6ed462fa6728951361835e5&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-21",
+    "p": 6075
+   }
+  ],
+  "erstmals_gesehen": "2026-07-21",
+  "miete": 528,
+  "id": "e3387352084",
   "status": "aktiv"
  }
 ]
