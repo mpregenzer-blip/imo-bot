@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 375000,
+  "kaufpreis": 350000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -120,6 +120,10 @@
    {
     "d": "2026-07-20",
     "p": 375000
+   },
+   {
+    "d": "2026-07-21",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -1995,6 +1999,114 @@
   "erstmals_gesehen": "2026-07-20",
   "miete": 759,
   "id": "e4073155597",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Erpfendorf",
+  "ort": "Erpfendorf",
+  "plz": "6383",
+  "kaufpreis": 6383,
+  "qm": 83,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qwt-022adad0ba3c4ff88935042b22857152&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-21",
+    "p": 6383
+   }
+  ],
+  "erstmals_gesehen": "2026-07-21",
+  "miete": 913,
+  "id": "e2466243177",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Auffach",
+  "ort": "Auffach",
+  "plz": "6313",
+  "kaufpreis": 6313,
+  "qm": 52,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3r0Z-2a3aa15e44a84a5ab7cd55c12b664074&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-21",
+    "p": 6313
+   }
+  ],
+  "erstmals_gesehen": "2026-07-21",
+  "miete": 572,
+  "id": "e7031983329",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Hochfilzen",
+  "ort": "Hochfilzen",
+  "plz": "6395",
+  "kaufpreis": 6395,
+  "qm": 28,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qm0-1778585788-b124a2c34189467c9890603224bc5234&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-21",
+    "p": 6395
+   }
+  ],
+  "erstmals_gesehen": "2026-07-21",
+  "miete": 308,
+  "id": "e4750725970",
   "status": "aktiv"
  }
 ]
