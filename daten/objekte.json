@@ -136,6 +136,14 @@
    {
     "d": "2026-07-22",
     "p": 387500
+   },
+   {
+    "d": "2026-07-22",
+    "p": 350000
+   },
+   {
+    "d": "2026-07-22",
+    "p": 387500
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -2299,6 +2307,114 @@
   "erstmals_gesehen": "2026-07-22",
   "miete": 1100,
   "id": "e7255761427",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 370000,
+  "qm": 700,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-22",
+    "p": 370000
+   }
+  ],
+  "erstmals_gesehen": "2026-07-22",
+  "miete": 7700,
+  "id": "e1701275239",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wiesing",
+  "ort": "Wiesing",
+  "plz": "6210",
+  "kaufpreis": 6210,
+  "qm": 52,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001QetnM-1784537645-f40a57fcf694415da9ddfa8a30f27806&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-22",
+    "p": 6210
+   }
+  ],
+  "erstmals_gesehen": "2026-07-22",
+  "miete": 572,
+  "id": "e3293671889",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Seefeld in",
+  "ort": "Seefeld in",
+  "plz": "6100",
+  "kaufpreis": 6100,
+  "qm": 67,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83gi-1784720844-0aa11beb553e439b8ba22345ccd6159a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-22",
+    "p": 6100
+   }
+  ],
+  "erstmals_gesehen": "2026-07-22",
+  "miete": 737,
+  "id": "e9658709741",
   "status": "aktiv"
  }
 ]
