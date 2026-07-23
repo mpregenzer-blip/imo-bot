@@ -2416,5 +2416,41 @@
   "miete": 737,
   "id": "e9658709741",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wattens",
+  "ort": "Wattens",
+  "plz": "6112",
+  "kaufpreis": 6112,
+  "qm": 64,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000Y6bqv-1778678903-c8af998060944ae3a569c3e65358d154&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-23",
+    "p": 6112
+   }
+  ],
+  "erstmals_gesehen": "2026-07-23",
+  "miete": 768,
+  "id": "e7872495145",
+  "status": "aktiv"
  }
 ]
