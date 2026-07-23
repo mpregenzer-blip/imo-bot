@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 387500,
+  "kaufpreis": 72000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -144,6 +144,10 @@
    {
     "d": "2026-07-22",
     "p": 387500
+   },
+   {
+    "d": "2026-07-23",
+    "p": 72000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -2451,6 +2455,150 @@
   "erstmals_gesehen": "2026-07-23",
   "miete": 768,
   "id": "e7872495145",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wenns",
+  "ort": "Wenns",
+  "plz": "6473",
+  "kaufpreis": 6473,
+  "qm": 86,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1784563674-530c019250694a32aae82737054250cf&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-23",
+    "p": 6473
+   }
+  ],
+  "erstmals_gesehen": "2026-07-23",
+  "miete": 946,
+  "id": "e2126375719",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Going am",
+  "ort": "Going am",
+  "plz": "6353",
+  "kaufpreis": 6353,
+  "qm": 18,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3ql5-0c90ff80493945329e87c650b6b646e8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-23",
+    "p": 6353
+   }
+  ],
+  "erstmals_gesehen": "2026-07-23",
+  "miete": 198,
+  "id": "e8897095209",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Going am",
+  "ort": "Going am",
+  "plz": "6353",
+  "kaufpreis": 6353,
+  "qm": 56,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3ql5-79c9ac0c1ea84423a8b97dc7f444fa74&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-23",
+    "p": 6353
+   }
+  ],
+  "erstmals_gesehen": "2026-07-23",
+  "miete": 616,
+  "id": "e8712169797",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Seefeld in",
+  "ort": "Seefeld in",
+  "plz": "6100",
+  "kaufpreis": 6100,
+  "qm": 32,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83TM-1784801591-accbd0474a9543f5bcc2e216a61ca994&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-23",
+    "p": 6100
+   }
+  ],
+  "erstmals_gesehen": "2026-07-23",
+  "miete": 352,
+  "id": "e7156268814",
   "status": "aktiv"
  }
 ]
