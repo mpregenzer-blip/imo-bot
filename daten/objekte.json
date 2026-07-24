@@ -2600,5 +2600,184 @@
   "miete": 352,
   "id": "e7156268814",
   "status": "aktiv"
+ },
+ {
+  "kat": "studenten",
+  "titel": "1-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 24,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001qplDZ-40f24152923240ac876601e40114705c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "uni": 60,
+   "oeffi": 60,
+   "ausgehen": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-24",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-07-24",
+  "miete": 480,
+  "id": "e9789582725",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Schwaz",
+  "ort": "Schwaz",
+  "plz": "6130",
+  "kaufpreis": 6130,
+  "qm": 58,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13as-8ff9d41ed1d84f3d93666b2ad39a3399&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-24",
+    "p": 6130
+   }
+  ],
+  "erstmals_gesehen": "2026-07-24",
+  "miete": 638,
+  "id": "e1870410466",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kirchberg in",
+  "ort": "Kirchberg in",
+  "plz": "6365",
+  "kaufpreis": 6365,
+  "qm": 30,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001qplDZ-859492020d83403c814889d23e7e678b&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-24",
+    "p": 6365
+   }
+  ],
+  "erstmals_gesehen": "2026-07-24",
+  "miete": 330,
+  "id": "e6955439407",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Wörgl",
+  "ort": "Wörgl",
+  "plz": "6300",
+  "kaufpreis": 6300,
+  "qm": 62,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83tZ-1773413508-b74931f641dd496c8c743ee52638f180&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-24",
+    "p": 6300
+   }
+  ],
+  "erstmals_gesehen": "2026-07-24",
+  "miete": 682,
+  "id": "e7597321929",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Wattens",
+  "ort": "Wattens",
+  "plz": "6112",
+  "kaufpreis": 6112,
+  "qm": 42,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P9000007gins-1d645ae025d54b889c8d14b354c7cfff&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-24",
+    "p": 6112
+   }
+  ],
+  "erstmals_gesehen": "2026-07-24",
+  "miete": 504,
+  "id": "e3465510434",
+  "status": "aktiv"
  }
 ]
