@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 72000,
+  "kaufpreis": 217950,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -148,6 +148,10 @@
    {
     "d": "2026-07-23",
     "p": 72000
+   },
+   {
+    "d": "2026-07-24",
+    "p": 217950
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -2778,6 +2782,42 @@
   "erstmals_gesehen": "2026-07-24",
   "miete": 504,
   "id": "e3465510434",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Prutz",
+  "ort": "Prutz",
+  "plz": "6522",
+  "kaufpreis": 6522,
+  "qm": 90,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1784887608-890106061fb1477e957a9fb45cd63eec&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-24",
+    "p": 6522
+   }
+  ],
+  "erstmals_gesehen": "2026-07-24",
+  "miete": 990,
+  "id": "e1770490303",
   "status": "aktiv"
  }
 ]
