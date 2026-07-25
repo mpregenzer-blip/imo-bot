@@ -2963,5 +2963,41 @@
   "miete": 374,
   "id": "e8430329529",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 385000,
+  "qm": 10,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-25",
+    "p": 385000
+   }
+  ],
+  "erstmals_gesehen": "2026-07-25",
+  "miete": 110,
+  "id": "e7720768586",
+  "status": "aktiv"
  }
 ]
