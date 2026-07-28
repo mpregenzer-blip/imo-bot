@@ -3251,5 +3251,77 @@
   "miete": 154,
   "id": "e9681297659",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kufstein",
+  "ort": "Kufstein",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 12,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83UG-bccb06f116d94f28936965e9e43ca581&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-28",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-07-28",
+  "miete": 132,
+  "id": "e4341890192",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Thiersee",
+  "ort": "Thiersee",
+  "plz": "6335",
+  "kaufpreis": 6335,
+  "qm": 2,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83TD-65b492024ad8476b936c4274650c12c6&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-28",
+    "p": 6335
+   }
+  ],
+  "erstmals_gesehen": "2026-07-28",
+  "miete": 22,
+  "id": "e9880279041",
+  "status": "aktiv"
  }
 ]
