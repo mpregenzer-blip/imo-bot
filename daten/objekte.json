@@ -3435,5 +3435,76 @@
   "miete": 0,
   "id": "e5122748135",
   "status": "aktiv"
+ },
+ {
+  "kat": "studenten",
+  "titel": "1-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 34,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1785232032-c45dfa4d9979410a904aef223587e3a2&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "uni": 60,
+   "oeffi": 60,
+   "ausgehen": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-29",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-07-29",
+  "miete": 680,
+  "id": "e6424796347",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Münster",
+  "ort": "Münster",
+  "plz": "6232",
+  "kaufpreis": 6232,
+  "qm": 71,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000hvBxg-1784981967-38842a964cfd4526878adef151fab7a7&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-29",
+    "p": 6232
+   }
+  ],
+  "erstmals_gesehen": "2026-07-29",
+  "miete": 781,
+  "id": "e8213259298",
+  "status": "aktiv"
  }
 ]
