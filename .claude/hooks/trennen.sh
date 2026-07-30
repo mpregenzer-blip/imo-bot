@@ -109,7 +109,7 @@ website() {
     DURCHMARSCH.md|ARBEITSPLAN.md|ABSCHLUSS_*|OFFEN_ENTSCHIEDEN.md) return 0 ;;
     START_NEUER_CHAT.md|Gebhard_landing_*|VIDEO_UND_GAESTE.md) return 0 ;;
     PRUEFPROTOKOLL_Hotel_*|PRUEFPROTOKOLL_ABNAHME.md) return 0 ;;
-    ENTWURF_*|alte_urls_typo3.txt) return 0 ;;
+    ENTWURF_*|SEEKDA_*|alte_urls_typo3.txt) return 0 ;;
     poster_*.jpg|kopf_*.png|og_gebhard_*.jpg) return 0 ;;
     logo|bilder_klein|EINBAU_*|pruefwerkzeuge) return 0 ;;
     LEERE_SNIPPETS_*|MASTERPLAN.md|OFFENE_FRAGEN_LAUF.md) return 0 ;;
@@ -270,6 +270,53 @@ GI_ENDE
     echo "   bash $0 --schreibtisch-machen   (kopiert nach $ZIEL/strategie)"
     ;;
 
+  --unklar)
+    if [ "$U_N" -eq 0 ]; then
+      echo "Keine unklaren Einträge. Nichts zu pruefen."
+      exit 0
+    fi
+    # Stichwoerter beider Welten. Die Zaehlung ist ein Hinweis, kein Urteil --
+    # darunter stehen immer die ersten Zeilen zum Selbstlesen.
+    BOT_W='gmail|outlook|whatsapp|smtp|imap|posteingang|postfach|absender|betreff'
+    BOT_W="$BOT_W"'|credential|token|api.?key|server\.py|core\.py|config\.py|mail.?bot'
+    BOT_W="$BOT_W"'|antwortvorschlag|vorlage|template|abwesenheit|signatur'
+    WEB_W='framer|seekda|landingpage|aria|alt.?text|typo3|\.tsx|\.css|schema\.org'
+    WEB_W="$WEB_W"'|meta.?description|slug|karussell|navigation|zimmer|wellness'
+    WEB_W="$WEB_W"'|ueberschrift|überschrift|seo|breadcrumb|bildschirmleser|screenreader'
+
+    while IFS= read -r NAME; do
+      [ -z "$NAME" ] && continue
+      DATEI="$QUELLE/$NAME"
+      echo "=================================================================="
+      echo " $NAME"
+      echo "=================================================================="
+      if [ -d "$DATEI" ]; then
+        echo "   Ordner -- bitte selbst ansehen."
+        echo
+        continue
+      fi
+      # grep -c gibt bei null Treffern bereits "0" aus und endet mit Code 1.
+      # Ein "|| echo 0" wuerde eine zweite Null anhaengen -- daher "|| true".
+      B="$(grep -ciE "$BOT_W" "$DATEI" 2>/dev/null || true)"; B="${B:-0}"
+      W="$(grep -ciE "$WEB_W" "$DATEI" 2>/dev/null || true)"; W="${W:-0}"
+      echo "   Treffer Mail-Bot: $B      Treffer Website: $W"
+      if   [ "$W" -gt $((B * 2)) ] && [ "$W" -gt 2 ]; then
+        echo "   HINWEIS: sieht nach WEBSITE aus."
+      elif [ "$B" -gt $((W * 2)) ] && [ "$B" -gt 2 ]; then
+        echo "   HINWEIS: sieht nach MAIL-BOT aus."
+      else
+        echo "   HINWEIS: nicht eindeutig -- die Zeilen unten entscheiden."
+      fi
+      echo "   ---- erste Zeilen ----"
+      grep -v '^[[:space:]]*$' "$DATEI" 2>/dev/null | head -8 | cut -c1-100 | sed 's/^/   | /'
+      echo
+    done <<<"$U_LISTE"
+    echo "=================================================================="
+    echo " Nichts wurde geaendert. Schick mir diese Ausgabe als Text,"
+    echo " dann trage ich die Zuordnung fest ins Skript ein."
+    echo "=================================================================="
+    ;;
+
   --aufraeumen)
     if [ ! -d "$ZIEL" ]; then
       echo "FEHLER: $ZIEL gibt es nicht. Erst --machen ausfuehren."
@@ -308,6 +355,7 @@ GI_ENDE
     echo
     echo "Erlaubt:"
     echo "  (ohne)                  Trockenlauf Mail_Agent -> Website-Projekt"
+    echo "  --unklar                liest die unklaren Dateien und gibt Hinweise"
     echo "  --machen                kopiert die Website-Dateien"
     echo "  --aufraeumen            loescht die Originale nach Pruefung"
     echo "  --schreibtisch          Trockenlauf Planungsmaterial vom Desktop"
