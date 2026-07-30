@@ -83,6 +83,45 @@ suchen "Mail-Bot-Code, nicht Website" -rIlE \
   -e 'import (imaplib|smtplib)|google\.oauth2|msal|from googleapiclient' \
   . --include='*.py' --exclude-dir=.git
 
+# --- Vorgeschichte, falls hier schon ein Repository liegt ---
+# Eine Datei, die aus dem Ordner geloescht wurde, steckt weiterhin in der
+# Git-Vorgeschichte und wuerde beim Push mitgehen. Die Pruefung des
+# Arbeitsordners allein hat das nicht gesehen.
+if [ -d .git ]; then
+  echo
+  echo "   Es liegt schon eine Git-Vorgeschichte vor -- pruefe auch die."
+  VG_STOPP=0
+
+  VG_DATEIEN="$(git log --all --name-only --pretty=format: 2>/dev/null \
+    | sort -u | grep -E '^(.*/)?(credentials.*\.json|token\.json|secret_key\.txt|\.env|id_rsa|id_ed25519|.*\.pem|.*\.key|.*\.p12)$' || true)"
+  if [ -n "$VG_DATEIEN" ]; then
+    printf '%s\n' "$VG_DATEIEN" | while IFS= read -r F; do
+      [ -n "$F" ] && echo "   ABBRUCH-GRUND: $F steckt in der Vorgeschichte"
+    done
+    VG_STOPP=1
+  fi
+
+  VG_INHALT="$(git log --all -p 2>/dev/null | grep -cE -e "$GEHEIM" || true)"
+  VG_INHALT="${VG_INHALT:-0}"
+  case "$VG_INHALT" in ''|*[!0-9]*) VG_INHALT=0 ;; esac
+  if [ "$VG_INHALT" -gt 0 ]; then
+    echo "   ABBRUCH-GRUND: $VG_INHALT Stellen in der Vorgeschichte sehen wie"
+    echo "                  Zugangsdaten aus."
+    VG_STOPP=1
+  fi
+
+  if [ "$VG_STOPP" -eq 1 ]; then
+    STOPP=1
+    echo
+    echo "   Loesung: Dieses Projekt ist eine Kopie, die Vorgeschichte braucht"
+    echo "            niemand. Am einfachsten neu anfangen:"
+    echo "              rm -rf \"$PROJEKT/.git\""
+    echo "            Danach dieses Skript erneut starten."
+  else
+    echo "   Vorgeschichte ist sauber."
+  fi
+fi
+
 if [ "$STOPP" -eq 1 ]; then
   echo
   echo "=================================================================="
