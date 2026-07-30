@@ -15,7 +15,56 @@ set -u
 
 QUELLE="${QUELLE:-$HOME/Programme/Claude/Mail_Agent}"
 ZIEL="${ZIEL:-$HOME/Programme/Claude/Hotel_Gebhard_Web}"
+SCHREIBTISCH="${SCHREIBTISCH:-$HOME/Desktop/Hotel Gebhard - Projekt}"
 MODUS="${1:-trocken}"
+
+# ------------------------------------------------- Planungsmaterial vom Desktop
+# Die durchnummerierten Strategie-, Ads-, GA4- und SEO-Dateien sind eine andere
+# Art Material als die Framer-Bausteine. Sie kommen als Unterordner herein,
+# nicht in die gleiche Reihe.
+schreibtisch_holen() {
+  local TUN="$1"
+  if [ ! -d "$SCHREIBTISCH" ]; then
+    echo "FEHLER: \"$SCHREIBTISCH\" gibt es nicht."
+    echo "Anderen Pfad angeben:"
+    echo "  SCHREIBTISCH=\"/pfad/zum/ordner\" bash $0 $MODUS"
+    return 1
+  fi
+  local N
+  N="$(cd "$SCHREIBTISCH" && ls -A | grep -c . || echo 0)"
+  echo "=================================================================="
+  echo " Planungsmaterial: $SCHREIBTISCH"
+  echo " Zielordner:       $ZIEL/strategie"
+  echo " Einträge:         $N"
+  echo "=================================================================="
+  echo
+  (cd "$SCHREIBTISCH" && ls -A | sed 's/^/   /')
+  echo
+  if [ "$TUN" != "ja" ]; then
+    echo " TROCKENLAUF -- nichts wurde geaendert."
+    echo " Wenn es passt:   bash $0 --schreibtisch-machen"
+    return 0
+  fi
+  if [ ! -d "$ZIEL" ]; then
+    echo "FEHLER: $ZIEL gibt es noch nicht. Erst 'bash $0 --machen' ausfuehren."
+    return 1
+  fi
+  mkdir -p "$ZIEL/strategie"
+  if cp -Rp "$SCHREIBTISCH/." "$ZIEL/strategie/"; then
+    echo " FERTIG. $N Einträge kopiert nach $ZIEL/strategie"
+    echo " Das Original auf dem Schreibtisch bleibt liegen -- Absicht."
+    echo " Loeschen erst, wenn du im neuen Projekt nachgesehen hast."
+  else
+    echo " FEHLER beim Kopieren. Original ist unberuehrt."
+    return 1
+  fi
+}
+
+# Diese zwei Modi brauchen den Mail_Agent-Ordner gar nicht -- vorher abfangen.
+case "$MODUS" in
+  --schreibtisch)        schreibtisch_holen nein; exit $? ;;
+  --schreibtisch-machen) schreibtisch_holen ja;   exit $? ;;
+esac
 
 # ---------------------------------------------------------------- Positivliste
 # Alles hier gehoert zum Mail-Bot und bleibt, wo es ist.
@@ -215,6 +264,10 @@ GI_ENDE
     echo "   bash $0 --aufraeumen"
     echo
     echo " Bis dahin liegt alles doppelt. Das ist Absicht."
+    echo
+    echo " Noch offen: das Planungsmaterial vom Schreibtisch."
+    echo "   bash $0 --schreibtisch          (zeigt nur)"
+    echo "   bash $0 --schreibtisch-machen   (kopiert nach $ZIEL/strategie)"
     ;;
 
   --aufraeumen)
@@ -252,7 +305,13 @@ GI_ENDE
 
   *)
     echo "Unbekannte Angabe: $MODUS"
-    echo "Erlaubt: (ohne) | --machen | --aufraeumen"
+    echo
+    echo "Erlaubt:"
+    echo "  (ohne)                  Trockenlauf Mail_Agent -> Website-Projekt"
+    echo "  --machen                kopiert die Website-Dateien"
+    echo "  --aufraeumen            loescht die Originale nach Pruefung"
+    echo "  --schreibtisch          Trockenlauf Planungsmaterial vom Desktop"
+    echo "  --schreibtisch-machen   kopiert es nach <Ziel>/strategie"
     exit 1
     ;;
 esac
