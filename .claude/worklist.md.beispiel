@@ -1,0 +1,24 @@
+# Arbeitsliste
+
+Der Stop-Hook liest diese Datei. Solange hier ein `- [ ]` steht, arbeitet
+Claude weiter, ohne dass du etwas tippen musst. Abgehakte Punkte sind `- [x]`.
+
+Regeln, damit es sauber laeuft:
+
+- Ein Punkt = eine Runde Arbeit. Zu grosse Punkte aufteilen.
+- Den Punkt so schreiben, dass er ohne Rueckfrage bearbeitbar ist:
+  Datei, Stelle und Ziel nennen.
+- Fertige Punkte nicht loeschen, nur abhaken. Das ist der Stand, der einen
+  vollen Chat ueberlebt.
+
+## Offen
+
+- [ ] Beispiel: In index.html den doppelt benannten Ueberschriftenblock im
+      Zimmer-Abschnitt entfernen (nur 121 px hoch, traegt keinen Bereich).
+- [ ] Beispiel: Wellness-Doppelung aufloesen -- zwei ineinanderliegende
+      Bereiche gleicher Groesse, den inneren entnennen.
+
+## Fertig
+
+- [x] Beispiel: Messwerkzeug gebaut, das jede doppelte Bereichsnennung mit
+      Position, Hoehe und Verschachtelung ausgibt.
