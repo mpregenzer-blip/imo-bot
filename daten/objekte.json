@@ -3653,5 +3653,113 @@
   "miete": 737,
   "id": "e950269373",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Götzens",
+  "ort": "Götzens",
+  "plz": "6091",
+  "kaufpreis": 6091,
+  "qm": 44,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13a9-d0bf4094752b47a59edff6a75e0e0b7c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-30",
+    "p": 6091
+   }
+  ],
+  "erstmals_gesehen": "2026-07-30",
+  "miete": 484,
+  "id": "e1419346976",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Seefeld in",
+  "ort": "Seefeld in",
+  "plz": "6100",
+  "kaufpreis": 6100,
+  "qm": 45,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000WzgvF-9679027643df4ef0a489ebaa93a7875f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-30",
+    "p": 6100
+   }
+  ],
+  "erstmals_gesehen": "2026-07-30",
+  "miete": 495,
+  "id": "e7898920612",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Reutte",
+  "ort": "Reutte",
+  "plz": "6600",
+  "kaufpreis": 6600,
+  "qm": 74,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001kSL3p-1771499187-835e630e1cf246e99230f46b50b25501&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-30",
+    "p": 6600
+   }
+  ],
+  "erstmals_gesehen": "2026-07-30",
+  "miete": 814,
+  "id": "e5800111585",
+  "status": "aktiv"
  }
 ]
