@@ -117,6 +117,37 @@ website() {
   return 1
 }
 
+# ------------------------------------------------------- Urteil aus dem Inhalt
+# Wenn der Dateiname nichts verraet, entscheidet der Text.
+# Setzt IU_URTEIL (web|bot|offen) sowie IU_B und IU_W als Beweis.
+# Wichtig: Das Ergebnis wird NICHT per echo zurueckgegeben -- ein Aufruf in
+# $(...) liefe in einer Unter-Shell, und IU_B/IU_W waeren dort verloren.
+BOT_W='gmail|outlook|whatsapp|smtp|imap|posteingang|postfach|absender|betreff'
+BOT_W="$BOT_W"'|credential|token|api.?key|server\.py|core\.py|config\.py|mail.?bot'
+BOT_W="$BOT_W"'|antwortvorschlag|abwesenheit|signatur'
+WEB_W='framer|seekda|landingpage|aria|alt.?text|typo3|\.tsx|\.css|schema\.org'
+WEB_W="$WEB_W"'|meta.?description|slug|karussell|navigation|zimmer|wellness'
+WEB_W="$WEB_W"'|ueberschrift|überschrift|seo|breadcrumb|bildschirmleser|screenreader'
+
+IU_B=0; IU_W=0; IU_URTEIL=offen
+inhalt_urteil() {
+  local DATEI="$QUELLE/$1"
+  IU_B=0; IU_W=0; IU_URTEIL=offen
+  [ -f "$DATEI" ] || return
+  # Nur lesbare Textformate anfassen -- keine Bilder, kein Archiv.
+  case "$1" in
+    *.md|*.markdown|*.txt|*.csv|*.log|*.json|*.html|*.htm|*.css|*.js|*.ts|*.tsx|*.py|*.jsonl) ;;
+    *) return ;;
+  esac
+  # grep -c gibt bei null Treffern bereits "0" aus und endet mit Code 1.
+  # Ein "|| echo 0" wuerde eine zweite Null anhaengen -- daher "|| true".
+  IU_B="$(grep -ciE "$BOT_W" "$DATEI" 2>/dev/null || true)"; IU_B="${IU_B:-0}"
+  IU_W="$(grep -ciE "$WEB_W" "$DATEI" 2>/dev/null || true)"; IU_W="${IU_W:-0}"
+  if   [ "$IU_W" -gt $((IU_B * 2)) ] && [ "$IU_W" -gt 2 ]; then IU_URTEIL=web
+  elif [ "$IU_B" -gt $((IU_W * 2)) ] && [ "$IU_B" -gt 2 ]; then IU_URTEIL=bot
+  fi
+}
+
 # -------------------------------------------------------------------- Pruefung
 if [ ! -d "$QUELLE" ]; then
   echo "FEHLER: $QUELLE gibt es nicht."
@@ -125,8 +156,8 @@ if [ ! -d "$QUELLE" ]; then
 fi
 
 # ------------------------------------------------------------------ Einsortieren
-B_LISTE=""; W_LISTE=""; U_LISTE=""
-B_N=0; W_N=0; U_N=0
+B_LISTE=""; W_LISTE=""; U_LISTE=""; I_LISTE=""
+B_N=0; W_N=0; U_N=0; I_N=0
 
 while IFS= read -r NAME; do
   [ -z "$NAME" ] && continue
@@ -135,7 +166,21 @@ while IFS= read -r NAME; do
   elif website "$NAME"; then
     W_LISTE="$W_LISTE$NAME"$'\n'; W_N=$((W_N + 1))
   else
-    U_LISTE="$U_LISTE$NAME"$'\n'; U_N=$((U_N + 1))
+    # Der Name sagt nichts -- jetzt entscheidet der Inhalt.
+    # Direkter Aufruf, nicht in $(...): sonst gehen IU_B/IU_W verloren.
+    inhalt_urteil "$NAME"
+    case "$IU_URTEIL" in
+      web)
+        W_LISTE="$W_LISTE$NAME"$'\n'; W_N=$((W_N + 1))
+        I_LISTE="$I_LISTE$NAME  ->  Website   (Stichwoerter: Bot $IU_B / Web $IU_W)"$'\n'
+        I_N=$((I_N + 1)) ;;
+      bot)
+        B_LISTE="$B_LISTE$NAME"$'\n'; B_N=$((B_N + 1))
+        I_LISTE="$I_LISTE$NAME  ->  Mail-Bot  (Stichwoerter: Bot $IU_B / Web $IU_W)"$'\n'
+        I_N=$((I_N + 1)) ;;
+      *)
+        U_LISTE="$U_LISTE$NAME"$'\n'; U_N=$((U_N + 1)) ;;
+    esac
   fi
 done < <(cd "$QUELLE" && ls -A)
 
@@ -148,6 +193,15 @@ echo "BLEIBT beim Mail-Bot ................ $B_N Einträge"
 echo "WANDERT ins Website-Projekt ......... $W_N Einträge"
 echo "UNKLAR, bleibt vorerst liegen ....... $U_N Einträge"
 echo
+
+if [ "$I_N" -gt 0 ]; then
+  echo "------------------------------------------------------------------"
+  echo " Bei $I_N Dateien sagte der Name nichts -- der INHALT hat entschieden."
+  echo " Bitte kurz gegenlesen; mit --unklar siehst du die Textstellen:"
+  echo "------------------------------------------------------------------"
+  printf '%s' "$I_LISTE" | sed 's/^/   /'
+  echo
+fi
 
 if [ "$U_N" -gt 0 ]; then
   echo "------------------------------------------------------------------"
@@ -271,18 +325,13 @@ GI_ENDE
     ;;
 
   --unklar)
-    if [ "$U_N" -eq 0 ]; then
-      echo "Keine unklaren Einträge. Nichts zu pruefen."
+    if [ "$U_N" -eq 0 ] && [ "$I_N" -eq 0 ]; then
+      echo "Kein Fall, bei dem der Name nichts verraet. Nichts zu pruefen."
       exit 0
     fi
-    # Stichwoerter beider Welten. Die Zaehlung ist ein Hinweis, kein Urteil --
-    # darunter stehen immer die ersten Zeilen zum Selbstlesen.
-    BOT_W='gmail|outlook|whatsapp|smtp|imap|posteingang|postfach|absender|betreff'
-    BOT_W="$BOT_W"'|credential|token|api.?key|server\.py|core\.py|config\.py|mail.?bot'
-    BOT_W="$BOT_W"'|antwortvorschlag|vorlage|template|abwesenheit|signatur'
-    WEB_W='framer|seekda|landingpage|aria|alt.?text|typo3|\.tsx|\.css|schema\.org'
-    WEB_W="$WEB_W"'|meta.?description|slug|karussell|navigation|zimmer|wellness'
-    WEB_W="$WEB_W"'|ueberschrift|überschrift|seo|breadcrumb|bildschirmleser|screenreader'
+    # Alle Faelle zeigen, bei denen der Name nichts verriet: die vom Inhalt
+    # entschiedenen (damit du sie gegenlesen kannst) und die offenen.
+    PRUEFEN="$(printf '%s' "$I_LISTE" | sed 's/  ->  .*//')"$'\n'"$U_LISTE"
 
     while IFS= read -r NAME; do
       [ -z "$NAME" ] && continue
@@ -310,10 +359,12 @@ GI_ENDE
       echo "   ---- erste Zeilen ----"
       grep -v '^[[:space:]]*$' "$DATEI" 2>/dev/null | head -8 | cut -c1-100 | sed 's/^/   | /'
       echo
-    done <<<"$U_LISTE"
+    done <<<"$PRUEFEN"
     echo "=================================================================="
-    echo " Nichts wurde geaendert. Schick mir diese Ausgabe als Text,"
-    echo " dann trage ich die Zuordnung fest ins Skript ein."
+    echo " Nichts wurde geaendert -- das war nur Lesen."
+    echo " Die als WEBSITE oder MAIL-BOT erkannten sind im Trockenlauf schon"
+    echo " richtig einsortiert. Nur wo 'nicht eindeutig' steht, bleibt die"
+    echo " Datei liegen -- sag mir bei denen, wohin sie gehoert."
     echo "=================================================================="
     ;;
 
