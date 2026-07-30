@@ -66,6 +66,29 @@ case "$MODUS" in
   --schreibtisch-machen) schreibtisch_holen ja;   exit $? ;;
 esac
 
+# Angabe SOFORT pruefen, bevor irgendein Bericht ausgegeben wird. Sonst sieht
+# ein Tippfehler wie ein erfolgreicher Lauf aus: Beim Einfuegen zweier Zeilen
+# ohne Umbruch entstand einmal "--schreibtisch-machenls", das Skript gab
+# seinen Hilfetext aus, und der sah in einer Pipe wie ein Ergebnis aus.
+case "$MODUS" in
+  trocken|--machen|--aufraeumen|--unklar) ;;
+  *)
+    echo "FEHLER: unbekannte Angabe \"$MODUS\"" >&2
+    echo >&2
+    echo "Erlaubt:" >&2
+    echo "  (ohne)                  Trockenlauf Mail_Agent -> Website-Projekt" >&2
+    echo "  --unklar                liest die unklaren Dateien und gibt Hinweise" >&2
+    echo "  --machen                kopiert die Website-Dateien" >&2
+    echo "  --aufraeumen            loescht die Originale nach Pruefung" >&2
+    echo "  --schreibtisch          Trockenlauf Planungsmaterial vom Desktop" >&2
+    echo "  --schreibtisch-machen   kopiert es nach <Ziel>/strategie" >&2
+    echo >&2
+    echo "Tipp: Befehle einzeln ausfuehren. Klebt beim Einfuegen eine zweite" >&2
+    echo "      Zeile an die erste, entsteht eine ungueltige Angabe wie diese." >&2
+    exit 2
+    ;;
+esac
+
 # ---------------------------------------------------------------- Positivliste
 # Alles hier gehoert zum Mail-Bot und bleibt, wo es ist.
 behalten() {
