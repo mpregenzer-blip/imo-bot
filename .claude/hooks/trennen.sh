@@ -71,13 +71,14 @@ esac
 # ohne Umbruch entstand einmal "--schreibtisch-machenls", das Skript gab
 # seinen Hilfetext aus, und der sah in einer Pipe wie ein Ergebnis aus.
 case "$MODUS" in
-  trocken|--machen|--aufraeumen|--unklar) ;;
+  trocken|--machen|--aufraeumen|--unklar|--pruefen) ;;
   *)
     echo "FEHLER: unbekannte Angabe \"$MODUS\"" >&2
     echo >&2
     echo "Erlaubt:" >&2
     echo "  (ohne)                  Trockenlauf Mail_Agent -> Website-Projekt" >&2
     echo "  --unklar                liest die unklaren Dateien und gibt Hinweise" >&2
+    echo "  --pruefen               kontrolliert die Vollstaendigkeit, loescht nichts" >&2
     echo "  --machen                kopiert die Website-Dateien" >&2
     echo "  --aufraeumen            loescht die Originale nach Pruefung" >&2
     echo "  --schreibtisch          Trockenlauf Planungsmaterial vom Desktop" >&2
@@ -400,6 +401,56 @@ GI_ENDE
     echo "=================================================================="
     ;;
 
+  --pruefen)
+    if [ ! -d "$ZIEL" ]; then
+      echo "FEHLER: $ZIEL gibt es nicht. Erst 'bash $0 --machen' ausfuehren."
+      exit 1
+    fi
+    echo "------------------------------------------------------------------"
+    echo " Vollstaendigkeit: ist jeder Eintrag im Website-Projekt angekommen?"
+    echo "------------------------------------------------------------------"
+    FEHLT=0; DA=0
+    while IFS= read -r NAME; do
+      [ -z "$NAME" ] && continue
+      if [ -e "$ZIEL/$NAME" ]; then
+        DA=$((DA + 1))
+      else
+        echo "   FEHLT: $NAME"
+        FEHLT=$((FEHLT + 1))
+      fi
+    done <<<"$W_LISTE"
+    echo "   angekommen: $DA von $W_N"
+    echo
+
+    # Liegt etwas nur noch im Ziel, aber nicht mehr in der Quelle? Dann wurde
+    # bereits aufgeraeumt.
+    NOCH_DOPPELT=0
+    while IFS= read -r NAME; do
+      [ -z "$NAME" ] && continue
+      [ -e "$QUELLE/$NAME" ] && NOCH_DOPPELT=$((NOCH_DOPPELT + 1))
+    done <<<"$W_LISTE"
+
+    echo "------------------------------------------------------------------"
+    if [ "$FEHLT" -gt 0 ]; then
+      echo " NICHT VOLLSTAENDIG: $FEHLT Einträge fehlen im Website-Projekt."
+      echo " Nicht aufraeumen. Erst nochmal:  bash $0 --machen"
+      exit 1
+    fi
+    echo " VOLLSTAENDIG. Alle $W_N Einträge sind im Website-Projekt."
+    if [ "$NOCH_DOPPELT" -gt 0 ]; then
+      echo
+      echo " $NOCH_DOPPELT davon liegen noch zusaetzlich im Mail-Agent-Ordner."
+      echo " Das ist der Grund, warum dort noch Website-Dateien stehen: der"
+      echo " Kopierschritt kopiert, er verschiebt nicht. Die Originale bleiben"
+      echo " absichtlich liegen, bis du beide Projekte geprueft hast."
+      echo
+      echo " Zum Entfernen der Originale:  bash $0 --aufraeumen"
+    else
+      echo " Im Mail-Agent-Ordner liegt keine davon mehr -- schon aufgeraeumt."
+    fi
+    echo "------------------------------------------------------------------"
+    ;;
+
   --aufraeumen)
     if [ ! -d "$ZIEL" ]; then
       echo "FEHLER: $ZIEL gibt es nicht. Erst --machen ausfuehren."
@@ -439,6 +490,7 @@ GI_ENDE
     echo "Erlaubt:"
     echo "  (ohne)                  Trockenlauf Mail_Agent -> Website-Projekt"
     echo "  --unklar                liest die unklaren Dateien und gibt Hinweise"
+    echo "  --pruefen               kontrolliert die Vollstaendigkeit, loescht nichts"
     echo "  --machen                kopiert die Website-Dateien"
     echo "  --aufraeumen            loescht die Originale nach Pruefung"
     echo "  --schreibtisch          Trockenlauf Planungsmaterial vom Desktop"
