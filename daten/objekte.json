@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 259000,
+  "kaufpreis": 147000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -160,6 +160,10 @@
    {
     "d": "2026-07-29",
     "p": 259000
+   },
+   {
+    "d": "2026-07-30",
+    "p": 147000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -3760,6 +3764,78 @@
   "erstmals_gesehen": "2026-07-30",
   "miete": 814,
   "id": "e5800111585",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Lechaschau",
+  "ort": "Lechaschau",
+  "plz": "6600",
+  "kaufpreis": 6600,
+  "qm": 7,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001kSL3p-1785406567-e8a0ccc15055487fabe3a8b4f31b89f6&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-30",
+    "p": 6600
+   }
+  ],
+  "erstmals_gesehen": "2026-07-30",
+  "miete": 77,
+  "id": "e8381456036",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Inzing",
+  "ort": "Inzing",
+  "plz": "6401",
+  "kaufpreis": 6401,
+  "qm": 38,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000hvBxg-1785415031-d02561c55d0645b791799356c833f1c7&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-30",
+    "p": 6401
+   }
+  ],
+  "erstmals_gesehen": "2026-07-30",
+  "miete": 418,
+  "id": "e3933894818",
   "status": "aktiv"
  }
 ]
