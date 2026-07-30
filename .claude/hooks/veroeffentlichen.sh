@@ -149,26 +149,43 @@ done < <(grep -rIlE -e 'GTM-[A-Z0-9]{6,}|G-[A-Z0-9]{8,}|UA-[0-9]{4,}' \
 echo
 echo "2. .gitignore"
 echo "-------------"
-if [ -f .gitignore ]; then
-  echo "   existiert schon, unveraendert gelassen."
-else
-  cat >.gitignore <<'GI_ENDE'
-# Zugangsdaten -- niemals einchecken
-credentials*.json
+# Eine vorhandene .gitignore wird NICHT uebergangen -- fehlende Schutzzeilen
+# werden ergaenzt. Sonst erbt das Projekt eine Datei, die nur .DS_Store kennt,
+# und eine spaeter hinzukommende .env waere ungeschuetzt.
+PFLICHT='credentials*.json
 token.json
 secret_key.txt
 .env
+.env.*
+!.env.example
 *.pem
 *.key
-
-# macOS
+*.p12
 .DS_Store
-
-# Zustand des Weiterarbeiten-Hooks
 .claude/.weiter-zaehler
-.claude/STOP
-GI_ENDE
+.claude/STOP'
+
+if [ ! -f .gitignore ]; then
+  printf '# Zugangsdaten -- niemals einchecken\n' >.gitignore
+  printf '%s\n' "$PFLICHT" >>.gitignore
   echo "   angelegt."
+else
+  FEHLT=""
+  while IFS= read -r Z; do
+    [ -z "$Z" ] && continue
+    grep -qxF -- "$Z" .gitignore || FEHLT="$FEHLT$Z"$'\n'
+  done <<<"$PFLICHT"
+  if [ -z "$FEHLT" ]; then
+    echo "   existiert und ist vollstaendig."
+  else
+    ANZ_F="$(printf '%s' "$FEHLT" | grep -c . || true)"; ANZ_F="${ANZ_F:-0}"
+    {
+      printf '\n# Ergaenzt von veroeffentlichen.sh -- Zugangsdaten schuetzen\n'
+      printf '%s' "$FEHLT"
+    } >>.gitignore
+    echo "   existierte, $ANZ_F fehlende Schutzzeilen ergaenzt:"
+    printf '%s' "$FEHLT" | sed 's/^/      /'
+  fi
 fi
 
 # ================================================== 3. Repository vorbereiten
