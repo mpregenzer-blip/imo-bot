@@ -86,6 +86,10 @@ behalten() {
     index.html|chat_widget.html) return 0 ;;
     # Anleitungen zum Bot
     SETUP.md|BUILD.md|WINDOWS_SETUP.md|MICROSOFT_SETUP.md|WHATSAPP_SETUP.md|PLATFORM.md) return 0 ;;
+    # Umgebungsvariablen -- gehoeren zum Bot und duerfen nirgends hin wandern
+    .env|.env.*|*.env) return 0 ;;
+    # Fertig gebaute App
+    Mail-Bot.app) return 0 ;;
     # Ordner und Verstecktes
     venv|.venv|build|dist|__pycache__|mail-agent-ui-update) return 0 ;;
     .git|.gitignore|.claude|.DS_Store) return 0 ;;
@@ -285,6 +289,11 @@ credentials.json
 credentials_old_backup.json
 token.json
 secret_key.txt
+.env
+.env.*
+!.env.example
+*.pem
+*.key
 # Zustand
 history.db
 history.db-wal
