@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 147000,
+  "kaufpreis": 255000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -164,6 +164,10 @@
    {
     "d": "2026-07-30",
     "p": 147000
+   },
+   {
+    "d": "2026-07-31",
+    "p": 255000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -3908,6 +3912,114 @@
   "erstmals_gesehen": "2026-07-31",
   "miete": 275,
   "id": "e7624016379",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "5-Zi Ebbs",
+  "ort": "Ebbs",
+  "plz": "6341",
+  "kaufpreis": 6341,
+  "qm": 81,
+  "zimmer": 5,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1785321328-bb0a753487874c578bb25753917fb517&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-31",
+    "p": 6341
+   }
+  ],
+  "erstmals_gesehen": "2026-07-31",
+  "miete": 891,
+  "id": "e6839177043",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Telfs",
+  "ort": "Telfs",
+  "plz": "6410",
+  "kaufpreis": 6410,
+  "qm": 62,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000WBYSl-1785484995-e83e80a30ff24044bf995e7faa935913&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-31",
+    "p": 6410
+   }
+  ],
+  "erstmals_gesehen": "2026-07-31",
+  "miete": 682,
+  "id": "e3802876418",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Fieberbrunn",
+  "ort": "Fieberbrunn",
+  "plz": "6391",
+  "kaufpreis": 6391,
+  "qm": 67,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qm0-1785504658-16444c60f73d4884b535217f3dc5ab8c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-07-31",
+    "p": 6391
+   }
+  ],
+  "erstmals_gesehen": "2026-07-31",
+  "miete": 737,
+  "id": "e2441240107",
   "status": "aktiv"
  }
 ]
