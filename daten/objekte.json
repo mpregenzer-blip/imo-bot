@@ -4201,5 +4201,113 @@
   "miete": 110,
   "id": "e9293962978",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Brixen im",
+  "ort": "Brixen im",
+  "plz": "6364",
+  "kaufpreis": 6364,
+  "qm": 56,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J000022sLjI-21b5c407ffdf474bb5fae9231524d75e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-02",
+    "p": 6364
+   }
+  ],
+  "erstmals_gesehen": "2026-08-02",
+  "miete": 616,
+  "id": "e2902303338",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wörgl",
+  "ort": "Wörgl",
+  "plz": "6300",
+  "kaufpreis": 6300,
+  "qm": 11,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3r0Z-99f1a2faa6db41d799615a47cb8da3d0&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-02",
+    "p": 6300
+   }
+  ],
+  "erstmals_gesehen": "2026-08-02",
+  "miete": 121,
+  "id": "e3104775756",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Elbigenalp",
+  "ort": "Elbigenalp",
+  "plz": "6652",
+  "kaufpreis": 6652,
+  "qm": 122,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000YvaZX-99989f0ed2d048f6a8bb91672bde0b64&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-02",
+    "p": 6652
+   }
+  ],
+  "erstmals_gesehen": "2026-08-02",
+  "miete": 1342,
+  "id": "e38731513",
+  "status": "aktiv"
  }
 ]
