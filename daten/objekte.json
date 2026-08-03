@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 180000,
+  "kaufpreis": 299000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -172,6 +172,10 @@
    {
     "d": "2026-08-02",
     "p": 180000
+   },
+   {
+    "d": "2026-08-03",
+    "p": 299000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -4348,6 +4352,114 @@
   "erstmals_gesehen": "2026-08-03",
   "miete": 759,
   "id": "e7657048831",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 65,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1785247233-aee033a1336f4aefb9855c1b0172c2be&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-03",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-08-03",
+  "miete": 715,
+  "id": "e5337405116",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kössen",
+  "ort": "Kössen",
+  "plz": "6345",
+  "kaufpreis": 6345,
+  "qm": 45,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001miM09-1785233696-8e578f6157784bebb155a7b46932941c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-03",
+    "p": 6345
+   }
+  ],
+  "erstmals_gesehen": "2026-08-03",
+  "miete": 495,
+  "id": "e8498336242",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Landeck",
+  "ort": "Landeck",
+  "plz": "6500",
+  "kaufpreis": 6500,
+  "qm": 32,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001bTJw2-1636119335-cc29846fdd3d483e81eb4a66a7bdeeb8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-03",
+    "p": 6500
+   }
+  ],
+  "erstmals_gesehen": "2026-08-03",
+  "miete": 368,
+  "id": "e4863423406",
   "status": "aktiv"
  }
 ]
