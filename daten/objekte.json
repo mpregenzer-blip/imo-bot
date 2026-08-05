@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 299000,
+  "kaufpreis": 355000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -176,6 +176,10 @@
    {
     "d": "2026-08-03",
     "p": 299000
+   },
+   {
+    "d": "2026-08-05",
+    "p": 355000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -4712,6 +4716,113 @@
   "erstmals_gesehen": "2026-08-05",
   "miete": 990,
   "id": "e1679045725",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Telfs",
+  "ort": "Telfs",
+  "plz": "6410",
+  "kaufpreis": 6410,
+  "qm": 78,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkM-1785921756-c6cd98a0edb74b16b062199a8ec6f2be&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-05",
+    "p": 6410
+   }
+  ],
+  "erstmals_gesehen": "2026-08-05",
+  "miete": 858,
+  "id": "e888796548",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kufstein",
+  "ort": "Kufstein",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 63,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13as-c49640352202498a91d32c0791c1f6a5&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-05",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-08-05",
+  "miete": 693,
+  "id": "e3893227387",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "Zi Haiming",
+  "ort": "Haiming",
+  "plz": "6425",
+  "kaufpreis": 6425,
+  "qm": 44,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001bTJw2-1784730841-5ae6f317e0754baab9e7b8e891759a75&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-05",
+    "p": 6425
+   }
+  ],
+  "erstmals_gesehen": "2026-08-05",
+  "miete": 528,
+  "id": "e5591758995",
   "status": "aktiv"
  }
 ]
