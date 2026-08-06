@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 355000,
+  "kaufpreis": 399000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -180,6 +180,10 @@
    {
     "d": "2026-08-05",
     "p": 355000
+   },
+   {
+    "d": "2026-08-06",
+    "p": 399000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -4931,6 +4935,42 @@
   "erstmals_gesehen": "2026-08-06",
   "miete": 594,
   "id": "e2535607748",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Götzens",
+  "ort": "Götzens",
+  "plz": "6091",
+  "kaufpreis": 6091,
+  "qm": 78,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13aX-6d634d8412d6485fbc056ddd54577546&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-06",
+    "p": 6091
+   }
+  ],
+  "erstmals_gesehen": "2026-08-06",
+  "miete": 858,
+  "id": "e1987171710",
   "status": "aktiv"
  }
 ]
