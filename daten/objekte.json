@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 399000,
+  "kaufpreis": 389000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -184,6 +184,10 @@
    {
     "d": "2026-08-06",
     "p": 399000
+   },
+   {
+    "d": "2026-08-07",
+    "p": 389000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -5187,6 +5191,78 @@
   "erstmals_gesehen": "2026-08-07",
   "miete": 792,
   "id": "e6724323372",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "3-Zi Imst",
+  "ort": "Imst",
+  "plz": "6460",
+  "kaufpreis": 6460,
+  "qm": 39,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Qg96P-1785920462-ab68ff490e424ce9a78b7240b0fbbd11&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-07",
+    "p": 6460
+   }
+  ],
+  "erstmals_gesehen": "2026-08-07",
+  "miete": 468,
+  "betten": 3,
+  "id": "e3196066800",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Nauders",
+  "ort": "Nauders",
+  "plz": "6543",
+  "kaufpreis": 6543,
+  "qm": 107,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000jxlYr-1c6fb968b10f471781ffbaac4bdf3dc0&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-07",
+    "p": 6543
+   }
+  ],
+  "erstmals_gesehen": "2026-08-07",
+  "miete": 1177,
+  "id": "e4193012678",
   "status": "aktiv"
  }
 ]
