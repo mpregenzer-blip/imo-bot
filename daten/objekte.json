@@ -4972,5 +4972,221 @@
   "miete": 858,
   "id": "e1987171710",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Weer",
+  "ort": "Weer",
+  "plz": "6116",
+  "kaufpreis": 6116,
+  "qm": 46,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000OgBb7-348d2291bceb4a2396b4e7267e2f34ad&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-07",
+    "p": 6116
+   }
+  ],
+  "erstmals_gesehen": "2026-08-07",
+  "miete": 506,
+  "id": "e2944241485",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Götzens",
+  "ort": "Götzens",
+  "plz": "6091",
+  "kaufpreis": 6091,
+  "qm": 62,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13aX-c90dba3dd9f04dfba56d73f478f52b2d&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-07",
+    "p": 6091
+   }
+  ],
+  "erstmals_gesehen": "2026-08-07",
+  "miete": 682,
+  "id": "e1746180528",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Pians",
+  "ort": "Pians",
+  "plz": "6551",
+  "kaufpreis": 6551,
+  "qm": 42,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000jxlYr-cc5d953cd8e74da3ac985618da051932&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-07",
+    "p": 6551
+   }
+  ],
+  "erstmals_gesehen": "2026-08-07",
+  "miete": 462,
+  "id": "e5691348561",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Alpbach",
+  "ort": "Alpbach",
+  "plz": "6236",
+  "kaufpreis": 6236,
+  "qm": 64,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000eqR1t-586de928c00d474f88f07bbf99d8e1e3&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-07",
+    "p": 6236
+   }
+  ],
+  "erstmals_gesehen": "2026-08-07",
+  "miete": 704,
+  "id": "e2334221111",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Zirl",
+  "ort": "Zirl",
+  "plz": "6170",
+  "kaufpreis": 329147,
+  "qm": 5,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-07",
+    "p": 329147
+   }
+  ],
+  "erstmals_gesehen": "2026-08-07",
+  "miete": 60,
+  "id": "e1542788503",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Jenbach",
+  "ort": "Jenbach",
+  "plz": "6200",
+  "kaufpreis": 6200,
+  "qm": 72,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000d3Yys-1781972114-33573af30f7f4df59b100fe617ec3727&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-07",
+    "p": 6200
+   }
+  ],
+  "erstmals_gesehen": "2026-08-07",
+  "miete": 792,
+  "id": "e6724323372",
+  "status": "aktiv"
  }
 ]
