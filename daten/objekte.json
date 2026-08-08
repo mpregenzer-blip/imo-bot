@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 389000,
+  "kaufpreis": 345000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -188,6 +188,10 @@
    {
     "d": "2026-08-07",
     "p": 389000
+   },
+   {
+    "d": "2026-08-08",
+    "p": 345000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -5335,6 +5339,42 @@
   "erstmals_gesehen": "2026-08-08",
   "miete": 1023,
   "id": "e7330968886",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Fügen",
+  "ort": "Fügen",
+  "plz": "6263",
+  "kaufpreis": 6263,
+  "qm": 77,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J000022pguC-30703376e3ed4b92827e6f5678adf38e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-08",
+    "p": 6263
+   }
+  ],
+  "erstmals_gesehen": "2026-08-08",
+  "miete": 847,
+  "id": "e3021559681",
   "status": "aktiv"
  }
 ]
