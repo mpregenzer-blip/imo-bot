@@ -5264,5 +5264,77 @@
   "miete": 1177,
   "id": "e4193012678",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Lienz",
+  "ort": "Lienz",
+  "plz": "9900",
+  "kaufpreis": 9900,
+  "qm": 28,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83kT-1785940951-a09a7e3ef4594220bba4fe5d9ae70557&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-08",
+    "p": 9900
+   }
+  ],
+  "erstmals_gesehen": "2026-08-08",
+  "miete": 308,
+  "id": "e5050809430",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi St.",
+  "ort": "St.",
+  "plz": "6380",
+  "kaufpreis": 6380,
+  "qm": 93,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000V6sWx-1759320947-3fc8ff29e09b4af9bdb37c8c60bc0831&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-08",
+    "p": 6380
+   }
+  ],
+  "erstmals_gesehen": "2026-08-08",
+  "miete": 1023,
+  "id": "e7330968886",
+  "status": "aktiv"
  }
 ]
