@@ -5488,5 +5488,77 @@
   "miete": 429,
   "id": "e2946229687",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 220,
+  "qm": 3,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-10",
+    "p": 220
+   }
+  ],
+  "erstmals_gesehen": "2026-08-10",
+  "miete": 33,
+  "id": "e1874392308",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Itter",
+  "ort": "Itter",
+  "plz": "6305",
+  "kaufpreis": 6305,
+  "qm": 15,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001xl4E4-1751482051-35e2e5d6b6424e0c998923395362cd0f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-10",
+    "p": 6305
+   }
+  ],
+  "erstmals_gesehen": "2026-08-10",
+  "miete": 165,
+  "id": "e1729440673",
+  "status": "aktiv"
  }
 ]
