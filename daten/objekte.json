@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 382500,
+  "kaufpreis": 350000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -196,6 +196,10 @@
    {
     "d": "2026-08-09",
     "p": 382500
+   },
+   {
+    "d": "2026-08-10",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -5559,6 +5563,114 @@
   "erstmals_gesehen": "2026-08-10",
   "miete": 165,
   "id": "e1729440673",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 220,
+  "qm": 3,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-10",
+    "p": 220
+   }
+  ],
+  "erstmals_gesehen": "2026-08-10",
+  "miete": 33,
+  "id": "e9500500984",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Oberhofen im",
+  "ort": "Oberhofen im",
+  "plz": "6406",
+  "kaufpreis": 6406,
+  "qm": 44,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000jxlYr-cfd9f8ef8683420ca0b42abe6c5bee4b&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-10",
+    "p": 6406
+   }
+  ],
+  "erstmals_gesehen": "2026-08-10",
+  "miete": 484,
+  "id": "e9729461157",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Karrösten",
+  "ort": "Karrösten",
+  "plz": "6463",
+  "kaufpreis": 6463,
+  "qm": 53,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000jxlYr-6cf5c18f930f4a2ba0007e51d051c329&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-10",
+    "p": 6463
+   }
+  ],
+  "erstmals_gesehen": "2026-08-10",
+  "miete": 583,
+  "id": "e4298076719",
   "status": "aktiv"
  }
 ]
