@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 350000,
+  "kaufpreis": 359900,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -200,6 +200,10 @@
    {
     "d": "2026-08-10",
     "p": 350000
+   },
+   {
+    "d": "2026-08-11",
+    "p": 359900
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -5815,6 +5819,114 @@
   "erstmals_gesehen": "2026-08-11",
   "miete": 407,
   "id": "e6888326601",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Ehrwald",
+  "ort": "Ehrwald",
+  "plz": "6632",
+  "kaufpreis": 6632,
+  "qm": 84,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1786271998-fb5f7467dce94453b9bdde9edf3d198e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-11",
+    "p": 6632
+   }
+  ],
+  "erstmals_gesehen": "2026-08-11",
+  "miete": 924,
+  "id": "e3768403875",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wattens",
+  "ort": "Wattens",
+  "plz": "6112",
+  "kaufpreis": 6112,
+  "qm": 26,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000iuW3t-1785412424-6041615f2983425993fec296ff3909c1&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-11",
+    "p": 6112
+   }
+  ],
+  "erstmals_gesehen": "2026-08-11",
+  "miete": 312,
+  "id": "e9203732050",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wattens",
+  "ort": "Wattens",
+  "plz": "6112",
+  "kaufpreis": 6112,
+  "qm": 73,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000iuW3t-1785412880-f3dc7c42a2434d2084a35aa777b6ec38&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-11",
+    "p": 6112
+   }
+  ],
+  "erstmals_gesehen": "2026-08-11",
+  "miete": 876,
+  "id": "e451013557",
   "status": "aktiv"
  }
 ]
