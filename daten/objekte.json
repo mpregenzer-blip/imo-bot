@@ -5672,5 +5672,149 @@
   "miete": 583,
   "id": "e4298076719",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Kitzbühel",
+  "ort": "Kitzbühel",
+  "plz": "6370",
+  "kaufpreis": 6370,
+  "qm": 60,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E84Dt-e24e1dda7d9b4c70918de3cf00587bad&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-11",
+    "p": 6370
+   }
+  ],
+  "erstmals_gesehen": "2026-08-11",
+  "miete": 660,
+  "id": "e9674798191",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Arzl im",
+  "ort": "Arzl im",
+  "plz": "6471",
+  "kaufpreis": 6471,
+  "qm": 45,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000jxlYr-f9b75a33d86643768814a18468c2aed4&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-11",
+    "p": 6471
+   }
+  ],
+  "erstmals_gesehen": "2026-08-11",
+  "miete": 495,
+  "id": "e2672425489",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Arzl im",
+  "ort": "Arzl im",
+  "plz": "6471",
+  "kaufpreis": 6471,
+  "qm": 70,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000jxlYr-32888c8ae52c40c59659186a0f316f26&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-11",
+    "p": 6471
+   }
+  ],
+  "erstmals_gesehen": "2026-08-11",
+  "miete": 770,
+  "id": "e6094254151",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Steinach am",
+  "ort": "Steinach am",
+  "plz": "6150",
+  "kaufpreis": 6150,
+  "qm": 37,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001bTJw2-1780045179-787df32b485240f1891a428c6db24f06&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-11",
+    "p": 6150
+   }
+  ],
+  "erstmals_gesehen": "2026-08-11",
+  "miete": 407,
+  "id": "e6888326601",
+  "status": "aktiv"
  }
 ]
