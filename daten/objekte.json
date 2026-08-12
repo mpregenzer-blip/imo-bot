@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 359900,
+  "kaufpreis": 179800,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -204,6 +204,10 @@
    {
     "d": "2026-08-11",
     "p": 359900
+   },
+   {
+    "d": "2026-08-12",
+    "p": 179800
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -6035,6 +6039,78 @@
   "erstmals_gesehen": "2026-08-12",
   "miete": 528,
   "id": "e3734551920",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kufstein",
+  "ort": "Kufstein",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 5,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000SQxe2-1786368237-533c4fece21140d580333b0f06f516fc&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-12",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-08-12",
+  "miete": 55,
+  "id": "e9959801596",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Tulfes",
+  "ort": "Tulfes",
+  "plz": "6075",
+  "kaufpreis": 6075,
+  "qm": 38,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001ShQ2P-ddcc3b28db3f4ba896dc874581a655dd&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-12",
+    "p": 6075
+   }
+  ],
+  "erstmals_gesehen": "2026-08-12",
+  "miete": 418,
+  "id": "e9442329979",
   "status": "aktiv"
  }
 ]
