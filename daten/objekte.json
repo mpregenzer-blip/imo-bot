@@ -5928,5 +5928,113 @@
   "miete": 876,
   "id": "e451013557",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Völs",
+  "ort": "Völs",
+  "plz": "6176",
+  "kaufpreis": 6176,
+  "qm": 53,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Tens0-9c51d0d551e042348eb7fdb0fd83a6f0&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-12",
+    "p": 6176
+   }
+  ],
+  "erstmals_gesehen": "2026-08-12",
+  "miete": 583,
+  "id": "e7516779479",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Inzing",
+  "ort": "Inzing",
+  "plz": "6401",
+  "kaufpreis": 329147,
+  "qm": 2,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-12",
+    "p": 329147
+   }
+  ],
+  "erstmals_gesehen": "2026-08-12",
+  "miete": 22,
+  "id": "e4181101995",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Längenfeld",
+  "ort": "Längenfeld",
+  "plz": "6444",
+  "kaufpreis": 6444,
+  "qm": 48,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qo4-19012738de6d4a3d9918dc4b8f9c7483&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-12",
+    "p": 6444
+   }
+  ],
+  "erstmals_gesehen": "2026-08-12",
+  "miete": 528,
+  "id": "e3734551920",
+  "status": "aktiv"
  }
 ]
