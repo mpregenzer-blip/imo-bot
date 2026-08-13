@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 179800,
+  "kaufpreis": 350000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -208,6 +208,10 @@
    {
     "d": "2026-08-12",
     "p": 179800
+   },
+   {
+    "d": "2026-08-13",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -6111,6 +6115,78 @@
   "erstmals_gesehen": "2026-08-12",
   "miete": 418,
   "id": "e9442329979",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wildschönau",
+  "ort": "Wildschönau",
+  "plz": "6314",
+  "kaufpreis": 6314,
+  "qm": 55,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J000028GRcI-e107fd43ed3c4d3badd4dab8ed2afd66&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-13",
+    "p": 6314
+   }
+  ],
+  "erstmals_gesehen": "2026-08-13",
+  "miete": 605,
+  "id": "e2702665272",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Leutasch",
+  "ort": "Leutasch",
+  "plz": "6105",
+  "kaufpreis": 6105,
+  "qm": 85,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001bTJw2-1747649349-0c9a93853c1343f7aedd71626c1c7bd1&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-13",
+    "p": 6105
+   }
+  ],
+  "erstmals_gesehen": "2026-08-13",
+  "miete": 935,
+  "id": "e7144748381",
   "status": "aktiv"
  }
 ]
