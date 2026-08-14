@@ -6224,5 +6224,185 @@
   "miete": 407,
   "id": "e50625209",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Kitzbühel",
+  "ort": "Kitzbühel",
+  "plz": "6370",
+  "kaufpreis": 6370,
+  "qm": 38,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1772209718-e745be785d734ce6a14e898e4d346717&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-14",
+    "p": 6370
+   }
+  ],
+  "erstmals_gesehen": "2026-08-14",
+  "miete": 418,
+  "id": "e3019499383",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Landeck",
+  "ort": "Landeck",
+  "plz": "6500",
+  "kaufpreis": 6500,
+  "qm": 8,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3rA3-1786699747-e3b56f9b03ae4f318fd47484c669bcb3&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-14",
+    "p": 6500
+   }
+  ],
+  "erstmals_gesehen": "2026-08-14",
+  "miete": 92,
+  "id": "e9403581420",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kufstein",
+  "ort": "Kufstein",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 76,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13as-408f51559c244c48afd0a43f6a024124&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-14",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-08-14",
+  "miete": 836,
+  "id": "e9820614103",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Oetz",
+  "ort": "Oetz",
+  "plz": "6433",
+  "kaufpreis": 6433,
+  "qm": 35,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000jxlYr-c0c2587c08dd4a3c91ca5f43ddd2c567&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-14",
+    "p": 6433
+   }
+  ],
+  "erstmals_gesehen": "2026-08-14",
+  "miete": 385,
+  "id": "e180393622",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Umhausen",
+  "ort": "Umhausen",
+  "plz": "6441",
+  "kaufpreis": 6441,
+  "qm": 59,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Qg96P-1786711643-176b08edc1544cd7af1eaedeaa045b75&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-14",
+    "p": 6441
+   }
+  ],
+  "erstmals_gesehen": "2026-08-14",
+  "miete": 649,
+  "id": "e2801932849",
+  "status": "aktiv"
  }
 ]
