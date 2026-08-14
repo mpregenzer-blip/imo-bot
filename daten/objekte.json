@@ -6188,5 +6188,41 @@
   "miete": 935,
   "id": "e7144748381",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Zwieselstein",
+  "ort": "Zwieselstein",
+  "plz": "6450",
+  "kaufpreis": 6450,
+  "qm": 37,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3rA3-1762427031-133021ed377a4b60876c89d99d3dc643&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-14",
+    "p": 6450
+   }
+  ],
+  "erstmals_gesehen": "2026-08-14",
+  "miete": 407,
+  "id": "e50625209",
+  "status": "aktiv"
  }
 ]
