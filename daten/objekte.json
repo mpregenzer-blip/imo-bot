@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 350000,
+  "kaufpreis": 399000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -212,6 +212,10 @@
    {
     "d": "2026-08-13",
     "p": 350000
+   },
+   {
+    "d": "2026-08-15",
+    "p": 399000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
