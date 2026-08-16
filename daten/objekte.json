@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 399000,
+  "kaufpreis": 399900,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -216,6 +216,10 @@
    {
     "d": "2026-08-15",
     "p": 399000
+   },
+   {
+    "d": "2026-08-16",
+    "p": 399900
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -6407,6 +6411,78 @@
   "erstmals_gesehen": "2026-08-14",
   "miete": 649,
   "id": "e2801932849",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Absam",
+  "ort": "Absam",
+  "plz": "6067",
+  "kaufpreis": 357880,
+  "qm": 4,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-16",
+    "p": 357880
+   }
+  ],
+  "erstmals_gesehen": "2026-08-16",
+  "miete": 50,
+  "id": "e5137864613",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Absam",
+  "ort": "Absam",
+  "plz": "6067",
+  "kaufpreis": 320000,
+  "qm": 0,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-16",
+    "p": 320000
+   }
+  ],
+  "erstmals_gesehen": "2026-08-16",
+  "miete": 0,
+  "id": "e1657582748",
   "status": "aktiv"
  }
 ]
