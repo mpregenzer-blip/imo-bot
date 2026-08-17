@@ -6492,5 +6492,41 @@
   "miete": 0,
   "id": "e1657582748",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Hopfgarten",
+  "ort": "Hopfgarten",
+  "plz": "6361",
+  "kaufpreis": 6361,
+  "qm": 46,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3ql5-3c228c6cfaa6493f99db60ffe1fab68b&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-17",
+    "p": 6361
+   }
+  ],
+  "erstmals_gesehen": "2026-08-17",
+  "miete": 506,
+  "id": "e4903617416",
+  "status": "aktiv"
  }
 ]
