@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 399900,
+  "kaufpreis": 250000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -228,6 +228,10 @@
    {
     "d": "2026-08-16",
     "p": 399900
+   },
+   {
+    "d": "2026-08-17",
+    "p": 250000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -6527,6 +6531,78 @@
   "erstmals_gesehen": "2026-08-17",
   "miete": 506,
   "id": "e4903617416",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wörgl",
+  "ort": "Wörgl",
+  "plz": "6300",
+  "kaufpreis": 6300,
+  "qm": 47,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001KEIw8-1786954113-82b39e81983e46e2ad87df94a1c8365c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-17",
+    "p": 6300
+   }
+  ],
+  "erstmals_gesehen": "2026-08-17",
+  "miete": 517,
+  "id": "e7495908855",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Rinn",
+  "ort": "Rinn",
+  "plz": "6074",
+  "kaufpreis": 6074,
+  "qm": 93,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13a8-1786530827-edbc565ec0cc490d86ecc170cad96647&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-17",
+    "p": 6074
+   }
+  ],
+  "erstmals_gesehen": "2026-08-17",
+  "miete": 1023,
+  "id": "e2010971724",
   "status": "aktiv"
  }
 ]
