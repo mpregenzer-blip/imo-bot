@@ -6604,5 +6604,149 @@
   "miete": 1023,
   "id": "e2010971724",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Lienz",
+  "ort": "Lienz",
+  "plz": "9900",
+  "kaufpreis": 9900,
+  "qm": 21,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000aXi8K-1786611146-d8031cbd43d14b9ea2993d336656d24c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-18",
+    "p": 9900
+   }
+  ],
+  "erstmals_gesehen": "2026-08-18",
+  "miete": 231,
+  "id": "e378438594",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Schwaz",
+  "ort": "Schwaz",
+  "plz": "6130",
+  "kaufpreis": 6130,
+  "qm": 23,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83Wt-1786981839-a70f64c6517841f59c761803059dd9ce&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-18",
+    "p": 6130
+   }
+  ],
+  "erstmals_gesehen": "2026-08-18",
+  "miete": 253,
+  "id": "e6007072267",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Kirchbichl",
+  "ort": "Kirchbichl",
+  "plz": "6322",
+  "kaufpreis": 6322,
+  "qm": 59,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000rgVVY-96dedc5628df49aaade8f56405bc5e5e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-18",
+    "p": 6322
+   }
+  ],
+  "erstmals_gesehen": "2026-08-18",
+  "miete": 649,
+  "id": "e7281504273",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Schwaz",
+  "ort": "Schwaz",
+  "plz": "6130",
+  "kaufpreis": 6130,
+  "qm": 37,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J000028GRcI-fa1c2f38c21c40bcb417eb7d2928f60f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-18",
+    "p": 6130
+   }
+  ],
+  "erstmals_gesehen": "2026-08-18",
+  "miete": 407,
+  "id": "e1084695081",
+  "status": "aktiv"
  }
 ]
