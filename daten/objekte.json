@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 250000,
+  "kaufpreis": 275000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -232,6 +232,10 @@
    {
     "d": "2026-08-17",
     "p": 250000
+   },
+   {
+    "d": "2026-08-19",
+    "p": 275000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -6963,6 +6967,42 @@
   "erstmals_gesehen": "2026-08-19",
   "miete": 946,
   "id": "e9750922176",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi St.",
+  "ort": "St.",
+  "plz": "6380",
+  "kaufpreis": 6380,
+  "qm": 3,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1787132518-4aef5976528a42828b342148527dfd68&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-19",
+    "p": 6380
+   }
+  ],
+  "erstmals_gesehen": "2026-08-19",
+  "miete": 33,
+  "id": "e9735270596",
   "status": "aktiv"
  }
 ]
