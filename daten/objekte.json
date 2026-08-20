@@ -7004,5 +7004,113 @@
   "miete": 33,
   "id": "e9735270596",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Jenbach",
+  "ort": "Jenbach",
+  "plz": "6200",
+  "kaufpreis": 6200,
+  "qm": 51,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001ktVyQ-1786358221-ba3ce7cfe7864e0db92c7ec1e9c463f5&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-20",
+    "p": 6200
+   }
+  ],
+  "erstmals_gesehen": "2026-08-20",
+  "miete": 561,
+  "id": "e1095326263",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Kufstein",
+  "ort": "Kufstein",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 41,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000N9caP-1787074455-13cdb286f1564d2c9642f1b18ad77287&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-20",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-08-20",
+  "miete": 451,
+  "id": "e9238597809",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Rum",
+  "ort": "Rum",
+  "plz": "6063",
+  "kaufpreis": 6063,
+  "qm": 34,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000Y6bqv-1785968014-4ad4e0b18f8c417f81cec6b35c502a69&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-20",
+    "p": 6063
+   }
+  ],
+  "erstmals_gesehen": "2026-08-20",
+  "miete": 442,
+  "id": "e3531215729",
+  "status": "aktiv"
  }
 ]
