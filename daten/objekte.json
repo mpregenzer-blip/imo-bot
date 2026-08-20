@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 275000,
+  "kaufpreis": 289000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -236,6 +236,10 @@
    {
     "d": "2026-08-19",
     "p": 275000
+   },
+   {
+    "d": "2026-08-20",
+    "p": 289000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -7111,6 +7115,78 @@
   "erstmals_gesehen": "2026-08-20",
   "miete": 442,
   "id": "e3531215729",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Zams",
+  "ort": "Zams",
+  "plz": "6511",
+  "kaufpreis": 6511,
+  "qm": 28,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13a0-1787084466-5e938980061b46849e1a90d9e22381fc&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-20",
+    "p": 6511
+   }
+  ],
+  "erstmals_gesehen": "2026-08-20",
+  "miete": 322,
+  "id": "e2980146135",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Hall in",
+  "ort": "Hall in",
+  "plz": "6060",
+  "kaufpreis": 6060,
+  "qm": 35,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3rA3-1768249027-b417d7609ab444da97b504d80a183159&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-20",
+    "p": 6060
+   }
+  ],
+  "erstmals_gesehen": "2026-08-20",
+  "miete": 385,
+  "id": "e8194573323",
   "status": "aktiv"
  }
 ]
