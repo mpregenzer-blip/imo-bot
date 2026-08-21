@@ -7368,5 +7368,77 @@
   "miete": 198,
   "id": "e9730973399",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Zirl",
+  "ort": "Zirl",
+  "plz": "6170",
+  "kaufpreis": 6170,
+  "qm": 79,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000eL6wJ-1787220815-4c5852d9802549d4bddd47ce3238e2c1&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-21",
+    "p": 6170
+   }
+  ],
+  "erstmals_gesehen": "2026-08-21",
+  "miete": 948,
+  "id": "e6056601810",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Hochfilzen",
+  "ort": "Hochfilzen",
+  "plz": "6395",
+  "kaufpreis": 6395,
+  "qm": 44,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000J29Sr-caa0ef9538aa4774a5d32c9e7427b845&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-21",
+    "p": 6395
+   }
+  ],
+  "erstmals_gesehen": "2026-08-21",
+  "miete": 484,
+  "id": "e4127861475",
+  "status": "aktiv"
  }
 ]
