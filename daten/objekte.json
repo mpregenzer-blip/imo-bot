@@ -7188,5 +7188,185 @@
   "miete": 385,
   "id": "e8194573323",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Umhausen",
+  "ort": "Umhausen",
+  "plz": "6441",
+  "kaufpreis": 6441,
+  "qm": 16,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Qg96P-1787229767-799fab4a4fd247249f816874467f2e77&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-21",
+    "p": 6441
+   }
+  ],
+  "erstmals_gesehen": "2026-08-21",
+  "miete": 176,
+  "id": "e3269085673",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kirchbichl",
+  "ort": "Kirchbichl",
+  "plz": "6322",
+  "kaufpreis": 6322,
+  "qm": 9,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000e5S5R-74780d49b7e84c23babd90a9b7471a6e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-21",
+    "p": 6322
+   }
+  ],
+  "erstmals_gesehen": "2026-08-21",
+  "miete": 99,
+  "id": "e4287617630",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Kitzbühel",
+  "ort": "Kitzbühel",
+  "plz": "6370",
+  "kaufpreis": 6370,
+  "qm": 91,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000V6sWx-1787243028-5c73dccb0dd9427fb3e73adcba00b23c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-21",
+    "p": 6370
+   }
+  ],
+  "erstmals_gesehen": "2026-08-21",
+  "miete": 1001,
+  "id": "e3246741271",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Finkenberg",
+  "ort": "Finkenberg",
+  "plz": "6292",
+  "kaufpreis": 6292,
+  "qm": 67,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000iRSmu-1787239427-db264fe8eeae4f32a1921895c0c17a40&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-21",
+    "p": 6292
+   }
+  ],
+  "erstmals_gesehen": "2026-08-21",
+  "miete": 737,
+  "id": "e3073491472",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Finkenberg",
+  "ort": "Finkenberg",
+  "plz": "6292",
+  "kaufpreis": 6292,
+  "qm": 18,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000iRSmu-1787257660-85f44453d3d04a7d852b5a6d93a0ab28&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-21",
+    "p": 6292
+   }
+  ],
+  "erstmals_gesehen": "2026-08-21",
+  "miete": 198,
+  "id": "e9730973399",
+  "status": "aktiv"
  }
 ]
