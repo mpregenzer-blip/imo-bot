@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 226000,
+  "kaufpreis": 175000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -244,6 +244,10 @@
    {
     "d": "2026-08-22",
     "p": 226000
+   },
+   {
+    "d": "2026-08-22",
+    "p": 175000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -7515,6 +7519,42 @@
   "erstmals_gesehen": "2026-08-22",
   "miete": 44,
   "id": "e7896335937",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Uderns",
+  "ort": "Uderns",
+  "plz": "6271",
+  "kaufpreis": 6271,
+  "qm": 72,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001qplDZ-81b4fec51c2142aaadded14fc41b8ece&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-22",
+    "p": 6271
+   }
+  ],
+  "erstmals_gesehen": "2026-08-22",
+  "miete": 792,
+  "id": "e8825869232",
   "status": "aktiv"
  }
 ]
