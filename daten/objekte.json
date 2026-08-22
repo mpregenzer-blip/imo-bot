@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 289000,
+  "kaufpreis": 226000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -240,6 +240,10 @@
    {
     "d": "2026-08-20",
     "p": 289000
+   },
+   {
+    "d": "2026-08-22",
+    "p": 226000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -7439,6 +7443,78 @@
   "erstmals_gesehen": "2026-08-21",
   "miete": 484,
   "id": "e4127861475",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Landeck",
+  "ort": "Landeck",
+  "plz": "6500",
+  "kaufpreis": 6500,
+  "qm": 76,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000gjTQm-1787329457-54e9a84af27e45b2bf722e1f40693302&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-22",
+    "p": 6500
+   }
+  ],
+  "erstmals_gesehen": "2026-08-22",
+  "miete": 874,
+  "id": "e6091385703",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Ehrwald",
+  "ort": "Ehrwald",
+  "plz": "6632",
+  "kaufpreis": 6632,
+  "qm": 4,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83TD-22b7fbe5978a484ca0a041743b2ae7c2&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-22",
+    "p": 6632
+   }
+  ],
+  "erstmals_gesehen": "2026-08-22",
+  "miete": 44,
+  "id": "e7896335937",
   "status": "aktiv"
  }
 ]
