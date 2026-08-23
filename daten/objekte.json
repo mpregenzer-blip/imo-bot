@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 175000,
+  "kaufpreis": 394500,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -248,6 +248,10 @@
    {
     "d": "2026-08-22",
     "p": 175000
+   },
+   {
+    "d": "2026-08-23",
+    "p": 394500
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -7555,6 +7559,42 @@
   "erstmals_gesehen": "2026-08-22",
   "miete": 792,
   "id": "e8825869232",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Lans",
+  "ort": "Lans",
+  "plz": "6072",
+  "kaufpreis": 6072,
+  "qm": 52,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000WBYSl-1787478121-30e76ec148aa4e40b5bdb0cbbd82ac78&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-23",
+    "p": 6072
+   }
+  ],
+  "erstmals_gesehen": "2026-08-23",
+  "miete": 572,
+  "id": "e3750209288",
   "status": "aktiv"
  }
 ]
