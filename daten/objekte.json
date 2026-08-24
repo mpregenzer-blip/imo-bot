@@ -7596,5 +7596,77 @@
   "miete": 572,
   "id": "e3750209288",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 245000,
+  "qm": 3,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-24",
+    "p": 245000
+   }
+  ],
+  "erstmals_gesehen": "2026-08-24",
+  "miete": 33,
+  "id": "e4190645825",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Längenfeld",
+  "ort": "Längenfeld",
+  "plz": "6444",
+  "kaufpreis": 6444,
+  "qm": 59,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001viRGR-1731314328-d4d47d405e8345899e59f6535b6c0971&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-24",
+    "p": 6444
+   }
+  ],
+  "erstmals_gesehen": "2026-08-24",
+  "miete": 649,
+  "id": "e8571133373",
+  "status": "aktiv"
  }
 ]
