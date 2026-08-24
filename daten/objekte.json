@@ -7668,5 +7668,77 @@
   "miete": 649,
   "id": "e8571133373",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 245000,
+  "qm": 3,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-24",
+    "p": 245000
+   }
+  ],
+  "erstmals_gesehen": "2026-08-24",
+  "miete": 33,
+  "id": "e6946201469",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Landeck",
+  "ort": "Landeck",
+  "plz": "6500",
+  "kaufpreis": 6500,
+  "qm": 21,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13a0-1779227646-066e846fc758408097ef15105326b6dc&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-24",
+    "p": 6500
+   }
+  ],
+  "erstmals_gesehen": "2026-08-24",
+  "miete": 242,
+  "id": "e4038107387",
+  "status": "aktiv"
  }
 ]
