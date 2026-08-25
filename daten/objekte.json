@@ -7740,5 +7740,77 @@
   "miete": 242,
   "id": "e4038107387",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Lienz",
+  "ort": "Lienz",
+  "plz": "9900",
+  "kaufpreis": 9900,
+  "qm": 62,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000aXi8K-1787232343-9036a005911144be95051b41d255edd0&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-25",
+    "p": 9900
+   }
+  ],
+  "erstmals_gesehen": "2026-08-25",
+  "miete": 682,
+  "id": "e8129207258",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Lienz",
+  "ort": "Lienz",
+  "plz": "9900",
+  "kaufpreis": 9900,
+  "qm": 50,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83kT-1787594625-dc23c9f4899240dd9c034e5afb63e1f3&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-25",
+    "p": 9900
+   }
+  ],
+  "erstmals_gesehen": "2026-08-25",
+  "miete": 550,
+  "id": "e3382915571",
+  "status": "aktiv"
  }
 ]
