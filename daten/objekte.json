@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 394500,
+  "kaufpreis": 289000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -252,6 +252,10 @@
    {
     "d": "2026-08-23",
     "p": 394500
+   },
+   {
+    "d": "2026-08-25",
+    "p": 289000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -7811,6 +7815,78 @@
   "erstmals_gesehen": "2026-08-25",
   "miete": 550,
   "id": "e3382915571",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Nauders",
+  "ort": "Nauders",
+  "plz": "6543",
+  "kaufpreis": 6543,
+  "qm": 56,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000KmDxH-801794a488b445579f96b969f2f74f6a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-25",
+    "p": 6543
+   }
+  ],
+  "erstmals_gesehen": "2026-08-25",
+  "miete": 616,
+  "id": "e1384490274",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Ebbs",
+  "ort": "Ebbs",
+  "plz": "6341",
+  "kaufpreis": 6341,
+  "qm": 13,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83tF-639d6071bddb4e15871c1ababab0afba&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-25",
+    "p": 6341
+   }
+  ],
+  "erstmals_gesehen": "2026-08-25",
+  "miete": 143,
+  "id": "e162511471",
   "status": "aktiv"
  }
 ]
