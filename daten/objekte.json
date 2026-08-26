@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 289000,
+  "kaufpreis": 190000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -256,6 +256,10 @@
    {
     "d": "2026-08-25",
     "p": 289000
+   },
+   {
+    "d": "2026-08-26",
+    "p": 190000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -7959,6 +7963,78 @@
   "erstmals_gesehen": "2026-08-26",
   "miete": 110,
   "id": "e3175168085",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 337000,
+  "qm": 10,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-26",
+    "p": 337000
+   }
+  ],
+  "erstmals_gesehen": "2026-08-26",
+  "miete": 110,
+  "id": "e9722157117",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Sankt",
+  "ort": "Sankt",
+  "plz": "6380",
+  "kaufpreis": 6380,
+  "qm": 32,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000kDRhR-00005417978d478a989db5e39b7280c2&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-26",
+    "p": 6380
+   }
+  ],
+  "erstmals_gesehen": "2026-08-26",
+  "miete": 352,
+  "id": "e6928662207",
   "status": "aktiv"
  }
 ]
