@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 190000,
+  "kaufpreis": 350000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -260,6 +260,10 @@
    {
     "d": "2026-08-26",
     "p": 190000
+   },
+   {
+    "d": "2026-08-27",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -8035,6 +8039,222 @@
   "erstmals_gesehen": "2026-08-26",
   "miete": 352,
   "id": "e6928662207",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Ellmau",
+  "ort": "Ellmau",
+  "plz": "6352",
+  "kaufpreis": 6352,
+  "qm": 35,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001qpLvA-0cdbddd8f4194c8eac1e49b7a41fd595&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-27",
+    "p": 6352
+   }
+  ],
+  "erstmals_gesehen": "2026-08-27",
+  "miete": 385,
+  "id": "e5137124787",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "2-Zi Imst",
+  "ort": "Imst",
+  "plz": "6460",
+  "kaufpreis": 6460,
+  "qm": 71,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3rA3-1787759622-e257334ba36e47f280b974fe51b99fc0&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-27",
+    "p": 6460
+   }
+  ],
+  "erstmals_gesehen": "2026-08-27",
+  "miete": 852,
+  "betten": 2,
+  "id": "e3746533191",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Oberau",
+  "ort": "Oberau",
+  "plz": "6311",
+  "kaufpreis": 6311,
+  "qm": 65,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qwt-1b82b183384546149c9c58708f53027d&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-27",
+    "p": 6311
+   }
+  ],
+  "erstmals_gesehen": "2026-08-27",
+  "miete": 715,
+  "id": "e960017064",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Seefeld in",
+  "ort": "Seefeld in",
+  "plz": "6100",
+  "kaufpreis": 6100,
+  "qm": 61,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001qplDZ-e4ed2de46a794227a117f0a6f396e372&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-27",
+    "p": 6100
+   }
+  ],
+  "erstmals_gesehen": "2026-08-27",
+  "miete": 671,
+  "id": "e1935935801",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Sillian",
+  "ort": "Sillian",
+  "plz": "9920",
+  "kaufpreis": 9920,
+  "qm": 54,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000ULlpL-9bfde0e3c90a4065bf5972c2b5366b0c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-27",
+    "p": 9920
+   }
+  ],
+  "erstmals_gesehen": "2026-08-27",
+  "miete": 594,
+  "id": "e4866197169",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Leisach",
+  "ort": "Leisach",
+  "plz": "9909",
+  "kaufpreis": 9909,
+  "qm": 107,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00002BWUI0-1787835053-657eec4a6b6a431d88ccf1b1ef3f3ceb&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-27",
+    "p": 9909
+   }
+  ],
+  "erstmals_gesehen": "2026-08-27",
+  "miete": 1177,
+  "id": "e752086202",
   "status": "aktiv"
  }
 ]
