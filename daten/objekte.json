@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 369000,
+  "kaufpreis": 370000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -284,6 +284,10 @@
    {
     "d": "2026-08-28",
     "p": 369000
+   },
+   {
+    "d": "2026-08-30",
+    "p": 370000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -8419,6 +8423,78 @@
   "erstmals_gesehen": "2026-08-28",
   "miete": 88,
   "id": "e5497976704",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Zirl",
+  "ort": "Zirl",
+  "plz": "6170",
+  "kaufpreis": 6170,
+  "qm": 85,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P9000006jiBQ-7bd09b7fbdbe408aa266cfcdaf098fbb&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-30",
+    "p": 6170
+   }
+  ],
+  "erstmals_gesehen": "2026-08-30",
+  "miete": 1020,
+  "id": "e9121367355",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Langkampfen",
+  "ort": "Langkampfen",
+  "plz": "6336",
+  "kaufpreis": 6336,
+  "qm": 14,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3ql5-3da308fe0e7a4f4db0ed13f3fade0889&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-30",
+    "p": 6336
+   }
+  ],
+  "erstmals_gesehen": "2026-08-30",
+  "miete": 154,
+  "id": "e4562263683",
   "status": "aktiv"
  }
 ]
