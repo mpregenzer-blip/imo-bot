@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 370000,
+  "kaufpreis": 275000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -288,6 +288,10 @@
    {
     "d": "2026-08-30",
     "p": 370000
+   },
+   {
+    "d": "2026-08-31",
+    "p": 275000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -8495,6 +8499,78 @@
   "erstmals_gesehen": "2026-08-30",
   "miete": 154,
   "id": "e4562263683",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Hall in",
+  "ort": "Hall in",
+  "plz": "6060",
+  "kaufpreis": 6060,
+  "qm": 5,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000j2COu-1774091184-78db705dcd45460c9ab095d59c039a03&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-31",
+    "p": 6060
+   }
+  ],
+  "erstmals_gesehen": "2026-08-31",
+  "miete": 55,
+  "id": "e7689579331",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Niederau",
+  "ort": "Niederau",
+  "plz": "6314",
+  "kaufpreis": 6314,
+  "qm": 39,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001miM09-1788169224-c230455e6f7e4a7ab0c756c9946b1dc9&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-08-31",
+    "p": 6314
+   }
+  ],
+  "erstmals_gesehen": "2026-08-31",
+  "miete": 429,
+  "id": "e8258977300",
   "status": "aktiv"
  }
 ]
