@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 275000,
+  "kaufpreis": 325000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -300,6 +300,10 @@
    {
     "d": "2026-08-31",
     "p": 275000
+   },
+   {
+    "d": "2026-09-01",
+    "p": 325000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -8579,6 +8583,78 @@
   "erstmals_gesehen": "2026-08-31",
   "miete": 429,
   "id": "e8258977300",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Vomp",
+  "ort": "Vomp",
+  "plz": "6134",
+  "kaufpreis": 6134,
+  "qm": 86,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkM-1788191714-b463e9b3b2c845059cc8c26d97140429&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-01",
+    "p": 6134
+   }
+  ],
+  "erstmals_gesehen": "2026-09-01",
+  "miete": 946,
+  "id": "e3425288642",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 399000,
+  "qm": 3,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-01",
+    "p": 399000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-01",
+  "miete": 33,
+  "id": "e4873329496",
   "status": "aktiv"
  }
 ]
