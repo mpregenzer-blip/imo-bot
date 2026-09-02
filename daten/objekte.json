@@ -8736,5 +8736,41 @@
   "miete": 308,
   "id": "e6027894107",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Wörgl",
+  "ort": "Wörgl",
+  "plz": "6300",
+  "kaufpreis": 6300,
+  "qm": 36,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000Bkf70-1751125868-9d45280f4a7543148a257f2a0e1b8b3f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-02",
+    "p": 6300
+   }
+  ],
+  "erstmals_gesehen": "2026-09-02",
+  "miete": 396,
+  "id": "e6788114143",
+  "status": "aktiv"
  }
 ]
