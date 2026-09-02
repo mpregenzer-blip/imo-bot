@@ -8772,5 +8772,41 @@
   "miete": 396,
   "id": "e6788114143",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Sankt",
+  "ort": "Sankt",
+  "plz": "6392",
+  "kaufpreis": 6392,
+  "qm": 35,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qwt-b263ed417ab44ef5bf064664145a4992&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-02",
+    "p": 6392
+   }
+  ],
+  "erstmals_gesehen": "2026-09-02",
+  "miete": 385,
+  "id": "e7653058908",
+  "status": "aktiv"
  }
 ]
