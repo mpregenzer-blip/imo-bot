@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 325000,
+  "kaufpreis": 379000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -312,6 +312,10 @@
    {
     "d": "2026-09-01",
     "p": 325000
+   },
+   {
+    "d": "2026-09-03",
+    "p": 379000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -8807,6 +8811,78 @@
   "erstmals_gesehen": "2026-09-02",
   "miete": 385,
   "id": "e7653058908",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 159000,
+  "qm": 58,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-03",
+    "p": 159000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-03",
+  "miete": 638,
+  "id": "e8140851912",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi St.",
+  "ort": "St.",
+  "plz": "6392",
+  "kaufpreis": 6392,
+  "qm": 56,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000iM7Kl-c42ee359bf08495ebefde72a3c28987d&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-03",
+    "p": 6392
+   }
+  ],
+  "erstmals_gesehen": "2026-09-03",
+  "miete": 616,
+  "id": "e9907136617",
   "status": "aktiv"
  }
 ]
