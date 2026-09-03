@@ -8884,5 +8884,77 @@
   "miete": 616,
   "id": "e9907136617",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 159000,
+  "qm": 58,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-03",
+    "p": 159000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-03",
+  "miete": 638,
+  "id": "e9658436007",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Dölsach",
+  "ort": "Dölsach",
+  "plz": "9991",
+  "kaufpreis": 9991,
+  "qm": 90,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001GZPOV-87244a959bee4a55a637ee7c697d7ab6&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-03",
+    "p": 9991
+   }
+  ],
+  "erstmals_gesehen": "2026-09-03",
+  "miete": 990,
+  "id": "e4556049039",
+  "status": "aktiv"
  }
 ]
