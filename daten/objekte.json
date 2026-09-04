@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 379000,
+  "kaufpreis": 310000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -316,6 +316,10 @@
    {
     "d": "2026-09-03",
     "p": 379000
+   },
+   {
+    "d": "2026-09-04",
+    "p": 310000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -9027,6 +9031,78 @@
   "erstmals_gesehen": "2026-09-04",
   "miete": 748,
   "id": "e5781061623",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Höfen",
+  "ort": "Höfen",
+  "plz": "6604",
+  "kaufpreis": 6604,
+  "qm": 98,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001kSL3p-1788517964-fe340b6b5c394abda3d78d0a864baf33&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-04",
+    "p": 6604
+   }
+  ],
+  "erstmals_gesehen": "2026-09-04",
+  "miete": 1078,
+  "id": "e1781432773",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Rum",
+  "ort": "Rum",
+  "plz": "6063",
+  "kaufpreis": 6063,
+  "qm": 62,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1785325958-7d0edabab4f24516b8c9c0696eebb0fc&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-04",
+    "p": 6063
+   }
+  ],
+  "erstmals_gesehen": "2026-09-04",
+  "miete": 806,
+  "id": "e9070392489",
   "status": "aktiv"
  }
 ]
