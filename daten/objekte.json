@@ -9104,5 +9104,113 @@
   "miete": 806,
   "id": "e9070392489",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Axams",
+  "ort": "Axams",
+  "plz": "6094",
+  "kaufpreis": 6094,
+  "qm": 7,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000OeVqT-1728257523-4f1a5f1b2a8345ac92e0c14e31562051&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-05",
+    "p": 6094
+   }
+  ],
+  "erstmals_gesehen": "2026-09-05",
+  "miete": 77,
+  "id": "e7952975869",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 324000,
+  "qm": 4,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-05",
+    "p": 324000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-05",
+  "miete": 44,
+  "id": "e1025553266",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Hopfgarten im",
+  "ort": "Hopfgarten im",
+  "plz": "6361",
+  "kaufpreis": 6361,
+  "qm": 64,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000ZvKh7-dd6092ca03da4be3b3db7d1ab288ed1b&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-05",
+    "p": 6361
+   }
+  ],
+  "erstmals_gesehen": "2026-09-05",
+  "miete": 704,
+  "id": "e7237620552",
+  "status": "aktiv"
  }
 ]
