@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 399000,
+  "kaufpreis": 316000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -324,6 +324,10 @@
    {
     "d": "2026-09-06",
     "p": 399000
+   },
+   {
+    "d": "2026-09-07",
+    "p": 316000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -9287,6 +9291,114 @@
   "erstmals_gesehen": "2026-09-05",
   "miete": 616,
   "id": "e6992194873",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 190000,
+  "qm": 3,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-07",
+    "p": 190000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-07",
+  "miete": 33,
+  "id": "e7054504201",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 83,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83TD-f015a2374eb443d998ac8e86d65c76ce&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-07",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-09-07",
+  "miete": 913,
+  "id": "e2497448707",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Weer",
+  "ort": "Weer",
+  "plz": "6116",
+  "kaufpreis": 6116,
+  "qm": 55,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001LzF98-1786528847-808edf70f57449c39a1393bb64161f15&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-07",
+    "p": 6116
+   }
+  ],
+  "erstmals_gesehen": "2026-09-07",
+  "miete": 605,
+  "id": "e378159786",
   "status": "aktiv"
  }
 ]
