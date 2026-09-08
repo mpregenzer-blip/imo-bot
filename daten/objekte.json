@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 316000,
+  "kaufpreis": 350000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -336,6 +336,10 @@
    {
     "d": "2026-09-07",
     "p": 316000
+   },
+   {
+    "d": "2026-09-08",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -9443,6 +9447,78 @@
   "erstmals_gesehen": "2026-09-07",
   "miete": 33,
   "id": "e2668388042",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Arzl im",
+  "ort": "Arzl im",
+  "plz": "6471",
+  "kaufpreis": 6471,
+  "qm": 91,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83tr-1779364472-19a192bbb5344cd4a196b8be2b9deb26&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-08",
+    "p": 6471
+   }
+  ],
+  "erstmals_gesehen": "2026-09-08",
+  "miete": 1001,
+  "id": "e8819528111",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "4-Zi Tarrenz",
+  "ort": "Tarrenz",
+  "plz": "6464",
+  "kaufpreis": 6464,
+  "qm": 89,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1788857115-9ec279de32ae495694792e8b2a02cfe4&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-08",
+    "p": 6464
+   }
+  ],
+  "erstmals_gesehen": "2026-09-08",
+  "miete": 1068,
+  "betten": 4,
+  "id": "e17864132",
   "status": "aktiv"
  }
 ]
