@@ -340,6 +340,14 @@
    {
     "d": "2026-09-08",
     "p": 350000
+   },
+   {
+    "d": "2026-09-08",
+    "p": 316000
+   },
+   {
+    "d": "2026-09-08",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -9519,6 +9527,42 @@
   "miete": 1068,
   "betten": 4,
   "id": "e17864132",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Zell am",
+  "ort": "Zell am",
+  "plz": "6280",
+  "kaufpreis": 6280,
+  "qm": 67,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000jgtzQ-1d8b2139615342eca412c2ac11ecbacb&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-08",
+    "p": 6280
+   }
+  ],
+  "erstmals_gesehen": "2026-09-08",
+  "miete": 737,
+  "id": "e452027823",
   "status": "aktiv"
  }
 ]
