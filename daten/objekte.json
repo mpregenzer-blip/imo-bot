@@ -9564,5 +9564,41 @@
   "miete": 737,
   "id": "e452027823",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Ötztal",
+  "ort": "Ötztal-",
+  "plz": "6430",
+  "kaufpreis": 6430,
+  "qm": 32,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000OeVqT-1788890200-0bc8b56518e2491291809e62bb971908&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-09",
+    "p": 6430
+   }
+  ],
+  "erstmals_gesehen": "2026-09-09",
+  "miete": 352,
+  "id": "e8672153759",
+  "status": "aktiv"
  }
 ]
