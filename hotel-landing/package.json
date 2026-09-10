@@ -1,0 +1,13 @@
+{
+  "name": "hotel-gebhard-winter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Kampagnen-Landingpage Winter mit Gaeste-Chatbot fuer Boutique Hotel Gebhard, Fiss",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.125.0"
+  }
+}
