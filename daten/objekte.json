@@ -9748,5 +9748,112 @@
   "betten": 3,
   "id": "e5088418799",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Fügen",
+  "ort": "Fügen",
+  "plz": "6263",
+  "kaufpreis": 6263,
+  "qm": 59,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001qplDZ-46370706250844d1bf32d218c9ca2d7e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-10",
+    "p": 6263
+   }
+  ],
+  "erstmals_gesehen": "2026-09-10",
+  "miete": 649,
+  "id": "e3822944976",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Wattens",
+  "ort": "Wattens",
+  "plz": "6112",
+  "kaufpreis": 6112,
+  "qm": 103,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001LzF98-1788792711-03b5c6dbcf8c4e8792e1c2a56987b243&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-10",
+    "p": 6112
+   }
+  ],
+  "erstmals_gesehen": "2026-09-10",
+  "miete": 1236,
+  "id": "e1463670490",
+  "status": "aktiv"
+ },
+ {
+  "kat": "studenten",
+  "titel": "3-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 2,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83TY-1781774360-39b5ae6f24c64dd1b41c40cd8d4a80b4&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "uni": 60,
+   "oeffi": 60,
+   "ausgehen": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-10",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-09-10",
+  "miete": 40,
+  "id": "e5882816847",
+  "status": "aktiv"
  }
 ]
