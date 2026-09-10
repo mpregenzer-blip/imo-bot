@@ -9712,5 +9712,41 @@
   "miete": 451,
   "id": "e5831992753",
   "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "3-Zi Silz",
+  "ort": "Silz",
+  "plz": "6424",
+  "kaufpreis": 6424,
+  "qm": 95,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000tLUJZ-eb6e47c30cec486790d80253eb6f91d0&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-10",
+    "p": 6424
+   }
+  ],
+  "erstmals_gesehen": "2026-09-10",
+  "miete": 1140,
+  "betten": 3,
+  "id": "e5088418799",
+  "status": "aktiv"
  }
 ]
