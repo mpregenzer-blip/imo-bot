@@ -6,6 +6,11 @@
 // ---------------------------------------------------------------
 
 export const WISSEN = `
+KONTAKT
+Boutique Hotel Gebhard, Via-Claudia-Augusta 36, 6533 Fiss, Tirol, Österreich.
+Telefon +43 5476 6617. E-Mail info@hotel-gebhard.at.
+Diese Daten darfst du nennen, wenn jemand fragt, wie er uns erreicht.
+
 DAS HAUS
 Boutique Hotel Gebhard in Fiss, Tirol, Österreich. Teil der Ferienregion Serfaus-Fiss-Ladis.
 19 Zimmer. Bed & Breakfast, also Übernachtung mit Frühstück.
@@ -39,10 +44,15 @@ SAISON
 Sommer: Wandern, Mountainbike, Super Sommer Card der Region.
 Winter: Skigebiet Serfaus-Fiss-Ladis.
 
+DAS SKIGEBIET
+Serfaus-Fiss-Ladis, drei Dörfer mit einem gemeinsamen Skipass.
+214 Pistenkilometer, 68 Bahnen und Lifte, höchster Punkt 2828 Meter.
+Die Bahn in Fiss liegt im Ort, man geht zu Fuß hin.
+
 WAS DU NICHT WEISST
 Konkrete Zimmerpreise, freie Termine, Zimmerkategorien, Stornobedingungen,
-Anfahrtsdauer, Öffnungstermine der Saison, Telefonnummer, Adresse im Detail,
-Haustierregelung, Parkplätze, Kinderermäßigungen.
+Anfahrtsdauer von auswärts, Öffnungstermine der Saison und der Lifte,
+Haustierregelung, Parkplätze, Kinderermäßigungen, Skiverleih, Skischule.
 All das steht hier bewusst nicht. Wenn danach gefragt wird: sag ehrlich, dass du
 es nicht weisst, und verweise auf die Rezeption.
 `;

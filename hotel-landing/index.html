@@ -73,9 +73,6 @@ a{color:inherit}
 .wrap{max-width:1180px;margin:0 auto;padding-inline:var(--rand)}
 .eng{max-width:62ch}
 
-/* Platzhalter, die noch ausgefüllt werden müssen. Fallen absichtlich auf. */
-.todo{background:rgba(221,169,74,.22);box-shadow:0 0 0 2px rgba(221,169,74,.22);border-radius:2px;font-weight:500}
-
 /* ---------- Hero ---------- */
 .hero{
   position:relative;
@@ -137,6 +134,7 @@ h1{
 .angebot__kopf{display:flex;flex-wrap:wrap;gap:36px;align-items:flex-end;justify-content:space-between}
 .angebot h2{font-size:clamp(1.9rem,4vw,2.9rem);line-height:1.08;max-width:18ch}
 .preis{font-family:var(--serif);font-size:clamp(2.2rem,5vw,3.4rem);line-height:1;white-space:nowrap}
+.preis--text{font-size:clamp(1.4rem,2.6vw,1.9rem);color:#3A445C}
 .preis small{display:block;font-family:var(--sans);font-size:.82rem;font-weight:400;color:#5D6880;letter-spacing:.02em;margin-top:10px;white-space:normal;max-width:26ch}
 
 .leistungen{
@@ -276,6 +274,7 @@ footer a{color:#C4D0E4}
 }
 .chat__form button:disabled{opacity:.45;cursor:default}
 .chat__fuss{padding:0 14px 12px;font-size:.75rem;color:#5F6B84;line-height:1.45}
+.chat__fuss a{color:#39435C;text-underline-offset:2px}
 
 @media (max-width:520px){
   .chat{right:0;bottom:0;width:100vw;height:100dvh;border-radius:0}
@@ -330,17 +329,16 @@ footer a{color:#C4D0E4}
   </div>
 </header>
 
-<!-- =========================== ANGEBOT ===========================
-     HIER PFLEGEN: Zeitraum, Nächte, Preis. Alles mit gelbem Hinter-
-     grund ist ein Platzhalter und muss vor dem Livegang ersetzt werden.
-     =============================================================== -->
+<!-- =========================== ANGEBOT =========================== -->
 <section class="angebot">
   <div class="wrap">
     <div class="angebot__kopf">
       <h2>Skiwochen 2026/27, vier Nächte mit Frühstück</h2>
-      <div class="preis">
-        ab € <span class="todo">000</span>
-        <small>pro Person im Doppelzimmer, Anreise <span class="todo">Zeitraum eintragen</span></small>
+      <!-- Sobald der Preis steht, diesen Block ersetzen durch:
+           <div class="preis">ab &euro; 480<small>pro Person im Doppelzimmer, Winter 2026/27</small></div> -->
+      <div class="preis preis--text">
+        Preis auf Anfrage
+        <small>vier Nächte im Doppelzimmer, Winter 2026/27</small>
       </div>
     </div>
 
@@ -403,7 +401,7 @@ footer a{color:#C4D0E4}
       </li>
       <li>
         <span class="uhr">Vormittag</span>
-        <p><strong>Rauf auf den Berg.</strong> Zur Bahn sind es <span class="todo">Gehminuten eintragen</span> zu Fuß. Skischuhe kannst du unten stehen lassen.</p>
+        <p><strong>Rauf auf den Berg.</strong> Die Bahn liegt im Ort, du gehst zu Fuß hin. Skischuhe kannst du unten stehen lassen.</p>
       </li>
       <li>
         <span class="uhr">Nachmittag</span>
@@ -421,16 +419,14 @@ footer a{color:#C4D0E4}
   </div>
 </section>
 
-<!-- =========================== SKIGEBIET ===========================
-     PRÜFEN: Zahlen vor dem Livegang auf serfaus-fiss-ladis.at gegenchecken.
-     ================================================================= -->
+<!-- =========================== SKIGEBIET =========================== -->
 <section class="berg">
   <div class="wrap">
     <h2>Serfaus-Fiss-Ladis liegt vor der Tür</h2>
     <div class="zahlen">
       <div class="zahl"><b>214 km</b><span>präparierte Pisten</span></div>
       <div class="zahl"><b>68</b><span>Bahnen und Lifte</span></div>
-      <div class="zahl"><b>2820 m</b><span>höchster Punkt</span></div>
+      <div class="zahl"><b>2828 m</b><span>höchster Punkt</span></div>
       <div class="zahl"><b>3</b><span>Dörfer, ein Skipass</span></div>
     </div>
   </div>
@@ -442,13 +438,12 @@ footer a{color:#C4D0E4}
     <h2>Schreib uns, wann du kommen willst</h2>
     <p>Zwei Zeilen reichen. Wir melden uns persönlich zurück, meistens noch am selben Tag.</p>
     <div class="knopfreihe" style="justify-content:center">
-      <!-- HIER PFLEGEN: E-Mail-Adresse und, falls vorhanden, Link zum Buchungssystem. -->
       <a class="knopf knopf--voll" href="mailto:info@hotel-gebhard.at?subject=Winteranfrage%202026%2F27">Anfrage per Mail</a>
     </div>
     <p class="kontaktzeile">
-      Boutique Hotel Gebhard, Fiss, Tirol &nbsp;·&nbsp;
-      Telefon <span class="todo">Nummer eintragen</span> &nbsp;·&nbsp;
-      <a href="https://www.hotel-gebhard.at">hotel-gebhard.at</a>
+      Boutique Hotel Gebhard, Via-Claudia-Augusta 36, 6533 Fiss<br>
+      <a href="tel:+4354766617">+43 5476 6617</a> &nbsp;·&nbsp;
+      <a href="mailto:info@hotel-gebhard.at">info@hotel-gebhard.at</a>
     </p>
   </div>
 </section>
@@ -480,7 +475,7 @@ footer a{color:#C4D0E4}
     <input id="chatFeld" type="text" maxlength="600" placeholder="Zum Beispiel: Gibt es Familienzimmer?" aria-label="Deine Frage">
     <button type="submit" id="chatSenden">Senden</button>
   </form>
-  <p class="chat__fuss">Antworten kommen von einem Assistenten. Für verbindliche Preise und freie Zimmer schreib uns bitte direkt.</p>
+  <p class="chat__fuss">Antworten kommen von einem Assistenten. Für verbindliche Preise und freie Zimmer schreib uns bitte direkt. Deine Frage wird zur Beantwortung an Anthropic in den USA übermittelt, mehr dazu in der <a href="https://www.hotel-gebhard.at/datenschutz.html">Datenschutzerklärung</a>.</p>
 </div>
 
 <script type="application/ld+json">
@@ -490,7 +485,9 @@ footer a{color:#C4D0E4}
   "name":"Boutique Hotel Gebhard",
   "description":"Modernes Alpine Boutique-Hotel mit 19 Zimmern in Fiss, Serfaus-Fiss-Ladis. Bed & Breakfast, Spa inklusive, keine festen Essenszeiten.",
   "url":"https://www.hotel-gebhard.at",
-  "address":{"@type":"PostalAddress","addressLocality":"Fiss","addressRegion":"Tirol","addressCountry":"AT"},
+  "address":{"@type":"PostalAddress","streetAddress":"Via-Claudia-Augusta 36","postalCode":"6533","addressLocality":"Fiss","addressRegion":"Tirol","addressCountry":"AT"},
+  "telephone":"+43 5476 6617",
+  "email":"info@hotel-gebhard.at",
   "numberOfRooms":19,
   "amenityFeature":[
     {"@type":"LocationFeatureSpecification","name":"Spa","value":true},
@@ -578,7 +575,18 @@ footer a{color:#C4D0E4}
         body: JSON.stringify({ messages: verlauf.slice(-12) })
       });
 
-      if (!res.ok || !res.body) throw new Error('HTTP ' + res.status);
+      // Gebremst oder abgelehnt: der Server schickt einen Klartext mit.
+      if (!res.ok) {
+        var grund = '';
+        try { grund = (await res.json()).error || ''; } catch (_) {}
+        warten.remove();
+        blase('fehler', grund || 'Das hat gerade nicht geklappt. Probier es nochmal oder schreib uns an info@hotel-gebhard.at.');
+        verlauf.pop();
+        laeuft = false;
+        senden.disabled = false;
+        return;
+      }
+      if (!res.body) throw new Error('kein Datenstrom');
 
       var reader  = res.body.getReader();
       var decoder = new TextDecoder();

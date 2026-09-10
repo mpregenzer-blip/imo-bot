@@ -6,6 +6,7 @@
 
 import Anthropic from "@anthropic-ai/sdk";
 import { WISSEN, HALTUNG } from "./wissen.js";
+import { pruefen, herkunft, zuruecknehmen } from "./grenzen.js";
 
 const client = new Anthropic();
 
@@ -43,6 +44,14 @@ export default async function handler(req, res) {
     return;
   }
 
+  const ip = herkunft(req);
+  const gebremst = pruefen(ip);
+  if (gebremst) {
+    res.setHeader("Retry-After", String(gebremst.sekunden));
+    res.status(429).json({ error: gebremst.text });
+    return;
+  }
+
   res.setHeader("Content-Type", "text/event-stream; charset=utf-8");
   res.setHeader("Cache-Control", "no-cache, no-transform");
   res.setHeader("Connection", "keep-alive");
@@ -53,7 +62,7 @@ export default async function handler(req, res) {
   try {
     const stream = client.messages.stream({
       model: MODELL,
-      max_tokens: 1200,
+      max_tokens: 800,
       output_config: { effort: "low" },
       system: [
         { type: "text", text: SYSTEM, cache_control: { type: "ephemeral" } },
@@ -79,6 +88,7 @@ export default async function handler(req, res) {
     res.end();
   } catch (fehler) {
     console.error("Chat fehlgeschlagen:", fehler);
+    zuruecknehmen(ip);
     if (res.headersSent) {
       schick({ error: "abgebrochen" });
       res.end();
