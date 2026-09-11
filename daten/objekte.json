@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 300000,
+  "kaufpreis": 390000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -352,6 +352,10 @@
    {
     "d": "2026-09-09",
     "p": 300000
+   },
+   {
+    "d": "2026-09-11",
+    "p": 390000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -9854,6 +9858,42 @@
   "erstmals_gesehen": "2026-09-10",
   "miete": 40,
   "id": "e5882816847",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Rum",
+  "ort": "Rum",
+  "plz": "6063",
+  "kaufpreis": 6063,
+  "qm": 67,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001L7b8j-073f03a3f3c4476389949639a85fa4a8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-11",
+    "p": 6063
+   }
+  ],
+  "erstmals_gesehen": "2026-09-11",
+  "miete": 871,
+  "id": "e6659547496",
   "status": "aktiv"
  }
 ]
