@@ -9895,5 +9895,113 @@
   "miete": 871,
   "id": "e6659547496",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Zams",
+  "ort": "Zams",
+  "plz": "6511",
+  "kaufpreis": 6511,
+  "qm": 6,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13a0-1789047948-999d31b0e1c649ad8f020d3299f6c64e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-11",
+    "p": 6511
+   }
+  ],
+  "erstmals_gesehen": "2026-09-11",
+  "miete": 69,
+  "id": "e9400296679",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Zams",
+  "ort": "Zams",
+  "plz": "6511",
+  "kaufpreis": 6511,
+  "qm": 19,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13a0-1789116237-4a897778551045e8a9a76ef3eb031847&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-11",
+    "p": 6511
+   }
+  ],
+  "erstmals_gesehen": "2026-09-11",
+  "miete": 218,
+  "id": "e5451426103",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Landeck",
+  "ort": "Landeck",
+  "plz": "6500",
+  "kaufpreis": 6500,
+  "qm": 45,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13a0-1779227442-b769e82ab1024cdebf6649f9809ce2b2&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-11",
+    "p": 6500
+   }
+  ],
+  "erstmals_gesehen": "2026-09-11",
+  "miete": 518,
+  "id": "e716914275",
+  "status": "aktiv"
  }
 ]
