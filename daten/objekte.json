@@ -360,6 +360,14 @@
    {
     "d": "2026-09-12",
     "p": 394500
+   },
+   {
+    "d": "2026-09-12",
+    "p": 390000
+   },
+   {
+    "d": "2026-09-12",
+    "p": 394500
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -10078,6 +10086,42 @@
   "erstmals_gesehen": "2026-09-12",
   "miete": 253,
   "id": "e3822188216",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 329000,
+  "qm": 3,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-12",
+    "p": 329000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-12",
+  "miete": 33,
+  "id": "e5342202023",
   "status": "aktiv"
  }
 ]
