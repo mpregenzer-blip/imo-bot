@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 390000,
+  "kaufpreis": 394500,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -356,6 +356,10 @@
    {
     "d": "2026-09-11",
     "p": 390000
+   },
+   {
+    "d": "2026-09-12",
+    "p": 394500
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -10002,6 +10006,78 @@
   "erstmals_gesehen": "2026-09-11",
   "miete": 518,
   "id": "e716914275",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 329000,
+  "qm": 3,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-12",
+    "p": 329000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-12",
+  "miete": 33,
+  "id": "e7325341041",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Hopfgarten",
+  "ort": "Hopfgarten-",
+  "plz": "6361",
+  "kaufpreis": 6361,
+  "qm": 23,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000ZvKh7-c5184fccc0db4736a9fdec59261d2a60&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-12",
+    "p": 6361
+   }
+  ],
+  "erstmals_gesehen": "2026-09-12",
+  "miete": 253,
+  "id": "e3822188216",
   "status": "aktiv"
  }
 ]
