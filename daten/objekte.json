@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 394500,
+  "kaufpreis": 334000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -368,6 +368,10 @@
    {
     "d": "2026-09-12",
     "p": 394500
+   },
+   {
+    "d": "2026-09-13",
+    "p": 334000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -10122,6 +10126,42 @@
   "erstmals_gesehen": "2026-09-12",
   "miete": 33,
   "id": "e5342202023",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Schwaz",
+  "ort": "Schwaz",
+  "plz": "6130",
+  "kaufpreis": 6130,
+  "qm": 92,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000tCpwk-98475f584c1b45ccb6dc2299a55c57ea&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-13",
+    "p": 6130
+   }
+  ],
+  "erstmals_gesehen": "2026-09-13",
+  "miete": 1012,
+  "id": "e5519055071",
   "status": "aktiv"
  }
 ]
