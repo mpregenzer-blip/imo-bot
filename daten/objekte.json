@@ -10363,5 +10363,41 @@
   "miete": 946,
   "id": "e945807503",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Jenbach",
+  "ort": "Jenbach",
+  "plz": "6200",
+  "kaufpreis": 6200,
+  "qm": 62,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001LzF98-1788950060-30a0dc2ec6fa4c4d8ef0f9998fc71d9e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-15",
+    "p": 6200
+   }
+  ],
+  "erstmals_gesehen": "2026-09-15",
+  "miete": 682,
+  "id": "e7278112714",
+  "status": "aktiv"
  }
 ]
