@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 397000,
+  "kaufpreis": 370000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -392,6 +392,10 @@
    {
     "d": "2026-09-14",
     "p": 397000
+   },
+   {
+    "d": "2026-09-15",
+    "p": 370000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -10398,6 +10402,78 @@
   "erstmals_gesehen": "2026-09-15",
   "miete": 682,
   "id": "e7278112714",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 79,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13ZL-e5e399ae1cfe40c2994b931f5eacb2f2&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-15",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-09-15",
+  "miete": 869,
+  "id": "e2885855406",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Brixen im",
+  "ort": "Brixen im",
+  "plz": "6364",
+  "kaufpreis": 6364,
+  "qm": 84,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000LoGTq-4747b20e29fe417785ba0a4c876efba6&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-15",
+    "p": 6364
+   }
+  ],
+  "erstmals_gesehen": "2026-09-15",
+  "miete": 924,
+  "id": "e3810499245",
   "status": "aktiv"
  }
 ]
