@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 370000,
+  "kaufpreis": 299000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -396,6 +396,10 @@
    {
     "d": "2026-09-15",
     "p": 370000
+   },
+   {
+    "d": "2026-09-16",
+    "p": 299000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -10546,6 +10550,114 @@
   "erstmals_gesehen": "2026-09-16",
   "miete": 2750,
   "id": "e6988603827",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 239000,
+  "qm": 250,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-16",
+    "p": 239000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-16",
+  "miete": 2750,
+  "id": "e4374405625",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Fieberbrunn",
+  "ort": "Fieberbrunn",
+  "plz": "6391",
+  "kaufpreis": 6391,
+  "qm": 44,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000HQBEC-65126cfbf921452399b083f1d4ac56b2&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-16",
+    "p": 6391
+   }
+  ],
+  "erstmals_gesehen": "2026-09-16",
+  "miete": 484,
+  "id": "e4252952271",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "4-Zi Imst",
+  "ort": "Imst",
+  "plz": "6460",
+  "kaufpreis": 6460,
+  "qm": 119,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1776677454-ed335c93260b4838919d05c45947f101&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-16",
+    "p": 6460
+   }
+  ],
+  "erstmals_gesehen": "2026-09-16",
+  "miete": 1428,
+  "betten": 4,
+  "id": "e5036950491",
   "status": "aktiv"
  }
 ]
