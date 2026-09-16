@@ -10475,5 +10475,77 @@
   "miete": 924,
   "id": "e3810499245",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Mayrhofen",
+  "ort": "Mayrhofen",
+  "plz": "6290",
+  "kaufpreis": 6290,
+  "qm": 69,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I000004BErr-31b0cc34c7d743eca2fe1d74bd329e86&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-16",
+    "p": 6290
+   }
+  ],
+  "erstmals_gesehen": "2026-09-16",
+  "miete": 759,
+  "id": "e9761860128",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 239000,
+  "qm": 250,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-16",
+    "p": 239000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-16",
+  "miete": 2750,
+  "id": "e6988603827",
+  "status": "aktiv"
  }
 ]
