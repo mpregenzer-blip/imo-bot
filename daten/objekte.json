@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 299000,
+  "kaufpreis": 325000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -400,6 +400,10 @@
    {
     "d": "2026-09-16",
     "p": 299000
+   },
+   {
+    "d": "2026-09-17",
+    "p": 325000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -10658,6 +10662,150 @@
   "miete": 1428,
   "betten": 4,
   "id": "e5036950491",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Grinzens",
+  "ort": "Grinzens",
+  "plz": "6095",
+  "kaufpreis": 6095,
+  "qm": 17,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I000003KAWv-7ecac63ed8904f49aebb68c67e6978f4&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-17",
+    "p": 6095
+   }
+  ],
+  "erstmals_gesehen": "2026-09-17",
+  "miete": 187,
+  "id": "e9052812642",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Leutasch",
+  "ort": "Leutasch",
+  "plz": "6105",
+  "kaufpreis": 6105,
+  "qm": 77,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000mW6um-02492614f7d9471c9a18241043d94779&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-17",
+    "p": 6105
+   }
+  ],
+  "erstmals_gesehen": "2026-09-17",
+  "miete": 847,
+  "id": "e1923533128",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Thiersee",
+  "ort": "Thiersee",
+  "plz": "6335",
+  "kaufpreis": 6335,
+  "qm": 42,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83TD-2a535099f9ad46bbaa25803d34c7a39f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-17",
+    "p": 6335
+   }
+  ],
+  "erstmals_gesehen": "2026-09-17",
+  "miete": 462,
+  "id": "e2304856384",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Steinach am",
+  "ort": "Steinach am",
+  "plz": "6150",
+  "kaufpreis": 6150,
+  "qm": 86,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1789635019-f2293d1b882a434ba6b701e4b7bb2eb7&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-17",
+    "p": 6150
+   }
+  ],
+  "erstmals_gesehen": "2026-09-17",
+  "miete": 946,
+  "id": "e7775980167",
   "status": "aktiv"
  }
 ]
