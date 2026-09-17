@@ -404,6 +404,14 @@
    {
     "d": "2026-09-17",
     "p": 325000
+   },
+   {
+    "d": "2026-09-17",
+    "p": 299000
+   },
+   {
+    "d": "2026-09-17",
+    "p": 325000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -10806,6 +10814,78 @@
   "erstmals_gesehen": "2026-09-17",
   "miete": 946,
   "id": "e7775980167",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Reith bei",
+  "ort": "Reith bei",
+  "plz": "6103",
+  "kaufpreis": 6103,
+  "qm": 40,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001nuTVM-f60111efe7a6461f97467c8f7f4ecddf&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-17",
+    "p": 6103
+   }
+  ],
+  "erstmals_gesehen": "2026-09-17",
+  "miete": 440,
+  "id": "e8857796120",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Mieders",
+  "ort": "Mieders",
+  "plz": "6142",
+  "kaufpreis": 6142,
+  "qm": 4,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001QetnM-1789638990-535a36be77e04ffc93350a5a67bee497&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-17",
+    "p": 6142
+   }
+  ],
+  "erstmals_gesehen": "2026-09-17",
+  "miete": 44,
+  "id": "e2329798124",
   "status": "aktiv"
  }
 ]
