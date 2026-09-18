@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 325000,
+  "kaufpreis": 385000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -412,6 +412,10 @@
    {
     "d": "2026-09-17",
     "p": 325000
+   },
+   {
+    "d": "2026-09-18",
+    "p": 385000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -10993,6 +10997,114 @@
   "erstmals_gesehen": "2026-09-18",
   "miete": 715,
   "id": "e7142650451",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 299000,
+  "qm": 4,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-18",
+    "p": 299000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-18",
+  "miete": 44,
+  "id": "e6557322936",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kitzbühel",
+  "ort": "Kitzbühel",
+  "plz": "6370",
+  "kaufpreis": 6370,
+  "qm": 42,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I000004Bcm6-2979fcdfba524fdb84ff045284582ab8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-18",
+    "p": 6370
+   }
+  ],
+  "erstmals_gesehen": "2026-09-18",
+  "miete": 462,
+  "id": "e2535882581",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Zams",
+  "ort": "Zams",
+  "plz": "6511",
+  "kaufpreis": 6511,
+  "qm": 14,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13a0-1789646452-23bc475784df4b968e0eacf7fe0dab0b&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-18",
+    "p": 6511
+   }
+  ],
+  "erstmals_gesehen": "2026-09-18",
+  "miete": 161,
+  "id": "e7124010699",
   "status": "aktiv"
  }
 ]
