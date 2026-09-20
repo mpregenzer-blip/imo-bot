@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 385000,
+  "kaufpreis": 259900,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -416,6 +416,10 @@
    {
     "d": "2026-09-18",
     "p": 385000
+   },
+   {
+    "d": "2026-09-20",
+    "p": 259900
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -11105,6 +11109,78 @@
   "erstmals_gesehen": "2026-09-18",
   "miete": 161,
   "id": "e7124010699",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Telfs",
+  "ort": "Telfs",
+  "plz": "6410",
+  "kaufpreis": 6410,
+  "qm": 51,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000d1H1X-1789813812-8fe0c12955e542b88dbf9b6161c0e0dc&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-20",
+    "p": 6410
+   }
+  ],
+  "erstmals_gesehen": "2026-09-20",
+  "miete": 561,
+  "id": "e4315079518",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Brixlegg",
+  "ort": "Brixlegg",
+  "plz": "6230",
+  "kaufpreis": 6230,
+  "qm": 79,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P9000006Uemj-b36a40741c3a419c98e9d0a75cac71a3&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-20",
+    "p": 6230
+   }
+  ],
+  "erstmals_gesehen": "2026-09-20",
+  "miete": 869,
+  "id": "e304781816",
   "status": "aktiv"
  }
 ]
