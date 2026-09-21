@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 259900,
+  "kaufpreis": 368000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -420,6 +420,10 @@
    {
     "d": "2026-09-20",
     "p": 259900
+   },
+   {
+    "d": "2026-09-21",
+    "p": 368000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -11181,6 +11185,186 @@
   "erstmals_gesehen": "2026-09-20",
   "miete": 869,
   "id": "e304781816",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Telfs",
+  "ort": "Telfs",
+  "plz": "6410",
+  "kaufpreis": 6410,
+  "qm": 56,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000WBYSl-1789937032-d86018825bec47da895e873e02fa7e4b&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-21",
+    "p": 6410
+   }
+  ],
+  "erstmals_gesehen": "2026-09-21",
+  "miete": 616,
+  "id": "e2191937481",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Götzens",
+  "ort": "Götzens",
+  "plz": "6091",
+  "kaufpreis": 6091,
+  "qm": 36,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13aX-064205cd5e894c069ca4314979606f4f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-21",
+    "p": 6091
+   }
+  ],
+  "erstmals_gesehen": "2026-09-21",
+  "miete": 396,
+  "id": "e5552737733",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Schwaz",
+  "ort": "Schwaz",
+  "plz": "6130",
+  "kaufpreis": 6130,
+  "qm": 80,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3r01-1773748211-5e315c785e6e451db22f53f954058a62&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-21",
+    "p": 6130
+   }
+  ],
+  "erstmals_gesehen": "2026-09-21",
+  "miete": 880,
+  "id": "e1391975069",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Arzl im",
+  "ort": "Arzl im",
+  "plz": "6471",
+  "kaufpreis": 6471,
+  "qm": 50,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000jxlYr-c14da8c6619d4403b9385c5a4e631562&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-21",
+    "p": 6471
+   }
+  ],
+  "erstmals_gesehen": "2026-09-21",
+  "miete": 550,
+  "id": "e8572844812",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Fulpmes",
+  "ort": "Fulpmes",
+  "plz": "6166",
+  "kaufpreis": 6166,
+  "qm": 93,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I000003KAWv-5fdd37f08cdb4faa9e40ece276c4e06f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-21",
+    "p": 6166
+   }
+  ],
+  "erstmals_gesehen": "2026-09-21",
+  "miete": 1023,
+  "id": "e8551581965",
   "status": "aktiv"
  }
 ]
