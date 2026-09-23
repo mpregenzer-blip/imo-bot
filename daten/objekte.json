@@ -448,6 +448,14 @@
    {
     "d": "2026-09-23",
     "p": 255000
+   },
+   {
+    "d": "2026-09-23",
+    "p": 205000
+   },
+   {
+    "d": "2026-09-23",
+    "p": 255000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -11748,6 +11756,42 @@
   "erstmals_gesehen": "2026-09-23",
   "miete": 39,
   "id": "e2213353355",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Brixen im",
+  "ort": "Brixen im",
+  "plz": "6364",
+  "kaufpreis": 6364,
+  "qm": 63,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E84Dt-f73d73cb727b4362a9e91f0ff8dd06e8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-23",
+    "p": 6364
+   }
+  ],
+  "erstmals_gesehen": "2026-09-23",
+  "miete": 693,
+  "id": "e8725745802",
   "status": "aktiv"
  }
 ]
