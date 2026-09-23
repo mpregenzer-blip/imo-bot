@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 205000,
+  "kaufpreis": 255000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -444,6 +444,10 @@
    {
     "d": "2026-09-22",
     "p": 205000
+   },
+   {
+    "d": "2026-09-23",
+    "p": 255000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -11636,6 +11640,114 @@
   "erstmals_gesehen": "2026-09-22",
   "miete": 66,
   "id": "e8201770840",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi St.",
+  "ort": "St.",
+  "plz": "6392",
+  "kaufpreis": 6392,
+  "qm": 39,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000J29Sr-706d2031b368463ca7ed1fc93180e2b9&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-23",
+    "p": 6392
+   }
+  ],
+  "erstmals_gesehen": "2026-09-23",
+  "miete": 429,
+  "id": "e2253675298",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Niederau",
+  "ort": "Niederau",
+  "plz": "6314",
+  "kaufpreis": 6314,
+  "qm": 28,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83tl-1790153794-12c53f87a320495e93a53f174f0c0f49&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-23",
+    "p": 6314
+   }
+  ],
+  "erstmals_gesehen": "2026-09-23",
+  "miete": 308,
+  "id": "e9450430071",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Rum",
+  "ort": "Rum",
+  "plz": "6063",
+  "kaufpreis": 6063,
+  "qm": 3,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001ShQ2P-1ab35c277d7345439e5866fd2bf245fe&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-23",
+    "p": 6063
+   }
+  ],
+  "erstmals_gesehen": "2026-09-23",
+  "miete": 39,
+  "id": "e2213353355",
   "status": "aktiv"
  }
 ]
