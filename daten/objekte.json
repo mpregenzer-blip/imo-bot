@@ -11829,5 +11829,113 @@
   "miete": 66,
   "id": "e5769180890",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Sistrans",
+  "ort": "Sistrans",
+  "plz": "6073",
+  "kaufpreis": 6073,
+  "qm": 37,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83gi-1789760061-c5a80e6e6a2c4794a7fc332efa0189e0&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-24",
+    "p": 6073
+   }
+  ],
+  "erstmals_gesehen": "2026-09-24",
+  "miete": 407,
+  "id": "e3532404518",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Reutte",
+  "ort": "Reutte",
+  "plz": "6600",
+  "kaufpreis": 6600,
+  "qm": 27,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83lS-1788244883-0ae01d0693c2479fbe04396abce7e1a8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-24",
+    "p": 6600
+   }
+  ],
+  "erstmals_gesehen": "2026-09-24",
+  "miete": 297,
+  "id": "e9829575416",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Völs",
+  "ort": "Völs",
+  "plz": "6176",
+  "kaufpreis": 6176,
+  "qm": 27,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1784729551-2dea8fc5d42f4bd4b62d78de17c5c283&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-24",
+    "p": 6176
+   }
+  ],
+  "erstmals_gesehen": "2026-09-24",
+  "miete": 297,
+  "id": "e5073435572",
+  "status": "aktiv"
  }
 ]
