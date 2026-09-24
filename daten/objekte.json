@@ -11793,5 +11793,41 @@
   "miete": 693,
   "id": "e8725745802",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Birgitz",
+  "ort": "Birgitz",
+  "plz": "6092",
+  "kaufpreis": 368000,
+  "qm": 6,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-24",
+    "p": 368000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-24",
+  "miete": 66,
+  "id": "e5769180890",
+  "status": "aktiv"
  }
 ]
