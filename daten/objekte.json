@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 255000,
+  "kaufpreis": 239850,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -456,6 +456,10 @@
    {
     "d": "2026-09-23",
     "p": 255000
+   },
+   {
+    "d": "2026-09-25",
+    "p": 239850
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -12044,6 +12048,42 @@
   "erstmals_gesehen": "2026-09-25",
   "miete": 33,
   "id": "e5753910560",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wenns",
+  "ort": "Wenns",
+  "plz": "6473",
+  "kaufpreis": 6473,
+  "qm": 55,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1790332150-dd91f4913ed2426992d4c9e8adc41aff&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-25",
+    "p": 6473
+   }
+  ],
+  "erstmals_gesehen": "2026-09-25",
+  "miete": 605,
+  "id": "e9411320429",
   "status": "aktiv"
  }
 ]
