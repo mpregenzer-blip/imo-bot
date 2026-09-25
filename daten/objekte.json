@@ -11937,5 +11937,113 @@
   "miete": 297,
   "id": "e5073435572",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Westendorf",
+  "ort": "Westendorf",
+  "plz": "6363",
+  "kaufpreis": 6363,
+  "qm": 50,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qo3-1761575373-196b6aad2c5345558e17a4b2d4fba097&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-25",
+    "p": 6363
+   }
+  ],
+  "erstmals_gesehen": "2026-09-25",
+  "miete": 550,
+  "id": "e7656109770",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Going am",
+  "ort": "Going am",
+  "plz": "6353",
+  "kaufpreis": 6353,
+  "qm": 109,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000hvBxg-1790185212-095c5197a7f84daea369b29a41fcfe62&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-25",
+    "p": 6353
+   }
+  ],
+  "erstmals_gesehen": "2026-09-25",
+  "miete": 1199,
+  "id": "e7035004670",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Vomp",
+  "ort": "Vomp",
+  "plz": "6134",
+  "kaufpreis": 6134,
+  "qm": 3,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83Wt-1790324567-41527520b8194233bcfe2e9269dd2a66&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-25",
+    "p": 6134
+   }
+  ],
+  "erstmals_gesehen": "2026-09-25",
+  "miete": 33,
+  "id": "e5753910560",
+  "status": "aktiv"
  }
 ]
