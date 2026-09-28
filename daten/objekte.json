@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 269000,
+  "kaufpreis": 255000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -464,6 +464,10 @@
    {
     "d": "2026-09-26",
     "p": 269000
+   },
+   {
+    "d": "2026-09-28",
+    "p": 255000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -12196,6 +12200,78 @@
   "erstmals_gesehen": "2026-09-27",
   "miete": 932,
   "id": "e7115350656",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 395000,
+  "qm": 10,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-28",
+    "p": 395000
+   }
+  ],
+  "erstmals_gesehen": "2026-09-28",
+  "miete": 110,
+  "id": "e8289172690",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Reith im",
+  "ort": "Reith im",
+  "plz": "6235",
+  "kaufpreis": 6235,
+  "qm": 72,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001xl4E4-1790241720-21cded7a726e4196a144bd78f1e25230&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-28",
+    "p": 6235
+   }
+  ],
+  "erstmals_gesehen": "2026-09-28",
+  "miete": 792,
+  "id": "e6230198171",
   "status": "aktiv"
  }
 ]
