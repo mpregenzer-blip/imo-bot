@@ -472,6 +472,14 @@
    {
     "d": "2026-09-29",
     "p": 386400
+   },
+   {
+    "d": "2026-09-29",
+    "p": 255000
+   },
+   {
+    "d": "2026-09-29",
+    "p": 386400
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -12456,6 +12464,42 @@
   "erstmals_gesehen": "2026-09-29",
   "miete": 836,
   "id": "e3128738910",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Brixlegg",
+  "ort": "Brixlegg",
+  "plz": "6230",
+  "kaufpreis": 6230,
+  "qm": 9,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000Bkf70-1790265641-b597cc31afce469783e1dde9102de3ae&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-09-29",
+    "p": 6230
+   }
+  ],
+  "erstmals_gesehen": "2026-09-29",
+  "miete": 99,
+  "id": "e593973113",
   "status": "aktiv"
  }
 ]
