@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 390000,
+  "kaufpreis": 215000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -492,6 +492,10 @@
    {
     "d": "2026-09-30",
     "p": 390000
+   },
+   {
+    "d": "2026-10-01",
+    "p": 215000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -12620,6 +12624,78 @@
   "erstmals_gesehen": "2026-09-30",
   "miete": 847,
   "id": "e3695089343",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Fieberbrunn",
+  "ort": "Fieberbrunn",
+  "plz": "6391",
+  "kaufpreis": 6391,
+  "qm": 38,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://s3.eu-west-1.amazonaws.com/static.www.immobilienscout24.at/mail/placeholder_img.png",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-01",
+    "p": 6391
+   }
+  ],
+  "erstmals_gesehen": "2026-10-01",
+  "miete": 418,
+  "id": "e1189103108",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Sistrans",
+  "ort": "Sistrans",
+  "plz": "6073",
+  "kaufpreis": 6073,
+  "qm": 71,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1790261455-7fa3b8d82484483ab3706334262267b6&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-01",
+    "p": 6073
+   }
+  ],
+  "erstmals_gesehen": "2026-10-01",
+  "miete": 781,
+  "id": "e6970169592",
   "status": "aktiv"
  }
 ]
