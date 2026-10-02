@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 215000,
+  "kaufpreis": 329000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -504,6 +504,10 @@
    {
     "d": "2026-10-01",
     "p": 215000
+   },
+   {
+    "d": "2026-10-02",
+    "p": 329000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -12740,6 +12744,42 @@
   "erstmals_gesehen": "2026-10-01",
   "miete": 1034,
   "id": "e854819208",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Going am",
+  "ort": "Going am",
+  "plz": "6353",
+  "kaufpreis": 6353,
+  "qm": 31,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qm0-1790927710-914686f86be941c89851840c436cd282&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-02",
+    "p": 6353
+   }
+  ],
+  "erstmals_gesehen": "2026-10-02",
+  "miete": 341,
+  "id": "e5355673042",
   "status": "aktiv"
  }
 ]
