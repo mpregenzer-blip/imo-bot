@@ -508,6 +508,14 @@
    {
     "d": "2026-10-02",
     "p": 329000
+   },
+   {
+    "d": "2026-10-02",
+    "p": 215000
+   },
+   {
+    "d": "2026-10-02",
+    "p": 329000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -12780,6 +12788,78 @@
   "erstmals_gesehen": "2026-10-02",
   "miete": 341,
   "id": "e5355673042",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Steinach am",
+  "ort": "Steinach am",
+  "plz": "6150",
+  "kaufpreis": 6150,
+  "qm": 58,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001rWzS1-ba3675f901f84bdd94da3ce2a37b32d8&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-02",
+    "p": 6150
+   }
+  ],
+  "erstmals_gesehen": "2026-10-02",
+  "miete": 638,
+  "id": "e8294152335",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Statz",
+  "ort": "Statz",
+  "plz": "6143",
+  "kaufpreis": 6143,
+  "qm": 72,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13aX-8b1b52b719f7476c81ebf51bfdb18c7f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-02",
+    "p": 6143
+   }
+  ],
+  "erstmals_gesehen": "2026-10-02",
+  "miete": 792,
+  "id": "e8815661181",
   "status": "aktiv"
  }
 ]
