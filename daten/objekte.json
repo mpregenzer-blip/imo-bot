@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 329000,
+  "kaufpreis": 283000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -516,6 +516,10 @@
    {
     "d": "2026-10-02",
     "p": 329000
+   },
+   {
+    "d": "2026-10-03",
+    "p": 283000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -12932,6 +12936,42 @@
   "erstmals_gesehen": "2026-10-03",
   "miete": 583,
   "id": "e2674483115",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 275000,
+  "qm": 200,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-03",
+    "p": 275000
+   }
+  ],
+  "erstmals_gesehen": "2026-10-03",
+  "miete": 2200,
+  "id": "e2242361191",
   "status": "aktiv"
  }
 ]
