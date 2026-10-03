@@ -12861,5 +12861,77 @@
   "miete": 792,
   "id": "e8815661181",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 275000,
+  "qm": 200,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-03",
+    "p": 275000
+   }
+  ],
+  "erstmals_gesehen": "2026-10-03",
+  "miete": 2200,
+  "id": "e3691941847",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Achenkirch",
+  "ort": "Achenkirch",
+  "plz": "6215",
+  "kaufpreis": 6215,
+  "qm": 53,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E8461-1774948184-1787c666bcf942a39b436f6fc98e260c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-03",
+    "p": 6215
+   }
+  ],
+  "erstmals_gesehen": "2026-10-03",
+  "miete": 583,
+  "id": "e2674483115",
+  "status": "aktiv"
  }
 ]
