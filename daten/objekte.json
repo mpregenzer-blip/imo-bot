@@ -528,6 +528,14 @@
    {
     "d": "2026-10-06",
     "p": 300495
+   },
+   {
+    "d": "2026-10-06",
+    "p": 399000
+   },
+   {
+    "d": "2026-10-06",
+    "p": 300495
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -13268,6 +13276,78 @@
   "erstmals_gesehen": "2026-10-06",
   "miete": 572,
   "id": "e5621721077",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Sistrans",
+  "ort": "Sistrans",
+  "plz": "6073",
+  "kaufpreis": 6073,
+  "qm": 25,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1791195884-6048d6b9cec34a969752758aab30f7a6&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-06",
+    "p": 6073
+   }
+  ],
+  "erstmals_gesehen": "2026-10-06",
+  "miete": 275,
+  "id": "e738001025",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Wörgl",
+  "ort": "Wörgl",
+  "plz": "6300",
+  "kaufpreis": 6300,
+  "qm": 106,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000G9f9p-1791272133-a5ff467fd92243249490b20d58b07612&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-06",
+    "p": 6300
+   }
+  ],
+  "erstmals_gesehen": "2026-10-06",
+  "miete": 1166,
+  "id": "e3264436938",
   "status": "aktiv"
  }
 ]
