@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 283000,
+  "kaufpreis": 300495,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -520,6 +520,14 @@
    {
     "d": "2026-10-03",
     "p": 283000
+   },
+   {
+    "d": "2026-10-06",
+    "p": 399000
+   },
+   {
+    "d": "2026-10-06",
+    "p": 300495
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -13116,6 +13124,150 @@
   "erstmals_gesehen": "2026-10-05",
   "miete": 1320,
   "id": "e4677998415",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Schwaz",
+  "ort": "Schwaz",
+  "plz": "6130",
+  "kaufpreis": 6130,
+  "qm": 86,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13aX-af9359f925364b4ea0f7c32f9134f153&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-06",
+    "p": 6130
+   }
+  ],
+  "erstmals_gesehen": "2026-10-06",
+  "miete": 946,
+  "id": "e6020234378",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kitzbühel",
+  "ort": "Kitzbühel",
+  "plz": "6370",
+  "kaufpreis": 6370,
+  "qm": 66,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001XUTdF-1791212696-bffc70c2372b4ad8ab4fc03709bcb202&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-06",
+    "p": 6370
+   }
+  ],
+  "erstmals_gesehen": "2026-10-06",
+  "miete": 726,
+  "id": "e9177913242",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Hippach",
+  "ort": "Hippach",
+  "plz": "6283",
+  "kaufpreis": 6283,
+  "qm": 40,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000iRSmu-1791229994-141373e88ff7499fbfc3870d4edcce01&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-06",
+    "p": 6283
+   }
+  ],
+  "erstmals_gesehen": "2026-10-06",
+  "miete": 440,
+  "id": "e1811514977",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Reutte",
+  "ort": "Reutte",
+  "plz": "6600",
+  "kaufpreis": 6600,
+  "qm": 52,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1791137208-2c35260eb1af4b60994b4ee3e0fcf1aa&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-06",
+    "p": 6600
+   }
+  ],
+  "erstmals_gesehen": "2026-10-06",
+  "miete": 572,
+  "id": "e5621721077",
   "status": "aktiv"
  }
 ]
