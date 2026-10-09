@@ -564,6 +564,14 @@
    {
     "d": "2026-10-09",
     "p": 225000
+   },
+   {
+    "d": "2026-10-09",
+    "p": 350000
+   },
+   {
+    "d": "2026-10-09",
+    "p": 225000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -13808,6 +13816,114 @@
   "erstmals_gesehen": "2026-10-09",
   "miete": 1100,
   "id": "e5690363864",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 225000,
+  "qm": 5,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-09",
+    "p": 225000
+   }
+  ],
+  "erstmals_gesehen": "2026-10-09",
+  "miete": 55,
+  "id": "e1380521374",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Telfs",
+  "ort": "Telfs",
+  "plz": "6410",
+  "kaufpreis": 6410,
+  "qm": 9,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000uz5Na-1788449613-d18f4c4e190a493f96acc805bb68654b&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-09",
+    "p": 6410
+   }
+  ],
+  "erstmals_gesehen": "2026-10-09",
+  "miete": 99,
+  "id": "e881594422",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Ebbs",
+  "ort": "Ebbs",
+  "plz": "6341",
+  "kaufpreis": 6341,
+  "qm": 36,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3r01-1791568828-86c66a3f572241ed8b24da0ac0608cb2&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-09",
+    "p": 6341
+   }
+  ],
+  "erstmals_gesehen": "2026-10-09",
+  "miete": 396,
+  "id": "e8082573658",
   "status": "aktiv"
  }
 ]
