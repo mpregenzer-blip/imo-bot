@@ -576,6 +576,14 @@
    {
     "d": "2026-10-10",
     "p": 359000
+   },
+   {
+    "d": "2026-10-10",
+    "p": 225000
+   },
+   {
+    "d": "2026-10-10",
+    "p": 359000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -13928,6 +13936,78 @@
   "erstmals_gesehen": "2026-10-09",
   "miete": 396,
   "id": "e8082573658",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Absam",
+  "ort": "Absam",
+  "plz": "6067",
+  "kaufpreis": 6067,
+  "qm": 82,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1791451021-a5597ef8b4764929b4e2dbdfe38b0d42&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-10",
+    "p": 6067
+   }
+  ],
+  "erstmals_gesehen": "2026-10-10",
+  "miete": 1025,
+  "id": "e5496786022",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wattens",
+  "ort": "Wattens",
+  "plz": "6112",
+  "kaufpreis": 6112,
+  "qm": 59,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkM-1791555673-5f3348e8f5034f2da390a418ea901174&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-10",
+    "p": 6112
+   }
+  ],
+  "erstmals_gesehen": "2026-10-10",
+  "miete": 708,
+  "id": "e2707717301",
   "status": "aktiv"
  }
 ]
