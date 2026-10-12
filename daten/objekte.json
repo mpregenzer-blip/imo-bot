@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 344000,
+  "kaufpreis": 245000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -596,6 +596,10 @@
    {
     "d": "2026-10-11",
     "p": 344000
+   },
+   {
+    "d": "2026-10-12",
+    "p": 245000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -14020,6 +14024,78 @@
   "erstmals_gesehen": "2026-10-10",
   "miete": 708,
   "id": "e2707717301",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 299999,
+  "qm": 25,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-12",
+    "p": 299999
+   }
+  ],
+  "erstmals_gesehen": "2026-10-12",
+  "miete": 275,
+  "id": "e9522289071",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Hart im",
+  "ort": "Hart im",
+  "plz": "6265",
+  "kaufpreis": 6265,
+  "qm": 51,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13aX-02a894b15c0d476eb394206e7a7b7982&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-12",
+    "p": 6265
+   }
+  ],
+  "erstmals_gesehen": "2026-10-12",
+  "miete": 561,
+  "id": "e648327386",
   "status": "aktiv"
  }
 ]
