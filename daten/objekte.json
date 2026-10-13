@@ -612,6 +612,14 @@
    {
     "d": "2026-10-13",
     "p": 350000
+   },
+   {
+    "d": "2026-10-13",
+    "p": 245000
+   },
+   {
+    "d": "2026-10-13",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -14180,6 +14188,78 @@
   "erstmals_gesehen": "2026-10-12",
   "miete": 1210,
   "id": "e8079288950",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Brixen im",
+  "ort": "Brixen im",
+  "plz": "6364",
+  "kaufpreis": 6364,
+  "qm": 75,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000g4M0B-407f474f67974c769e54a3a11bfb8778&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-13",
+    "p": 6364
+   }
+  ],
+  "erstmals_gesehen": "2026-10-13",
+  "miete": 825,
+  "id": "e8038108402",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Fritzens",
+  "ort": "Fritzens",
+  "plz": "6122",
+  "kaufpreis": 6122,
+  "qm": 11,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000SKo12-1791794397-2aba65e4abf642bcb45211293d105ddf&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-13",
+    "p": 6122
+   }
+  ],
+  "erstmals_gesehen": "2026-10-13",
+  "miete": 121,
+  "id": "e8235801187",
   "status": "aktiv"
  }
 ]
