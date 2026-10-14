@@ -624,6 +624,14 @@
    {
     "d": "2026-10-14",
     "p": 370000
+   },
+   {
+    "d": "2026-10-14",
+    "p": 350000
+   },
+   {
+    "d": "2026-10-14",
+    "p": 370000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -14336,6 +14344,42 @@
   "erstmals_gesehen": "2026-10-14",
   "miete": 55,
   "id": "e1646791242",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Hart im",
+  "ort": "Hart im",
+  "plz": "6265",
+  "kaufpreis": 6265,
+  "qm": 62,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000EmHQK-0d0d8011cd4b4a45add15c2965d2472d&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-14",
+    "p": 6265
+   }
+  ],
+  "erstmals_gesehen": "2026-10-14",
+  "miete": 682,
+  "id": "e1071418553",
   "status": "aktiv"
  }
 ]
