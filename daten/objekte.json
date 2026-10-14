@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 350000,
+  "kaufpreis": 370000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -620,6 +620,10 @@
    {
     "d": "2026-10-13",
     "p": 350000
+   },
+   {
+    "d": "2026-10-14",
+    "p": 370000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -14260,6 +14264,78 @@
   "erstmals_gesehen": "2026-10-13",
   "miete": 121,
   "id": "e8235801187",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Wörgl",
+  "ort": "Wörgl",
+  "plz": "6300",
+  "kaufpreis": 6300,
+  "qm": 26,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001snH7u-62b4665b1acd4de8a7e0b635a6a90901&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-14",
+    "p": 6300
+   }
+  ],
+  "erstmals_gesehen": "2026-10-14",
+  "miete": 286,
+  "id": "e8847360330",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Sistrans",
+  "ort": "Sistrans",
+  "plz": "6073",
+  "kaufpreis": 6073,
+  "qm": 5,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1790261884-2833e710adcd4f0a8ed42b1dc0b392ba&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-14",
+    "p": 6073
+   }
+  ],
+  "erstmals_gesehen": "2026-10-14",
+  "miete": 55,
+  "id": "e1646791242",
   "status": "aktiv"
  }
 ]
