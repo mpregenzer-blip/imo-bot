@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 184999,
+  "kaufpreis": 165000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -644,6 +644,10 @@
    {
     "d": "2026-10-15",
     "p": 184999
+   },
+   {
+    "d": "2026-10-16",
+    "p": 165000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -14392,6 +14396,78 @@
   "erstmals_gesehen": "2026-10-14",
   "miete": 682,
   "id": "e1071418553",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 383000,
+  "qm": 1,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-16",
+    "p": 383000
+   }
+  ],
+  "erstmals_gesehen": "2026-10-16",
+  "miete": 11,
+  "id": "e7753450477",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Seefeld in",
+  "ort": "Seefeld in",
+  "plz": "6100",
+  "kaufpreis": 6100,
+  "qm": 49,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83TM-1791302255-c21beb3c51ff42bcb08f257c90dafc02&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-16",
+    "p": 6100
+   }
+  ],
+  "erstmals_gesehen": "2026-10-16",
+  "miete": 539,
+  "id": "e5987075923",
   "status": "aktiv"
  }
 ]
