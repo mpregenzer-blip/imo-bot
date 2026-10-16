@@ -648,6 +648,14 @@
    {
     "d": "2026-10-16",
     "p": 165000
+   },
+   {
+    "d": "2026-10-16",
+    "p": 184999
+   },
+   {
+    "d": "2026-10-16",
+    "p": 165000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -14468,6 +14476,222 @@
   "erstmals_gesehen": "2026-10-16",
   "miete": 539,
   "id": "e5987075923",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 383000,
+  "qm": 1,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-16",
+    "p": 383000
+   }
+  ],
+  "erstmals_gesehen": "2026-10-16",
+  "miete": 11,
+  "id": "e9128888436",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Absam",
+  "ort": "Absam",
+  "plz": "6067",
+  "kaufpreis": 6067,
+  "qm": 89,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000OeVqT-1790797853-3719c79ef5b547e4a2ac28b7bf383083&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-16",
+    "p": 6067
+   }
+  ],
+  "erstmals_gesehen": "2026-10-16",
+  "miete": 1112,
+  "id": "e8608883260",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Kirchdorf in",
+  "ort": "Kirchdorf in",
+  "plz": "6382",
+  "kaufpreis": 6382,
+  "qm": 37,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001miM09-1791918950-ba393b9d938a4fe9b64ec98c2fc7dd0e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-16",
+    "p": 6382
+   }
+  ],
+  "erstmals_gesehen": "2026-10-16",
+  "miete": 407,
+  "id": "e757978844",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "3-Zi Ried im",
+  "ort": "Ried im",
+  "plz": "6531",
+  "kaufpreis": 6531,
+  "qm": 94,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1791468281-2363efd42c2e4fb8b963ec5feed5a953&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-16",
+    "p": 6531
+   }
+  ],
+  "erstmals_gesehen": "2026-10-16",
+  "miete": 1128,
+  "betten": 3,
+  "id": "e8303950378",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Schwaz",
+  "ort": "Schwaz",
+  "plz": "6130",
+  "kaufpreis": 6130,
+  "qm": 98,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000RLGvL-1786439704-cf2aa22f93ef41eb98032bce09029dfa&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-16",
+    "p": 6130
+   }
+  ],
+  "erstmals_gesehen": "2026-10-16",
+  "miete": 1078,
+  "id": "e4917213044",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "5-Zi Prägraten am",
+  "ort": "Prägraten am",
+  "plz": "9974",
+  "kaufpreis": 9974,
+  "qm": 85,
+  "zimmer": 5,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83kT-1779287891-aa6b060d95b0444db6da2c02a8a11f5a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-16",
+    "p": 9974
+   }
+  ],
+  "erstmals_gesehen": "2026-10-16",
+  "miete": 935,
+  "id": "e5539476752",
   "status": "aktiv"
  }
 ]
