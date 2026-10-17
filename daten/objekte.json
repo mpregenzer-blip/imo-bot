@@ -14693,5 +14693,77 @@
   "miete": 935,
   "id": "e5539476752",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Mils",
+  "ort": "Mils",
+  "plz": "6068",
+  "kaufpreis": 6068,
+  "qm": 7,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000iuW3t-1790249018-f9f997a851ab4d82b878f4b199772bd7&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-17",
+    "p": 6068
+   }
+  ],
+  "erstmals_gesehen": "2026-10-17",
+  "miete": 88,
+  "id": "e3886889761",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Buch",
+  "ort": "Buch",
+  "plz": "6220",
+  "kaufpreis": 6220,
+  "qm": 60,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000qeZUD-70d9a056c66141ccb902b2dbcb0916df&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-17",
+    "p": 6220
+   }
+  ],
+  "erstmals_gesehen": "2026-10-17",
+  "miete": 660,
+  "id": "e9272905872",
+  "status": "aktiv"
  }
 ]
