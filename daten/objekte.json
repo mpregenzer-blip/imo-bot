@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 398000,
+  "kaufpreis": 82000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -660,6 +660,10 @@
    {
     "d": "2026-10-17",
     "p": 398000
+   },
+   {
+    "d": "2026-10-19",
+    "p": 82000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -14768,6 +14772,42 @@
   "erstmals_gesehen": "2026-10-17",
   "miete": 660,
   "id": "e9272905872",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Axams",
+  "ort": "Axams",
+  "plz": "6094",
+  "kaufpreis": 6094,
+  "qm": 55,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83Ye-1788634244-1f68a1cc915c462c8d9d224d2650a079&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-19",
+    "p": 6094
+   }
+  ],
+  "erstmals_gesehen": "2026-10-19",
+  "miete": 605,
+  "id": "e2705869976",
   "status": "aktiv"
  }
 ]
