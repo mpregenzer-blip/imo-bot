@@ -14809,5 +14809,41 @@
   "miete": 605,
   "id": "e2705869976",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Innsbruck",
+  "ort": "Innsbruck",
+  "plz": "6020",
+  "kaufpreis": 6020,
+  "qm": 93,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Qg96P-1792410137-f4ad00f1e57c4089a83d224a19648f79&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-19",
+    "p": 6020
+   }
+  ],
+  "erstmals_gesehen": "2026-10-19",
+  "miete": 1023,
+  "id": "e4132117068",
+  "status": "aktiv"
  }
 ]
