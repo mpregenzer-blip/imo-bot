@@ -668,6 +668,14 @@
    {
     "d": "2026-10-20",
     "p": 250000
+   },
+   {
+    "d": "2026-10-20",
+    "p": 82000
+   },
+   {
+    "d": "2026-10-20",
+    "p": 250000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -14884,6 +14892,150 @@
   "erstmals_gesehen": "2026-10-20",
   "miete": 374,
   "id": "e2008807235",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kirchberg in",
+  "ort": "Kirchberg in",
+  "plz": "6365",
+  "kaufpreis": 6365,
+  "qm": 25,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001qpLvA-1790261396-e70a38f4c6b0443586d83f58b5d7f070&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-20",
+    "p": 6365
+   }
+  ],
+  "erstmals_gesehen": "2026-10-20",
+  "miete": 275,
+  "id": "e12082607",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Oberndorf in",
+  "ort": "Oberndorf in",
+  "plz": "6372",
+  "kaufpreis": 6372,
+  "qm": 56,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3r0h-1792488699-80d9a855ed4c42eb8beff72a6829c577&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-20",
+    "p": 6372
+   }
+  ],
+  "erstmals_gesehen": "2026-10-20",
+  "miete": 616,
+  "id": "e724879445",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "2-Zi Wildermieming",
+  "ort": "Wildermieming",
+  "plz": "6413",
+  "kaufpreis": 6413,
+  "qm": 60,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000RLGvL-1789037267-1fbe901ec12d4efcb0f7d03b7bc4fd69&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-20",
+    "p": 6413
+   }
+  ],
+  "erstmals_gesehen": "2026-10-20",
+  "miete": 720,
+  "betten": 2,
+  "id": "e7697822401",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Schwaz",
+  "ort": "Schwaz",
+  "plz": "6130",
+  "kaufpreis": 6130,
+  "qm": 68,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000BseoX-095eda44137144569313f0d487570aa2&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-20",
+    "p": 6130
+   }
+  ],
+  "erstmals_gesehen": "2026-10-20",
+  "miete": 748,
+  "id": "e5227839739",
   "status": "aktiv"
  }
 ]
