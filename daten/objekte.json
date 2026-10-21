@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 250000,
+  "kaufpreis": 366200,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -676,6 +676,10 @@
    {
     "d": "2026-10-20",
     "p": 250000
+   },
+   {
+    "d": "2026-10-21",
+    "p": 366200
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -15036,6 +15040,78 @@
   "erstmals_gesehen": "2026-10-20",
   "miete": 748,
   "id": "e5227839739",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 383000,
+  "qm": 7,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-21",
+    "p": 383000
+   }
+  ],
+  "erstmals_gesehen": "2026-10-21",
+  "miete": 77,
+  "id": "e4341811268",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Matrei in",
+  "ort": "Matrei in",
+  "plz": "9971",
+  "kaufpreis": 9971,
+  "qm": 87,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E84FE-1777455855-d77dd06c73a849f780b7a327f2e3ab8f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-21",
+    "p": 9971
+   }
+  ],
+  "erstmals_gesehen": "2026-10-21",
+  "miete": 957,
+  "id": "e2435183682",
   "status": "aktiv"
  }
 ]
