@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 366200,
+  "kaufpreis": 229200,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -688,6 +688,10 @@
    {
     "d": "2026-10-21",
     "p": 366200
+   },
+   {
+    "d": "2026-10-22",
+    "p": 229200
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -15192,6 +15196,150 @@
   "erstmals_gesehen": "2026-10-21",
   "miete": 792,
   "id": "e2176403956",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "3-Zi Haiming",
+  "ort": "Haiming",
+  "plz": "6425",
+  "kaufpreis": 6425,
+  "qm": 56,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3rA3-1774436756-b21ed5ba03e34218a53e1bd5756c35ff&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-22",
+    "p": 6425
+   }
+  ],
+  "erstmals_gesehen": "2026-10-22",
+  "miete": 672,
+  "betten": 3,
+  "id": "e6328248929",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Tösens",
+  "ort": "Tösens",
+  "plz": "6541",
+  "kaufpreis": 6541,
+  "qm": 51,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000KmDxH-1779782815-246b51147d734b9092d8b0fd6d5eaf51&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-22",
+    "p": 6541
+   }
+  ],
+  "erstmals_gesehen": "2026-10-22",
+  "miete": 561,
+  "id": "e8602935400",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Telfs",
+  "ort": "Telfs",
+  "plz": "6410",
+  "kaufpreis": 6410,
+  "qm": 0,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1792156750-9c8b1d6335704673b61614ac5e2fa2dd&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-22",
+    "p": 6410
+   }
+  ],
+  "erstmals_gesehen": "2026-10-22",
+  "miete": 0,
+  "id": "e8695533746",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Steinach am",
+  "ort": "Steinach am",
+  "plz": "6150",
+  "kaufpreis": 6150,
+  "qm": 82,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000Y6bqv-1766242370-f6354344f0d443baa56ea2934341256d&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-22",
+    "p": 6150
+   }
+  ],
+  "erstmals_gesehen": "2026-10-22",
+  "miete": 902,
+  "id": "e9218539437",
   "status": "aktiv"
  }
 ]
