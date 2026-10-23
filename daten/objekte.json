@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 229200,
+  "kaufpreis": 349000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -692,6 +692,10 @@
    {
     "d": "2026-10-22",
     "p": 229200
+   },
+   {
+    "d": "2026-10-23",
+    "p": 349000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -15340,6 +15344,114 @@
   "erstmals_gesehen": "2026-10-22",
   "miete": 902,
   "id": "e9218539437",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi St.",
+  "ort": "St.",
+  "plz": "6392",
+  "kaufpreis": 6392,
+  "qm": 1,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000J29Sr-2c30080e904a441781dd137bec2cc576&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-23",
+    "p": 6392
+   }
+  ],
+  "erstmals_gesehen": "2026-10-23",
+  "miete": 11,
+  "id": "e6858345464",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Kirchberg",
+  "ort": "Kirchberg",
+  "plz": "6365",
+  "kaufpreis": 6365,
+  "qm": 78,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001qpLvA-1792149844-49f580e95c3d4b71b0a383bb6d85df96&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-23",
+    "p": 6365
+   }
+  ],
+  "erstmals_gesehen": "2026-10-23",
+  "miete": 858,
+  "id": "e9593985915",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Schwaz",
+  "ort": "Schwaz",
+  "plz": "6130",
+  "kaufpreis": 6130,
+  "qm": 27,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkM-1792748656-47e4948caf684153b7789d605dc91ced&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-23",
+    "p": 6130
+   }
+  ],
+  "erstmals_gesehen": "2026-10-23",
+  "miete": 297,
+  "id": "e2117151795",
   "status": "aktiv"
  }
 ]
