@@ -15461,5 +15461,77 @@
   "miete": 297,
   "id": "e2117151795",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 360000,
+  "qm": 9,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-24",
+    "p": 360000
+   }
+  ],
+  "erstmals_gesehen": "2026-10-24",
+  "miete": 99,
+  "id": "e6173955587",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Axams",
+  "ort": "Axams",
+  "plz": "6094",
+  "kaufpreis": 6094,
+  "qm": 91,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000RKis2-1792589244-9dbac8a148d74bfa82e7de4ba0fc2d0a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-24",
+    "p": 6094
+   }
+  ],
+  "erstmals_gesehen": "2026-10-24",
+  "miete": 1001,
+  "id": "e5696551654",
+  "status": "aktiv"
  }
 ]
