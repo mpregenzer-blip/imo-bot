@@ -712,6 +712,14 @@
    {
     "d": "2026-10-25",
     "p": 290000
+   },
+   {
+    "d": "2026-10-25",
+    "p": 115000
+   },
+   {
+    "d": "2026-10-25",
+    "p": 290000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -15612,6 +15620,42 @@
   "erstmals_gesehen": "2026-10-24",
   "miete": 847,
   "id": "e7400053667",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kirchbichl",
+  "ort": "Kirchbichl",
+  "plz": "6322",
+  "kaufpreis": 6322,
+  "qm": 73,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000A5WJc-f13bfaa3d3f24aaa96c6d656a3d55b60&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-25",
+    "p": 6322
+   }
+  ],
+  "erstmals_gesehen": "2026-10-25",
+  "miete": 803,
+  "id": "e797563336",
   "status": "aktiv"
  }
 ]
