@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 290000,
+  "kaufpreis": 375000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -720,6 +720,10 @@
    {
     "d": "2026-10-25",
     "p": 290000
+   },
+   {
+    "d": "2026-10-26",
+    "p": 375000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -15692,6 +15696,150 @@
   "erstmals_gesehen": "2026-10-26",
   "miete": 506,
   "id": "e2341873019",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 247000,
+  "qm": 46,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-26",
+    "p": 247000
+   }
+  ],
+  "erstmals_gesehen": "2026-10-26",
+  "miete": 506,
+  "id": "e1024859172",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Obernberg am",
+  "ort": "Obernberg am",
+  "plz": "6157",
+  "kaufpreis": 6157,
+  "qm": 78,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000v0Juj-6e14b56540324f138ed3b21a3c6795be&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-26",
+    "p": 6157
+   }
+  ],
+  "erstmals_gesehen": "2026-10-26",
+  "miete": 858,
+  "id": "e9066346623",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kössen",
+  "ort": "Kössen",
+  "plz": "6345",
+  "kaufpreis": 6345,
+  "qm": 76,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001nDaWP-1793009518-c0876bbdca794180b836cc1f6de41e3a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-26",
+    "p": 6345
+   }
+  ],
+  "erstmals_gesehen": "2026-10-26",
+  "miete": 836,
+  "id": "e3590539539",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Zirl",
+  "ort": "Zirl",
+  "plz": "6170",
+  "kaufpreis": 6170,
+  "qm": 59,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000UeQx6-afa38154ae424a6fa74186bc49456fcd&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-26",
+    "p": 6170
+   }
+  ],
+  "erstmals_gesehen": "2026-10-26",
+  "miete": 708,
+  "id": "e8786826032",
   "status": "aktiv"
  }
 ]
