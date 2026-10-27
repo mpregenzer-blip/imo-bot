@@ -15877,5 +15877,41 @@
   "miete": 506,
   "id": "e7559698949",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 247000,
+  "qm": 46,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-27",
+    "p": 247000
+   }
+  ],
+  "erstmals_gesehen": "2026-10-27",
+  "miete": 506,
+  "id": "e7834360266",
+  "status": "aktiv"
  }
 ]
