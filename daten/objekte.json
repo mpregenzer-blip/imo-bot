@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 375000,
+  "kaufpreis": 369000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -724,6 +724,10 @@
    {
     "d": "2026-10-26",
     "p": 375000
+   },
+   {
+    "d": "2026-10-28",
+    "p": 369000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -15912,6 +15916,42 @@
   "erstmals_gesehen": "2026-10-27",
   "miete": 506,
   "id": "e7834360266",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Radfeld",
+  "ort": "Radfeld",
+  "plz": "6241",
+  "kaufpreis": 6241,
+  "qm": 78,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000KmDxH-1792765815-3000672801f84f7ebc4808c3945289bb&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-28",
+    "p": 6241
+   }
+  ],
+  "erstmals_gesehen": "2026-10-28",
+  "miete": 858,
+  "id": "e9980794196",
   "status": "aktiv"
  }
 ]
