@@ -15953,5 +15953,77 @@
   "miete": 858,
   "id": "e9980794196",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Arzl im",
+  "ort": "Arzl im",
+  "plz": "6471",
+  "kaufpreis": 6471,
+  "qm": 24,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13a0-1792778750-e4ced65845d34ba9a02817e0f2d7ba61&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-28",
+    "p": 6471
+   }
+  ],
+  "erstmals_gesehen": "2026-10-28",
+  "miete": 264,
+  "id": "e8017560926",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Telfs",
+  "ort": "Telfs",
+  "plz": "6410",
+  "kaufpreis": 6410,
+  "qm": 96,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000KmDxH-1793185925-4b3af118e61f40aeb56496d2b6770d94&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-28",
+    "p": 6410
+   }
+  ],
+  "erstmals_gesehen": "2026-10-28",
+  "miete": 1056,
+  "id": "e7217015324",
+  "status": "aktiv"
  }
 ]
