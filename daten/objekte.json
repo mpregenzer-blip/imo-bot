@@ -744,6 +744,14 @@
    {
     "d": "2026-10-30",
     "p": 245000
+   },
+   {
+    "d": "2026-10-30",
+    "p": 140000
+   },
+   {
+    "d": "2026-10-30",
+    "p": 245000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -16112,6 +16120,42 @@
   "erstmals_gesehen": "2026-10-30",
   "miete": 1176,
   "id": "e6165444774",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Landeck",
+  "ort": "Landeck",
+  "plz": "6500",
+  "kaufpreis": 6500,
+  "qm": 12,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3rA3-1793362336-f001b66ed1fb4afd86b960a0406d7a0a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-30",
+    "p": 6500
+   }
+  ],
+  "erstmals_gesehen": "2026-10-30",
+  "miete": 138,
+  "id": "e5374565486",
   "status": "aktiv"
  }
 ]
