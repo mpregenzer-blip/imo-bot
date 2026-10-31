@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 245000,
+  "kaufpreis": 350000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -752,6 +752,10 @@
    {
     "d": "2026-10-30",
     "p": 245000
+   },
+   {
+    "d": "2026-10-31",
+    "p": 350000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -16156,6 +16160,42 @@
   "erstmals_gesehen": "2026-10-30",
   "miete": 138,
   "id": "e5374565486",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Wörgl",
+  "ort": "Wörgl",
+  "plz": "6300",
+  "kaufpreis": 6300,
+  "qm": 31,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000hvBxg-1793381712-fa5cf60880fe408795f658adf68c8ebe&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-10-31",
+    "p": 6300
+   }
+  ],
+  "erstmals_gesehen": "2026-10-31",
+  "miete": 341,
+  "id": "e8092756653",
   "status": "aktiv"
  }
 ]
