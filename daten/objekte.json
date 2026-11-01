@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 350000,
+  "kaufpreis": 20,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -764,6 +764,10 @@
    {
     "d": "2026-10-31",
     "p": 350000
+   },
+   {
+    "d": "2026-11-01",
+    "p": 20
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -16276,6 +16280,78 @@
   "erstmals_gesehen": "2026-10-31",
   "miete": 671,
   "id": "e9783875345",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Absam",
+  "ort": "Absam",
+  "plz": "6067",
+  "kaufpreis": 315000,
+  "qm": 9,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-01",
+    "p": 315000
+   }
+  ],
+  "erstmals_gesehen": "2026-11-01",
+  "miete": 112,
+  "id": "e1613954925",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Vomp",
+  "ort": "Vomp",
+  "plz": "6134",
+  "kaufpreis": 6134,
+  "qm": 51,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P9000008WcdR-1793113556-ef7c597fdbb243e0946db4056ecf8900&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-01",
+    "p": 6134
+   }
+  ],
+  "erstmals_gesehen": "2026-11-01",
+  "miete": 561,
+  "id": "e1886222529",
   "status": "aktiv"
  }
 ]
