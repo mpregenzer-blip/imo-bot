@@ -792,6 +792,14 @@
    {
     "d": "2026-11-03",
     "p": 260000
+   },
+   {
+    "d": "2026-11-03",
+    "p": 295000
+   },
+   {
+    "d": "2026-11-03",
+    "p": 260000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -16556,6 +16564,150 @@
   "erstmals_gesehen": "2026-11-03",
   "miete": 407,
   "id": "e1243144083",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 245381,
+  "qm": 1,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-03",
+    "p": 245381
+   }
+  ],
+  "erstmals_gesehen": "2026-11-03",
+  "miete": 11,
+  "id": "e7308932031",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Stams",
+  "ort": "Stams",
+  "plz": "6422",
+  "kaufpreis": 6422,
+  "qm": 91,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qyU-1778075162-e34a4f4d61544bcba7234b893939bc7a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-03",
+    "p": 6422
+   }
+  ],
+  "erstmals_gesehen": "2026-11-03",
+  "miete": 1001,
+  "id": "e4382680573",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Kössen",
+  "ort": "Kössen",
+  "plz": "6345",
+  "kaufpreis": 6345,
+  "qm": 12,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000SQxe2-1790689967-b0f57001065744a88d3b7d661d2aefd3&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-03",
+    "p": 6345
+   }
+  ],
+  "erstmals_gesehen": "2026-11-03",
+  "miete": 132,
+  "id": "e3136658111",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Mayrhofen",
+  "ort": "Mayrhofen",
+  "plz": "6290",
+  "kaufpreis": 6290,
+  "qm": 32,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001qpLvA-1793714628-d1ac325a369442b7beb2291813a7513f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-03",
+    "p": 6290
+   }
+  ],
+  "erstmals_gesehen": "2026-11-03",
+  "miete": 352,
+  "id": "e83049522",
   "status": "aktiv"
  }
 ]
