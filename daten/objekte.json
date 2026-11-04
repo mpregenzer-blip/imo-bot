@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 260000,
+  "kaufpreis": 275000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -800,6 +800,10 @@
    {
     "d": "2026-11-03",
     "p": 260000
+   },
+   {
+    "d": "2026-11-04",
+    "p": 275000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -16708,6 +16712,150 @@
   "erstmals_gesehen": "2026-11-03",
   "miete": 352,
   "id": "e83049522",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 245381,
+  "qm": 1,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-04",
+    "p": 245381
+   }
+  ],
+  "erstmals_gesehen": "2026-11-04",
+  "miete": 11,
+  "id": "e3562465506",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Bad",
+  "ort": "Bad",
+  "plz": "6323",
+  "kaufpreis": 6323,
+  "qm": 55,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000vXdoH-768ff78e963843f5b09e9a9c67c2f626&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-04",
+    "p": 6323
+   }
+  ],
+  "erstmals_gesehen": "2026-11-04",
+  "miete": 605,
+  "id": "e858234011",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "5-Zi Buch in",
+  "ort": "Buch in",
+  "plz": "6220",
+  "kaufpreis": 6220,
+  "qm": 86,
+  "zimmer": 5,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J000022pguC-1793783117-36c2e4f43df8499baa02aef08e6c6ff1&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-04",
+    "p": 6220
+   }
+  ],
+  "erstmals_gesehen": "2026-11-04",
+  "miete": 946,
+  "id": "e5982141985",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Reutte",
+  "ort": "Reutte",
+  "plz": "6600",
+  "kaufpreis": 6600,
+  "qm": 100,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001nFGwS-1793781745-ad24e7d3ebcd4b15affb2f4d1943f27f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-04",
+    "p": 6600
+   }
+  ],
+  "erstmals_gesehen": "2026-11-04",
+  "miete": 1100,
+  "id": "e4216858106",
   "status": "aktiv"
  }
 ]
