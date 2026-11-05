@@ -816,6 +816,14 @@
    {
     "d": "2026-11-05",
     "p": 349000
+   },
+   {
+    "d": "2026-11-05",
+    "p": 275000
+   },
+   {
+    "d": "2026-11-05",
+    "p": 349000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -17012,6 +17020,78 @@
   "erstmals_gesehen": "2026-11-05",
   "miete": 704,
   "id": "e9150889087",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Grinzens",
+  "ort": "Grinzens",
+  "plz": "6095",
+  "kaufpreis": 6095,
+  "qm": 65,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000SKo12-1779190878-3a8e31ab24b84b3093ac718bf931f02a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-05",
+    "p": 6095
+   }
+  ],
+  "erstmals_gesehen": "2026-11-05",
+  "miete": 715,
+  "id": "e7805958552",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Jenbach",
+  "ort": "Jenbach",
+  "plz": "6200",
+  "kaufpreis": 6200,
+  "qm": 67,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000Bkf70-1793272874-b138358d9fc2463c8cc75f8c30453cc6&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-05",
+    "p": 6200
+   }
+  ],
+  "erstmals_gesehen": "2026-11-05",
+  "miete": 737,
+  "id": "e8021368036",
   "status": "aktiv"
  }
 ]
