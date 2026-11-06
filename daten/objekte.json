@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 349000,
+  "kaufpreis": 229000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -824,6 +824,10 @@
    {
     "d": "2026-11-05",
     "p": 349000
+   },
+   {
+    "d": "2026-11-06",
+    "p": 229000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -17092,6 +17096,78 @@
   "erstmals_gesehen": "2026-11-05",
   "miete": 737,
   "id": "e8021368036",
+  "status": "aktiv"
+ },
+ {
+  "kat": "mitarbeiter",
+  "titel": "2-Zi Serfaus",
+  "ort": "Serfaus",
+  "plz": "6534",
+  "kaufpreis": 6534,
+  "qm": 35,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001snH7F-aa7451b00fa846c693f876d94fd2bcbb&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "arbeitsweg": 60,
+   "dorfleben": 60,
+   "oeffi": 60,
+   "nahversorgung": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-06",
+    "p": 6534
+   }
+  ],
+  "erstmals_gesehen": "2026-11-06",
+  "miete": 472,
+  "betten": 2,
+  "id": "e126138211",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi St.",
+  "ort": "St.",
+  "plz": "6380",
+  "kaufpreis": 6380,
+  "qm": 88,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000J29Sr-1793962153-45939b0237a643e0a361d1857ec39769&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-06",
+    "p": 6380
+   }
+  ],
+  "erstmals_gesehen": "2026-11-06",
+  "miete": 968,
+  "id": "e8905383897",
   "status": "aktiv"
  }
 ]
