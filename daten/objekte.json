@@ -828,6 +828,14 @@
    {
     "d": "2026-11-06",
     "p": 229000
+   },
+   {
+    "d": "2026-11-06",
+    "p": 349000
+   },
+   {
+    "d": "2026-11-06",
+    "p": 229000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -17168,6 +17176,42 @@
   "erstmals_gesehen": "2026-11-06",
   "miete": 968,
   "id": "e8905383897",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Reutte",
+  "ort": "Reutte",
+  "plz": "6600",
+  "kaufpreis": 6600,
+  "qm": 83,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83lS-1793966936-388d026e47a2453e9c139ee30a7f4bb5&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-06",
+    "p": 6600
+   }
+  ],
+  "erstmals_gesehen": "2026-11-06",
+  "miete": 913,
+  "id": "e2171778155",
   "status": "aktiv"
  }
 ]
