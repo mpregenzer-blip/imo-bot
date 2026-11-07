@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 229000,
+  "kaufpreis": 290000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -836,6 +836,10 @@
    {
     "d": "2026-11-06",
     "p": 229000
+   },
+   {
+    "d": "2026-11-07",
+    "p": 290000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -17212,6 +17216,78 @@
   "erstmals_gesehen": "2026-11-06",
   "miete": 913,
   "id": "e2171778155",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "1-Zi Hall in",
+  "ort": "Hall in",
+  "plz": "6060",
+  "kaufpreis": 6060,
+  "qm": 1,
+  "zimmer": 1,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E83YD-1776765857-cd70c4e9ae01436497d8948d2c4460f6&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-07",
+    "p": 6060
+   }
+  ],
+  "erstmals_gesehen": "2026-11-07",
+  "miete": 11,
+  "id": "e4191926442",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Brixen im",
+  "ort": "Brixen im",
+  "plz": "6364",
+  "kaufpreis": 6364,
+  "qm": 67,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J000022sLjI-ec574c5af4ce4bcbb2ef6da9dfd0ab3d&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-07",
+    "p": 6364
+   }
+  ],
+  "erstmals_gesehen": "2026-11-07",
+  "miete": 737,
+  "id": "e4856996426",
   "status": "aktiv"
  }
 ]
