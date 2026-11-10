@@ -876,6 +876,14 @@
    {
     "d": "2026-11-10",
     "p": 399000
+   },
+   {
+    "d": "2026-11-10",
+    "p": 256000
+   },
+   {
+    "d": "2026-11-10",
+    "p": 399000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -17432,6 +17440,42 @@
   "erstmals_gesehen": "2026-11-10",
   "miete": 242,
   "id": "e2938462070",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Kufstein",
+  "ort": "Kufstein-",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 27,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001xl4E4-1790407787-f9b54c0b3d7f48fa81d70dc90dd131b1&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-10",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-11-10",
+  "miete": 297,
+  "id": "e1883959721",
   "status": "aktiv"
  }
 ]
