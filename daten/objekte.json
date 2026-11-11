@@ -17585,5 +17585,77 @@
   "miete": 627,
   "id": "e8877423318",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 365000,
+  "qm": 95,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-11",
+    "p": 365000
+   }
+  ],
+  "erstmals_gesehen": "2026-11-11",
+  "miete": 1045,
+  "id": "e4406631065",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Hall in",
+  "ort": "Hall in",
+  "plz": "6060",
+  "kaufpreis": 6060,
+  "qm": 95,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkL-699844d27b0e4567bae62ea6190f307c&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-11",
+    "p": 6060
+   }
+  ],
+  "erstmals_gesehen": "2026-11-11",
+  "miete": 1045,
+  "id": "e6080647796",
+  "status": "aktiv"
  }
 ]
