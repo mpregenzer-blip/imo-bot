@@ -17657,5 +17657,41 @@
   "miete": 1045,
   "id": "e6080647796",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 365000,
+  "qm": 95,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-12",
+    "p": 365000
+   }
+  ],
+  "erstmals_gesehen": "2026-11-12",
+  "miete": 1045,
+  "id": "e3811434243",
+  "status": "aktiv"
  }
 ]
