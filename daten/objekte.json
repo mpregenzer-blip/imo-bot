@@ -17981,5 +17981,41 @@
   "miete": 33,
   "id": "e4590582353",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Mils",
+  "ort": "Mils",
+  "plz": "6068",
+  "kaufpreis": 280000,
+  "qm": 7,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-15",
+    "p": 280000
+   }
+  ],
+  "erstmals_gesehen": "2026-11-15",
+  "miete": 88,
+  "id": "e6874467127",
+  "status": "aktiv"
  }
 ]
