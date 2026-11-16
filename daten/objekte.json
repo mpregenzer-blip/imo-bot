@@ -18021,5 +18021,41 @@
   "miete": 88,
   "id": "e6874467127",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "5-Zi Vomp",
+  "ort": "Vomp",
+  "plz": "6134",
+  "kaufpreis": 6134,
+  "qm": 100,
+  "zimmer": 5,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001ktVyQ-1794835050-679d813bc91d4a17904e6a4b8d9f5f89&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-16",
+    "p": 6134
+   }
+  ],
+  "erstmals_gesehen": "2026-11-16",
+  "miete": 1100,
+  "id": "e7218345084",
+  "status": "aktiv"
  }
 ]
