@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 280000,
+  "kaufpreis": 365000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -888,6 +888,10 @@
    {
     "d": "2026-11-16",
     "p": 280000
+   },
+   {
+    "d": "2026-11-17",
+    "p": 365000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -18056,6 +18060,78 @@
   "erstmals_gesehen": "2026-11-16",
   "miete": 1100,
   "id": "e7218345084",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 349000,
+  "qm": 0,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-17",
+    "p": 349000
+   }
+  ],
+  "erstmals_gesehen": "2026-11-17",
+  "miete": 0,
+  "id": "e972498423",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Waidring",
+  "ort": "Waidring",
+  "plz": "6384",
+  "kaufpreis": 6384,
+  "qm": 37,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.001P900000V6sWx-1794909118-510d4b4228b145f28acf65ef1edacbc9&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-17",
+    "p": 6384
+   }
+  ],
+  "erstmals_gesehen": "2026-11-17",
+  "miete": 407,
+  "id": "e623185449",
   "status": "aktiv"
  }
 ]
