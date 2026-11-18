@@ -904,6 +904,14 @@
    {
     "d": "2026-11-18",
     "p": 180000
+   },
+   {
+    "d": "2026-11-18",
+    "p": 365000
+   },
+   {
+    "d": "2026-11-18",
+    "p": 180000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -18324,6 +18332,150 @@
   "erstmals_gesehen": "2026-11-18",
   "miete": 900,
   "id": "e5078417047",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 349000,
+  "qm": 0,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-18",
+    "p": 349000
+   }
+  ],
+  "erstmals_gesehen": "2026-11-18",
+  "miete": 0,
+  "id": "e8150355424",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Weißenbach am",
+  "ort": "Weißenbach am",
+  "plz": "6671",
+  "kaufpreis": 6671,
+  "qm": 97,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1643982879-15b12ebdc4f246b59e857e79e70653e3&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-18",
+    "p": 6671
+   }
+  ],
+  "erstmals_gesehen": "2026-11-18",
+  "miete": 1067,
+  "id": "e9572064792",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Söll",
+  "ort": "Söll",
+  "plz": "6306",
+  "kaufpreis": 6306,
+  "qm": 53,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000ZvKh7-0c234679760a4703adeeb95d7fb3a4a1&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-18",
+    "p": 6306
+   }
+  ],
+  "erstmals_gesehen": "2026-11-18",
+  "miete": 583,
+  "id": "e6029058138",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Jenbach",
+  "ort": "Jenbach",
+  "plz": "6200",
+  "kaufpreis": 6200,
+  "qm": 24,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000c7kdk-8da9e54fff68470c809ecf4e69f1fcfd&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-18",
+    "p": 6200
+   }
+  ],
+  "erstmals_gesehen": "2026-11-18",
+  "miete": 264,
+  "id": "e6143755119",
   "status": "aktiv"
  }
 ]
