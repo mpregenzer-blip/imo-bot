@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 315000,
+  "kaufpreis": 250000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -924,6 +924,10 @@
    {
     "d": "2026-11-19",
     "p": 315000
+   },
+   {
+    "d": "2026-11-20",
+    "p": 250000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -18740,6 +18744,78 @@
   "erstmals_gesehen": "2026-11-19",
   "miete": 880,
   "id": "e5545677692",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 342000,
+  "qm": 7,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-20",
+    "p": 342000
+   }
+  ],
+  "erstmals_gesehen": "2026-11-20",
+  "miete": 77,
+  "id": "e1748456403",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Götzens",
+  "ort": "Götzens",
+  "plz": "6091",
+  "kaufpreis": 6091,
+  "qm": 93,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001Y13aX-064205cd5e894c069ca4314979606f4f&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-20",
+    "p": 6091
+   }
+  ],
+  "erstmals_gesehen": "2026-11-20",
+  "miete": 1023,
+  "id": "e6866701151",
   "status": "aktiv"
  }
 ]
