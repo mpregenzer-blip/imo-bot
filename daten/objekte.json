@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 299000,
+  "kaufpreis": 225000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -948,6 +948,10 @@
    {
     "d": "2026-11-21",
     "p": 299000
+   },
+   {
+    "d": "2026-11-22",
+    "p": 225000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -18908,6 +18912,42 @@
   "erstmals_gesehen": "2026-11-21",
   "miete": 902,
   "id": "e7907020855",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Absam",
+  "ort": "Absam",
+  "plz": "6067",
+  "kaufpreis": 295000,
+  "qm": 4,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-22",
+    "p": 295000
+   }
+  ],
+  "erstmals_gesehen": "2026-11-22",
+  "miete": 50,
+  "id": "e7735271192",
   "status": "aktiv"
  }
 ]
