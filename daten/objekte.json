@@ -18957,5 +18957,77 @@
   "miete": 50,
   "id": "e7735271192",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Sistrans",
+  "ort": "Sistrans",
+  "plz": "6073",
+  "kaufpreis": 6073,
+  "qm": 94,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E845g-1790260026-3312f60c607d4671bb05f2ea3646e1ab&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-23",
+    "p": 6073
+   }
+  ],
+  "erstmals_gesehen": "2026-11-23",
+  "miete": 1034,
+  "id": "e8366114078",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Volders",
+  "ort": "Volders",
+  "plz": "6111",
+  "kaufpreis": 6111,
+  "qm": 68,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000KmDxH-1794904497-2ea4adfa583c4501b0d52f6d24053c5d&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-23",
+    "p": 6111
+   }
+  ],
+  "erstmals_gesehen": "2026-11-23",
+  "miete": 748,
+  "id": "e4091883655",
+  "status": "aktiv"
  }
 ]
