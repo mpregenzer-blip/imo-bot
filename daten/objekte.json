@@ -19029,5 +19029,72 @@
   "miete": 748,
   "id": "e4091883655",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "3-Zi Kitzbühel",
+  "ort": "Kitzbühel",
+  "plz": "6370",
+  "kaufpreis": 6370,
+  "qm": 81,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3r0h-1793112609-835ddfd396a04bccb405f1d8346c5570&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-23",
+    "p": 6370
+   }
+  ],
+  "erstmals_gesehen": "2026-11-23",
+  "miete": 891,
+  "id": "e6311548028",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Kreuzlingen",
+  "ort": "Kreuzlingen",
+  "plz": "8280",
+  "kaufpreis": 0,
+  "qm": 0,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "https://www.immometrica.com/at/accounts/login/?next=/at/profile/subscription/choose/friday2026",
+  "bild": "https://ich.e.immometrica.net/images/immometrica/a0c6e186c5d504ad1b9ef2c0ae69cc22ca2c77f94e8e390e47a6b89fecf7ec9d",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [],
+  "erstmals_gesehen": "2026-11-23",
+  "miete": 0,
+  "id": "e4484225261",
+  "status": "aktiv"
  }
 ]
