@@ -19172,5 +19172,77 @@
   "miete": 1045,
   "id": "e2916407240",
   "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 377000,
+  "qm": 4,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-24",
+    "p": 377000
+   }
+  ],
+  "erstmals_gesehen": "2026-11-24",
+  "miete": 44,
+  "id": "e3972067572",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Going am",
+  "ort": "Going am",
+  "plz": "6353",
+  "kaufpreis": 6353,
+  "qm": 40,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qzS-1795538318-e98427a08cc847198614566c629e99a5&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-24",
+    "p": 6353
+   }
+  ],
+  "erstmals_gesehen": "2026-11-24",
+  "miete": 440,
+  "id": "e2844002052",
+  "status": "aktiv"
  }
 ]
