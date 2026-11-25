@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 350000,
+  "kaufpreis": 240000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -964,6 +964,10 @@
    {
     "d": "2026-11-24",
     "p": 350000
+   },
+   {
+    "d": "2026-11-25",
+    "p": 240000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -19243,6 +19247,150 @@
   "erstmals_gesehen": "2026-11-24",
   "miete": 440,
   "id": "e2844002052",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Neues Objekt",
+  "ort": "",
+  "plz": "",
+  "kaufpreis": 377000,
+  "qm": 4,
+  "zimmer": 3,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "",
+  "quelle": "E-Mail",
+  "pruefen": true,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-25",
+    "p": 377000
+   }
+  ],
+  "erstmals_gesehen": "2026-11-25",
+  "miete": 44,
+  "id": "e941518833",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Matrei in",
+  "ort": "Matrei in",
+  "plz": "9971",
+  "kaufpreis": 9971,
+  "qm": 66,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3r8t-1795513298-3f364d0db5004505b4e7045257976236&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-25",
+    "p": 9971
+   }
+  ],
+  "erstmals_gesehen": "2026-11-25",
+  "miete": 726,
+  "id": "e9161604901",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "4-Zi Zell",
+  "ort": "Zell",
+  "plz": "6330",
+  "kaufpreis": 6330,
+  "qm": 110,
+  "zimmer": 4,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001snH7u-2cf1b3e5ec934ad2999941da0cfd0358&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-25",
+    "p": 6330
+   }
+  ],
+  "erstmals_gesehen": "2026-11-25",
+  "miete": 1210,
+  "id": "e3869007130",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "Zi Volders",
+  "ort": "Volders",
+  "plz": "6111",
+  "kaufpreis": 6111,
+  "qm": 61,
+  "zimmer": 0,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0010J00001snH6x-1795542807-3eceeda44e43411d9cbd14ffd97ecc7d&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-25",
+    "p": 6111
+   }
+  ],
+  "erstmals_gesehen": "2026-11-25",
+  "miete": 671,
+  "id": "e9249271225",
   "status": "aktiv"
  }
 ]
