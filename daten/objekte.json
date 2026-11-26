@@ -40,7 +40,7 @@
   "titel": "5-Zi Landeck",
   "ort": "Landeck",
   "plz": "6500",
-  "kaufpreis": 240000,
+  "kaufpreis": 190000,
   "qm": 94,
   "zimmer": 5,
   "baujahr": 0,
@@ -976,6 +976,10 @@
    {
     "d": "2026-11-25",
     "p": 240000
+   },
+   {
+    "d": "2026-11-26",
+    "p": 190000
    }
   ],
   "erstmals_gesehen": "2026-07-13",
@@ -19435,6 +19439,114 @@
   "erstmals_gesehen": "2026-11-25",
   "miete": 44,
   "id": "e7769168990",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Jochberg",
+  "ort": "Jochberg",
+  "plz": "6373",
+  "kaufpreis": 6373,
+  "qm": 5,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3r0h-1795612621-b68de83a80c84c2cb69dee1d880da2b9&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-26",
+    "p": 6373
+   }
+  ],
+  "erstmals_gesehen": "2026-11-26",
+  "miete": 55,
+  "id": "e567337890",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Wörgl",
+  "ort": "Wörgl",
+  "plz": "6300",
+  "kaufpreis": 6300,
+  "qm": 1,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0015I00000J3ufa-1795628141-f05ab802201a4e71967a09ddb1a2a62e&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-26",
+    "p": 6300
+   }
+  ],
+  "erstmals_gesehen": "2026-11-26",
+  "miete": 11,
+  "id": "e8473489752",
+  "status": "aktiv"
+ },
+ {
+  "kat": "vorsorge",
+  "titel": "2-Zi Neustift im",
+  "ort": "Neustift im",
+  "plz": "6167",
+  "kaufpreis": 6167,
+  "qm": 34,
+  "zimmer": 2,
+  "baujahr": 0,
+  "makler": true,
+  "einheiten": 0,
+  "tage_online": 0,
+  "preissenkung": false,
+  "freizeit": "offen",
+  "link": "",
+  "bild": "https://pictures.immobilienscout24.de/prod.www.immobilienscout24.at/pictureserver/loadPicture?q=70&id=012.0012000001E3qkQ-1795548825-992bf55b74f4441bacc36bc838fdab9a&w=375&h=210",
+  "quelle": "E-Mail",
+  "pruefen": false,
+  "lage": {
+   "ruhe": 60,
+   "schule": 60,
+   "nahversorgung": 60,
+   "oeffi": 60,
+   "natur": 60
+  },
+  "hist": [
+   {
+    "d": "2026-11-26",
+    "p": 6167
+   }
+  ],
+  "erstmals_gesehen": "2026-11-26",
+  "miete": 374,
+  "id": "e7336667168",
   "status": "aktiv"
  }
 ]
